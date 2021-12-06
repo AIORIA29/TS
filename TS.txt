@@ -129,7 +129,7 @@ http://45.179.140.242:8000/play/a0id
 http://45.179.140.242:8000/play/a0je
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN COL
 http://45.179.140.242:8000/play/a0j5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNGg" tvg-language="Spanish"  group-title="TS-TV",ESPN EXTRA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_extra_latinoamerica-mediano.png" tvg-language="Spanish"  group-title="TS-TV",ESPN EXTRA
 http://200.229.147.16:8000/play/a01u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FX
 http://45.179.140.242:8000/play/a0jb
