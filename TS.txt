@@ -167,6 +167,8 @@ http://200.24.132.99:8000/play/a02e
 http://200.229.147.16:8000/play/a03k
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_multipremier_m.png" tvg-language="Spanish"  group-title="TS-TV",MULTIPREMIER
 http://200.229.147.16:8000/play/a03r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MC.png/150px-MC.png" tvg-language="Spanish"  group-title="TS-TV",MULTICINEMA
+http://200.229.147.16:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/d32620f0-6fae-4265-a63b-098f3980d9b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",NATGEO
 http://45.179.140.242:8000/play/a0h2
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2020/11/Natgeo-Kids-350x240.jpg" tvg-language="Spanish"  group-title="TS-TV",NATGEO KIDS
@@ -200,7 +202,7 @@ http://200.229.147.16:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1442548163596849165/sn60femd_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SONY
 http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SPACE
-http://45.179.140.242:8000/play/a0ja
+http://200.229.147.16:8000/play/a046
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="TS-TV",STUDIO UNIVERSAL
 http://200.229.147.16:8000/play/a03u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463771460594552832/Ds9T10Mo_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SKY SPORT
@@ -212,19 +214,19 @@ http://45.179.140.242:8000/play/a0ji
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TCM
 http://45.179.140.242:8000/play/a0k0
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" tvg-language="Spanish"  group-title="TS-TV",TLC
-http://45.179.140.242:8000/play/a0ii
+http://200.229.147.16:8000/play/a033
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TNT
 http://45.179.140.242:8000/play/a0k1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TNT SERIES
 http://200.229.147.16:8000/play/a01e
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/3eb1b3c4-e574-4d24-8810-85727602e734_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TELEMUNDO
-http://45.179.140.242:8000/play/a0il
+http://200.229.147.16:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" tvg-language="Spanish" group-title="TS-TV",TYC
-http://45.179.140.242:8000/play/a0k7
+http://45.179.140.242:8000/play/a0k7/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",UNIVERSAL
-http://45.179.140.242:8000/play/a0jw
+http://45.179.140.242:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1466523150846414854/66_Fu8Jh_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",WARNER CHANNEL
-http://45.179.140.242:8000/play/a0ia
+http://45.179.140.242:8000/play/a0ia/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2021/10/Chucky-Temporada-1-2021-HD-portada.jpg" tvg-name="EP01"  group-title="CHUCKY SERIE",EP01
 https://860700782.tapecontent.net/radosgw/KZr1wqjrApt0MZj/f-ikcF5nXX9dCF6bKx-3hzK97jGlqZZmrhvi4WTDd_XiZ6vJGTQi8aRDPN5lFcYAHiNJV_bs4rwU7eQoLgKwkJsNdIDXA_97kmvhpZhT66CfQCFr9i6V6CMY4nFn-4ZSPRUOt5pD4maaq1FvHCWetj98gLekYLaoZjEyqaDftywK29NCFy7wScg__aoSABm7JRLLc0A_ydzsVDdlrb56IAq101ItXAUt2_VSylCgx9-wDvIpdXnIQyIlR57aSCcGOpajEufVuFAgEtGPPN2J5myxbD1Pgm_4S3ex1BbZNgKUPM-cP74_Vsbt7cyAwRToUbbByEfsYkdB5UrY/Chvckv.1x01.%28Lat-HD-1080p%29.Entrepeliculasyseries.io.m3u
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2021/10/Chucky-Temporada-1-2021-HD-portada.jpg" tvg-name="EP02"  group-title="CHUCKY SERIE",EP02
