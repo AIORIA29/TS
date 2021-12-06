@@ -83,6 +83,8 @@ http://45.179.140.242:8000/play/a0ig
 http://45.179.140.242:8000/play/a0i9
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1461100491870556162/MONb14F1_400x400.jpg" tvg-language="Spanish""  group-title="TS-TV",AMC
 http://200.229.147.16:8000/play/a01n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" tvg-language="Spanish"  group-title="TS-TV",BEINS SPORT Ñ
+http://45.166.95.30:8000/play/6001lwstream
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_400x400.jpg" tvg-language="Spanish""  group-title="TS-TV",CNN EN ESPAÑOL
 http://45.179.140.242:8000/play/a0i6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" tvg-language="Spanish"  group-title="TS-TV",CANAL ESTRELLAS
@@ -193,6 +195,10 @@ http://45.179.140.242:8000/play/a0j8
 http://45.179.140.242:8000/play/a0ja
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="TS-TV"STUDIO UNIVERSAL
 http://200.229.147.16:8000/play/a03u
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463771460594552832/Ds9T10Mo_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV"SKY SPORT
+http://45.166.95.30:8000/play/a0ll
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445167612162347009/XcZjSQfL_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TUDN
+http://45.166.95.30:8000/play/6005lwstream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/125px-TBS_logo_2016.svg.png" tvg-language="Spanish"  group-title="TS-TV",TBS
 http://45.179.140.242:8000/play/a0ji
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TCM
@@ -224,22 +230,3 @@ https://908373051.tapecontent.net/radosgw/3B93ymdZyzi3D9/5U3Kg-L2xWn75mcwW2KE9CO
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2021/10/Chucky-Temporada-1-2021-HD-portada.jpg" tvg-name="EP06"  group-title="CHUCKY SERIE",EP06
 https://858142469.tapecontent.net/radosgw/JDV9XZG4aaIj1yA/48muLc-qiQpdGdgoXq9ZXeu7aIrirgeDqxrUVdhl-_MzBLzcvyh9UKcBnVDtrNRf0VmSfnKTpU7cxiNyLgvg8gxpMZsB5Kbkawxi70Mp8QDU2squDX3DPfY1_1BwrsY3ORU0Sw549DiSWL_SBvXu70GtWzw5_Lw3iyjRR0QjylOAcTLwijG723BzffPM6Twh_vug0iRvUu5powPeln5wKntzuLC6fIju5QcPsm69FMHCQlCIIBob9aJAGO4PhSJfbUdt679hzfZ9l1tie4UdtZJVZnFBUhA74f6gabJgm-z5U4c_yslUpfX3SNNUTB9RhHiNYTrftDXda437/Chvckv.1x06.%28Lat-HD-1080p%29.Entrepeliculasyseries.io.m3u
 
-
-
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-#EXTINF:-1 tvg-logo="https://preview.ibb.co/fjekc8/tvincon.png" tvg-language="Spanish"  group-title="TS-TV",
-
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8
-https://bcovlive-a.akamaihd.net/aead510610b0061280e800046f4c4ed9e9084e8dd0dc28647d87e6e1a444ccab/ca10f402-7a76-4734-80fe-f737c7fb102f_llhls/hls.m3u8
