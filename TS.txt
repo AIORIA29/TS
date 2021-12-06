@@ -41,15 +41,15 @@ https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/443px-Canal_5_HN_logo_2019.png" tvg-name="CANAL 5"  group-title="INTERNACIONAL",CANAL 5
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://noticias51.com/wp-content/uploads/2021/02/Logo-finalWEB.png" tvg-name="CANAL 51"  group-title="INTERNACIONAL",CANAL 51
+#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Canal-51.png" tvg-name="CANAL 51"  group-title="INTERNACIONAL",CANAL 51
 https://cn51.live/hls/streamcn51.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1459728008953147399/28B_SNFF_400x400.jpg" tvg-name="LKTV"  group-title="INTERNACIONAL",LKTV
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
-#EXTINF:-1 tvg-logo="http://azxtv.com/aztv.png" tvg-name="AMIME TV"  group-title="INTERNACIONAL",ANIME TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D02KthHN/aztv.png" tvg-name="AMIME TV"  group-title="INTERNACIONAL",ANIME TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png" tvg-name="DREIKO TV"  group-title="INTERNACIONAL",DREIKO TV
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/67cfee_49425450898040a0b4639d426e93bcba~mv2.png" tvg-name="CLASICO TV"  group-title="INTERNACIONAL",CLASICO TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a362da6b167b9f708756e382b3863a851dda4fb53bf2327ce94ae279a4e80d9b.png" tvg-name="TELE CLASICO"  group-title="INTERNACIONAL",TELE CLASICO
 https://tvdatta.com:3484/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CRPsvgCjfwI/XaYpYWIoHKI/AAAAAAABMrc/xRo2zq2aRMkHLBy6xjYaK7J4XLaumobzwCNcBGAsYHQ/s280/Nick_Latino_Channel_1080x1080_Square_Nickelodeon_Pluto_TV_Frame_Logo_2.png" tvg-name="NICK"  group-title="INTERNACIONAL",NICK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -65,13 +65,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" tvg-name="VEVO POP LATINO"  group-title="INTERNACIONAL",VEVO POP LATINO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, tvg-logo="http://panamahitradio.net/wp-content/uploads/2016/02/cropped-boom.fw_.png" tvg-name="PANAMA HIT RADIO"  group-title="RADIOS",PANAMA HIT RADIO 
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/949813745685073921/tk2baI36_400x400.jpg" tvg-name="PANAMA HIT RADIO"  group-title="RADIOS",PANAMA HIT RADIO 
 https://www.streaming507.net:8024/stream
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-panama.png" tvg-name="ORIGINAL STEREO"  group-title="RADIOS",ORIGINAL STEREO
 https://original.radioca.st/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/super-veraguas.png" tvg-name="SUPER STEREO"  group-title="RADIOS",SUPER STEREO
 http://11618.cloudrad.io:9124/live
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/950497606739906562/5R7ZPt9A_400x400.jpg" tvg-name="AM ORIGINAL"  group-title="RADIOS",AM ORIGINAL
+#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/original.png" tvg-name="AM ORIGINAL"  group-title="RADIOS",AM ORIGINAL
 http://rosetta.shoutca.st:9264/stream/1/
 #EXTINF:-1, tvg-logo="http://www.wao975.fm/wp-content/uploads/2012/08/logopng1.png", tvg-name="WAO"  group-title="RADIOS",WAO
 http://ic.streann.com:8000/wao
@@ -201,7 +201,7 @@ http://200.229.147.16:8000/play/a01a
 http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SPACE
 http://45.179.140.242:8000/play/a0ja
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TVSTUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="TS-TV",STUDIO UNIVERSAL
 http://200.229.147.16:8000/play/a03u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463771460594552832/Ds9T10Mo_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SKY SPORT
 http://45.166.95.30:8000/play/a0ll
@@ -215,7 +215,7 @@ http://45.179.140.242:8000/play/a0k0
 http://45.179.140.242:8000/play/a0ii
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TNT
 http://45.179.140.242:8000/play/a0k1
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpgg" tvg-language="Spanish"  group-title="TS-TV",TNT SERIES
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TNT SERIES
 http://200.229.147.16:8000/play/a01e
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/3eb1b3c4-e574-4d24-8810-85727602e734_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TELEMUNDO
 http://45.179.140.242:8000/play/a0il
