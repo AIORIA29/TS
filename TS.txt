@@ -23,8 +23,6 @@ https://stream-04.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpoOOmh08DzKmj-mH8M
 https://mediacp.us:8081/nex21/mono.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" tvg-name="+23"  group-title="LOCALES",+23
 https://mediacp.us:8081/23tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://fetv.org/wp-content/uploads/2018/02/fetv-logo.png" tvg-name="FETV"  group-title="LOCALES",FETV
-https://bcovlive-a.akamaihd.net/aead510610b0061280e800046f4c4ed9e9084e8dd0dc28647d87e6e1a444ccab/ca10f402-7a76-4734-80fe-f737c7fb102f_llhls/hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/210de2_6ad3fe5cb85b433d87d9dcf8b83847f4~mv2.png" tvg-name="BTV"  group-title="LOCALES",BTV
 https://cloud.streamingconnect.tv:455/btv/btv.m3u8
 #EXTINF:-1 tvg-logo="https://hosannavision.com/sites/default/files/logo-hosanna-vision_0_8.png" tvg-name="HOSANA VISION"  group-title="LOCALES",HOSANA VISION
@@ -67,12 +65,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" tvg-name="VEVO POP LATINO"  group-title="INTERNACIONAL",VEVO POP LATINO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, tvg-logo="http://panamahitradio.net/wp-content/uploads/2016/02/cropped-boom.fw_.png" tvg-name="PANAMA HIT RADIO"  group-title="RADIOS",PANAMA HIT RADIO 
+https://www.streaming507.net:8024/stream
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-panama.png" tvg-name="ORIGINAL STEREO"  group-title="RADIOS",ORIGINAL STEREO
 https://original.radioca.st/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/super-veraguas.png" tvg-name="SUPER STEREO"  group-title="RADIOS",SUPER STEREO
 http://11618.cloudrad.io:9124/live
-#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPER Q
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/950497606739906562/5R7ZPt9A_400x400.jpg" tvg-name="AM ORIGINAL"  group-title="RADIOS",AM ORIGINAL
+http://rosetta.shoutca.st:9264/stream/1/
+#EXTINF:-1, tvg-logo="http://www.wao975.fm/wp-content/uploads/2012/08/logopng1.png", tvg-name="WAO"  group-title="RADIOS",WAO
+http://ic.streann.com:8000/wao
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPERQ TV
 https://5f700d5b2c46f.streamlock.net/superqpanama/superqpanama/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://fotos.subefotos.com/b55779143f1d00bbaa18e5009701bb1co.jpg" tvg-name="FESTIVAL"  group-title="RADIOS",FESTIVAL
+https://www.streaming507.net:8128/stream
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPERQ
+https://sqserver.superqpanama.net:8005/superqpanama
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" tvg-language="Spanish"  group-title="TS-TV",AXN
 http://45.179.140.242:8000/play/a0j9
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" tvg-language="Spanish"  group-title="TS-TV",AZ CORAZON
@@ -155,9 +163,9 @@ http://45.179.140.242:8000/play/a0ju
 http://200.229.147.16:8000/play/a02c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" tvg-language="Spanish" group-title="TS-TV",H&H
 http://200.24.132.99:8000/play/a02e
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" tvg-language="Spanish"  group-title="TS-TV"ID
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ID
 http://200.229.147.16:8000/play/a03k
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_multipremier_m.png" tvg-language="Spanish"  group-title="TS-TV"MULTIPREMIER
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_multipremier_m.png" tvg-language="Spanish"  group-title="TS-TV",MULTIPREMIER
 http://200.229.147.16:8000/play/a03r
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/d32620f0-6fae-4265-a63b-098f3980d9b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",NATGEO
 http://45.179.140.242:8000/play/a0h2
@@ -193,9 +201,9 @@ http://200.229.147.16:8000/play/a01a
 http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SPACE
 http://45.179.140.242:8000/play/a0ja
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="TS-TV"STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TVSTUDIO UNIVERSAL
 http://200.229.147.16:8000/play/a03u
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463771460594552832/Ds9T10Mo_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV"SKY SPORT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463771460594552832/Ds9T10Mo_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SKY SPORT
 http://45.166.95.30:8000/play/a0ll
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445167612162347009/XcZjSQfL_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TUDN
 http://45.166.95.30:8000/play/6005lwstream
@@ -229,4 +237,3 @@ https://861138092.tapecontent.net/radosgw/46K1yvg7w7SKg84/hfxg-ftf2l-h55BT0OHguO
 https://908373051.tapecontent.net/radosgw/3B93ymdZyzi3D9/5U3Kg-L2xWn75mcwW2KE9CO2L6Vy2IlPtrCfamH_4HTjm8SBlJBj1lClRAO53JgtUV_Y21cmpevxgk4k_fvRdifhoInF89jLMTud4h25IL_Qne2u60FdT6s3rYaz1uPwZHrGzbLJWx46VMoCL2jRopaVR5Q3_e9OPEr4BgkHRV1LWaYOOlEm5UPwYUZoIqr19xPPaXJ6qpbu85KgQCgB-XhCmqEZrvok-HSY0JJFGRCyysQpL6mYa0bG2ZsghQJKovSJYHx8clS9EC03uemYg3Uk8tO4Nx-gU2djtxi2dnAjBCJFZbd5uRQzwcBuLoMvvOZz_vwPLpAmERo0/Chvckv.1x05.%28Lat-HD-1080p%29.Entrepeliculasyseries.io.m3u
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2021/10/Chucky-Temporada-1-2021-HD-portada.jpg" tvg-name="EP06"  group-title="CHUCKY SERIE",EP06
 https://858142469.tapecontent.net/radosgw/JDV9XZG4aaIj1yA/48muLc-qiQpdGdgoXq9ZXeu7aIrirgeDqxrUVdhl-_MzBLzcvyh9UKcBnVDtrNRf0VmSfnKTpU7cxiNyLgvg8gxpMZsB5Kbkawxi70Mp8QDU2squDX3DPfY1_1BwrsY3ORU0Sw549DiSWL_SBvXu70GtWzw5_Lw3iyjRR0QjylOAcTLwijG723BzffPM6Twh_vug0iRvUu5powPeln5wKntzuLC6fIju5QcPsm69FMHCQlCIIBob9aJAGO4PhSJfbUdt679hzfZ9l1tie4UdtZJVZnFBUhA74f6gabJgm-z5U4c_yslUpfX3SNNUTB9RhHiNYTrftDXda437/Chvckv.1x06.%28Lat-HD-1080p%29.Entrepeliculasyseries.io.m3u
-
