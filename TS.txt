@@ -8,7 +8,7 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" tvg-name="RPC HD"  group-title="LOCALES",RPC HD
 http://201.190.38.82:8000/play/a04k
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" tvg-name="TELEMETRO HD"  group-title="LOCALES",TELEMETRO HD
-http://201.111.77.24:8000/play/a06f
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/OYE_TV.jpg" tvg-name="OYE TV"  group-title="LOCALES",OYE TV
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecotvpanama.com/css-custom/323/images/logo-323.png" tvg-name="ECO TV"  group-title="LOCALES",ECO TV
@@ -113,6 +113,8 @@ http://200.229.147.16:8000/play/a008/index.m3u8
 http://45.179.140.242:8000/play/a0i5
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY TURBO
 http://45.179.140.242:8000/play/a0hi
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY ID
+http://200.229.147.16:8000/play/a03k
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/61f56bcb-1ac4-4421-8ff5-24d7303a15b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY CHANNEL
 http://45.179.140.242:8000/play/a0i7
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY JR
@@ -163,8 +165,6 @@ http://201.190.38.82:8000/play/a026
 http://200.229.147.16:8000/play/a02c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" tvg-language="Spanish" group-title="TS-TV",H&H
 http://200.24.132.99:8000/play/a02e
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ID
-http://200.229.147.16:8000/play/a03k
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_multipremier_m.png" tvg-language="Spanish"  group-title="TS-TV",MULTIPREMIER
 http://200.229.147.16:8000/play/a03r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MC.png/150px-MC.png" tvg-language="Spanish"  group-title="TS-TV",MULTICINEMA
