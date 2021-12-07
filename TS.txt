@@ -156,9 +156,9 @@ http://201.190.38.82:8000/play/a011
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ac977685-d710-405a-ac39-2c4a57f93bfa_m.jpg" tvg-language="Spanish"  group-title="TS-TV",HBO FAMILY
 http://201.190.38.82:8000/play/a013
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-language="Spanish"  group-title="TS-TV",HBO PLUS
-http://201.190.38.82:8000/play/a012/
+http://45.71.185.142:8500/play/a010
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" tvg-language="Spanish"  group-title="TS-TV",HBO XTREME
-http://201.190.38.82:8000/play/a014/
+http://45.71.185.142:8500/play/a011
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" tvg-language="Spanish" group-title="TS-TV",HISTORY 1
 http://201.190.38.82:8000/play/a026
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" tvg-language="Spanish" group-title="TS-TV",HISTORY 2
