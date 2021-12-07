@@ -111,8 +111,12 @@ http://45.71.185.142:8500/play/a00f
 http://45.166.95.30:8000/play/9026lwstream
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CINECANAL
 http://45.71.185.142:8500/play/a005
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CINECANAL OP2
+http://45.166.95.30:8000/play/9041lwstream
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CINEMAX
 http://45.71.185.142:8500/play/a02w
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CINEMAX OP2
+http://45.166.95.30:8000/play/9043lwstream
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",CLARO SPORTS
 http://45.71.185.142:8500/play/a03j
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/26431e28-bd69-4174-9abc-d509ddb267e8_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY CHANNEL
@@ -161,8 +165,12 @@ http://200.229.147.16:8000/play/a01u
 http://45.166.95.30:8000/play/9008lwstream
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FX
 http://45.71.185.142:8500/play/a030
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FX OP2
+http://45.166.95.30:8000/play/9053lwstream
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FXM
 http://45.71.185.142:8500/play/a00t
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FXM OP2
+http://45.166.95.30:8000/play/9054lwstream
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 2
 http://45.71.185.142:8500/play/a01n
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 2 OP2
@@ -312,6 +320,6 @@ https://s74.upstreamcdn.co/hls/w47rynlp2rbnx2nrozn22r5rky3coaob4quiax4gbcn2xqk25
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2021/10/Chucky-Temporada-1-2021-HD-portada.jpg" tvg-name="EP04"  group-title="CHUCKY SERIE",EP04
 https://s74.upstreamcdn.co/hls/w47rzig32vbnx2nrozg22x5pkc3rnatf2hfwg23nd6cexvmqnwanuybz7rga/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2021/10/Chucky-Temporada-1-2021-HD-portada.jpg" tvg-name="EP05"  group-title="CHUCKY SERIE",EP05
-https://stream-4491-212-99.pvdcdn.co/keohopqchqikkfn2mbvpqpslnwybfcl3ixvnrp7np5ngz44gcbm46hzr4i/v.m3u8
+https://stream-4491-212-99.pvdcdn.co/keohopqchqikkfn2mbvpqpslnwybfcl3ixvnrp7np5ngz44gcbm46hzr4i/v.mp4
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2021/10/Chucky-Temporada-1-2021-HD-portada.jpg" tvg-name="EP06"  group-title="CHUCKY SERIE",EP06
 https://s30.upstreamcdn.co/hls/w47ry6yv5zbnx2nro2k22s5bi4qdskx6tiua2k7u3bughxkk7vm7xigupk6q/master.m3u8
