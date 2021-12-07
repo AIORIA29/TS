@@ -281,7 +281,7 @@ http://45.166.95.30:8000/play/a0ll
 http://45.166.95.30:8000/play/6001lwstream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/490px-Tigo_Sports_logo.svg.png" tvg-language="Spanish"  group-title="TS-TV",TIGO SPORT
 http://45.166.95.30:8000/play/9028lwstream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/490px-Tigo_Sports_logo.svg.png" tvg-language="Spanish"  group-title="TS-TV",TDMAS CR
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1189755464386519041/2wI2B-TY_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TDMAS CR
 http://45.166.95.30:8000/play/9082lwstream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/125px-TBS_logo_2016.svg.png" tvg-language="Spanish"  group-title="TS-TV",TBS
 http://45.71.185.142:8500/play/a03k
