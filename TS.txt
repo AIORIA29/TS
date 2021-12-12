@@ -123,7 +123,7 @@ http://201.111.25.106:8000/play/a059
 http://189.129.31.59:8000/play/a018
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY WORLD
 http://201.111.25.106:8000/play/a056
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",DIRECT TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",DIRECTV SPORT
 http://146.0.43.38:8000/play/a005
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/61f56bcb-1ac4-4421-8ff5-24d7303a15b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY CHANNEL
 http://45.176.70.91:8000/play/a00v
@@ -227,7 +227,7 @@ http://45.176.70.91:8000/play/a017
 http://45.176.70.91:8000/play/a02k
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",UNIVERSAL
 http://45.176.70.91:8000/play/a01j
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1411007291915182090/VsOVvKpj_400x400.png" tvg-language = "Spanish" group-title = "TS-TV", UNIVISION
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1411007291915182090/VsOVvKpj_400x400.png" tvg-language="Spanish" group-title="TS-TV",UNIVISION
 http://201.111.25.106:8000/play/a058
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1466523150846414854/66_Fu8Jh_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",WARNER CHANNEL
 http://45.176.70.91:8000/play/a00y
