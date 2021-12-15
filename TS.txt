@@ -230,7 +230,7 @@ http://201.111.25.106:8000/play/a05f
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TNT SERIES
 http://201.111.25.106:8000/play/a053
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/3eb1b3c4-e574-4d24-8810-85727602e734_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TELEMUNDO
-http://45.160.73.129:8888/play/a03f
+http://181.78.20.43:8000/play/a0up
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/126c4368-ce89-4282-9b09-4f0f71bc8503_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TOONCAST
 http://190.108.83.142:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",UNIVERSAL
