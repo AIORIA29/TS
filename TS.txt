@@ -125,14 +125,8 @@ http://45.160.73.129:8888/play/a014
 http://201.111.25.106:8000/play/a056
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",DAZN
 http://78.201.98.110:8000/play/a0q7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",MOVISTAR LC
-http://78.201.98.110:8000/play/a09c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",MOVISTAR LA LIGA
 http://78.201.98.110:8000/play/a0q3
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",MOVISTAR LL
-http://78.201.98.110:8000/play/a0dv
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",MOVISTAR DEPORTES
-http://78.201.98.110:8000/play/a06x
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/61f56bcb-1ac4-4421-8ff5-24d7303a15b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY CHANNEL
 http://45.160.73.129:8888/play/a045
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY JR
