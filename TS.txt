@@ -203,7 +203,7 @@ http://201.131.201.126:8000/play/a00e
 http://201.111.25.106:8000/play/a05p
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-classics-logo-DA1825A08D-seeklogo.com.png" tvg-language="Spanish"  group-title="TS-TV",STAR CLASIC
 http://190.108.83.142:8000/play/a004
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GnsNJZY/descarga.png" tvg-language="Spanish"  group-title="TS-TV",STAR CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BqWQvb0/Sin-t-tulo.jpg" tvg-language="Spanish"  group-title="TS-TV",STAR CINEMA
 http://201.131.201.126:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-comedy-logo-2381B28051-seeklogo.com.png" tvg-language="Spanish"  group-title="TS-TV",STAR COMEDY
 http://201.131.201.126:8000/play/a00h
