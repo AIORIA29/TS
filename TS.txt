@@ -151,10 +151,6 @@ http://190.6.202.166:8000/play/a06h
 http://190.6.202.166:8000/play/a06g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.png" tvg-language="Spanish"  group-title="TS-TV",ESPN EXTRA
 http://190.6.202.166:8000/play/a027
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FX
-http://190.6.202.166:8000/play/a05r
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FXM
-http://190.108.83.142:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 1
 http://45.174.77.243:8000/play/a08z
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 2
@@ -163,6 +159,10 @@ http://45.174.77.243:8000/play/a090
 http://190.6.202.166:8000/play/a061
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 3
 http://190.6.202.166:8000/play/a06i
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FX
+http://190.6.202.166:8000/play/a05r
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FXM
+http://190.108.83.142:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445044876651995137/dzf98BT7_400x400.png" tvg-language="Spanish"  group-title="TS-TV",GOLDEN
 http://190.6.202.166:8000/play/a039
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412062181861072901/5OtMYWil_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",HBO
