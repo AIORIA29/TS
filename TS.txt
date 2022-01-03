@@ -38,7 +38,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL HD"  group-title="INTERNACIONAL",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/teletica_7_1.png" tvg-name="TELE TICA C7"  group-title="INTERNACIONAL",TELE TICA C7
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO52XcZXB2mNZMzkR-O0nHSHU)/dm/3/x29e3wg/s/live-3.m3u8
+http://190.6.202.166:8000/play/a02r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r7Tp7zp/music.png" tvg-name="TU MUSICA HD"  group-title="INTERNACIONAL",TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16dmryx/unnamed.jpg" tvg-name="PFM MUSIC"  group-title="INTERNACIONAL",PFM MUSIC
@@ -88,79 +88,81 @@ https://sqserver.superqpanama.net:8005/superqpanama
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",A&E 
 http://200.229.147.16:8000/play/a02y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" tvg-language="Spanish"  group-title="TS-TV",AXN
-http://45.71.202.211:8024/play/a08n
+http://190.6.202.166:8000/play/a05g
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" tvg-language="Spanish"  group-title="TS-TV",AZ CORAZON
-http://201.111.25.106:8000/play/a06p
+http://190.6.202.166:8000/play/a01p
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1093873117884235776/a3V9JWjh_400x400.jpg" tvg-language="Spanish""  group-title="TS-TV",ANIMAL PLANET
 http://200.229.147.16:8000/play/a031
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1461100491870556162/MONb14F1_400x400.jpg" tvg-language="Spanish""  group-title="TS-TV",AMC
-http://201.111.25.106:8000/play/a05z
+http://190.6.202.166:8000/play/a0ch
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_400x400.jpg" tvg-language="Spanish""  group-title="TS-TV",CNN EN ESPAÑOL
-http://201.111.25.106:8000/play/a071
+http://190.6.202.166:8000/play/a021
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" tvg-language="Spanish"  group-title="TS-TV",CANAL ESTRELLAS
-http://45.71.202.211:8024/play/a0ba
+http://200.24.159.179:8500/play/a01m
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455264162578317312/hLXnPpVi_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",CARTOON NETWORK
-http://201.111.25.106:8000/play/a06h
+http://200.24.159.179:8500/play/a00f
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CINECANAL
 http://200.229.147.16:8000/play/a03a
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CINEMAX
 http://45.160.73.129:8888/play/a03c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",CLARO SPORTS
-http://201.111.25.106:8000/play/a069
+http://200.24.159.179:8500/play/a03l
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" tvg-language="Spanish"  group-title="TS-TV",COMEDY CENTRAL
 http://190.108.83.142:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/26431e28-bd69-4174-9abc-d509ddb267e8_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY CHANNEL
-http://201.111.25.106:8000/play/a054
+http://190.6.202.166:8000/play/a06m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" tvg-language="Spanish" group-title="TS-TV",DISCOVERY H&H
-http://201.111.25.106:8000/play/a05h
+http://190.6.202.166:8000/play/a04t
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-kids_m.png" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY KIDS
-http://201.111.25.106:8000/play/a055
+http://190.6.202.166:8000/play/a06n
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY TURBO
 http://200.229.147.16:8000/play/a03i
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY ID
-http://201.111.25.106:8000/play/a059
+http://190.6.202.166:8000/play/a06r
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY TLC
 http://45.160.73.129:8888/play/a014
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY WORLD
-http://201.111.25.106:8000/play/a056
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",DAZN
+http://190.6.202.166:8000/play/a06o
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",DSPORT
 http://91.226.51.126:8000/udp/239.100.10.183:2234
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1259853726191321090/BXk05gei_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",MOVISTAR DEPORTES
-http://45.71.202.211:8024/play/a0ar
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/61f56bcb-1ac4-4421-8ff5-24d7303a15b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY CHANNEL
-http://45.160.73.129:8888/play/a045
+http://200.24.159.179:8500/play/a018
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY JR
-http://201.111.25.106:8000/play/a06k
+http://200.24.159.179:8500/play/a013
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY XD
-http://45.160.73.129:8888/play/a01h
+http://200.24.159.179:8500/play/a002
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1280970964256337920/mxW60cm-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",E!
-http://201.111.25.106:8000/play/a05w
+http://190.6.202.166:8000/play/a05m
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="TS-TV",ESPN
 http://200.24.159.179:8500/play/a01e
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 2 
-http://200.24.159.179:8500/play/a015
+http://190.6.202.166:8000/play/a06h
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN 3
 http://200.24.159.179:8500/play/a03b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 4 
 http://200.24.159.179:8500/play/a021
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN COL
-https://marine2.miplay.cl/espn/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN MX
+http://190.6.202.166:8000/play/a06f
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 2 MX
+http://200.24.159.179:8500/play/a015
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN 3 MX
+http://190.6.202.166:8000/play/a06g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.png" tvg-language="Spanish"  group-title="TS-TV",ESPN EXTRA
-http://201.111.25.106:8000/play/a077
+http://190.6.202.166:8000/play/a027
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FX
-http://201.111.25.106:8000/play/a061
+http://190.6.202.166:8000/play/a05r
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FXM
 http://190.108.83.142:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 1
-http://45.71.202.211:8024/play/a0a1
+http://45.174.77.243:8000/play/a08z
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 2
-http://201.111.25.106:8000/play/a05e
+http://45.174.77.243:8000/play/a090
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 2 CO
+http://190.6.202.166:8000/play/a061
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 3
-http://201.111.25.106:8000/play/a050
+http://190.6.202.166:8000/play/a06i
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445044876651995137/dzf98BT7_400x400.png" tvg-language="Spanish"  group-title="TS-TV",GOLDEN
-http://45.71.202.211:8024/play/a0at
-#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/1de7f9edd498d4abce8d9bd0b1ddd9e9o.jpg" tvg-language="Spanish" group-title="TS-TV",GOL TV
-http://146.0.43.38:8000/play/a00c
+http://190.6.202.166:8000/play/a039
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412062181861072901/5OtMYWil_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",HBO
 http://45.160.73.129:8888/play/a03b
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" tvg-language="Spanish"  group-title="TS-TV",HBO 2
@@ -172,55 +174,55 @@ http://45.160.73.129:8888/play/a05g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" tvg-language="Spanish"  group-title="TS-TV",HBO XTREME
 http://45.160.73.129:8888/play/a05b
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" tvg-language="Spanish" group-title="TS-TV",HISTORY 1
-http://45.71.202.211:8024/play/a08j
+http://190.6.202.166:8000/play/a026
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" tvg-language="Spanish" group-title="TS-TV",HISTORY 2
-http://45.71.202.211:8024/play/a0bh
+http://190.6.202.166:8000/play/a033
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_multipremier_m.png" tvg-language="Spanish"  group-title="TS-TV",MULTIPREMIER
 http://190.108.83.142:8000/play/a005
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qk4zByJ/MX-FAMILY.jpg" tvg-language="Spanish"  group-title="TS-TV",MX FAMILY
 http://190.108.83.142:8000/play/a002
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/d32620f0-6fae-4265-a63b-098f3980d9b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",NATGEO
-http://201.111.25.106:8000/play/a06t
+http://190.6.202.166:8000/play/a02y
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" tvg-language="Spanish"  group-title="TS-TV",NATGEO WILD
 http://190.108.83.142:8000/play/a00w
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2020/11/Natgeo-Kids-350x240.jpg" tvg-language="Spanish"  group-title="TS-TV",NATGEO KIDS
 http://45.160.73.129:8888/play/a01t
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/30ac595d-4dbd-4b72-a325-978cb5dfcd55_m.jpg" tvg-language="Spanish"  group-title="TS-TV",NICK JR
-http://201.111.25.106:8000/play/a06i
+http://200.24.159.179:8500/play/a038
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5d406120-a316-48a4-8bed-8a35bd86d795_m.jpg" tvg-language="Spanish"  group-title="TS-TV",NICK
-http://201.111.25.106:8000/play/a05d
+http://200.24.159.179:8500/play/a001
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1201537129572163585/uotYCBJW_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",NICK 2
-http://201.111.25.106:8000/play/a05c
+http://190.6.202.166:8000/play/a05z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/100px-Pasiones_Tv_logo.svg.png" tvg-language="Spanish"  group-title="TS-TV",PASIONES
-http://201.111.25.106:8000/play/a057
+http://190.6.202.166:8000/play/a06p
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410619325333917703/iCSeFgLC_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",PARAMOUNT
-http://45.71.202.211:8024/play/a0aj
+http://190.6.202.166:8000/play/a06k
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",STAR CHANNEL
-http://45.71.202.211:8024/play/a09x
+http://190.6.202.166:8000/play/a09t
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-atcion-logo-7391F231E8-seeklogo.com.png" tvg-language="Spanish"  group-title="TS-TV",STAR ACTION
 http://201.131.201.126:8000/play/a00e
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6091aceb4f73d3632eec6d63_star-fun.jpeg" tvg-language="Spanish"  group-title="TS-TV",STAR FUN
-http://201.111.25.106:8000/play/a05p
+http://190.6.202.166:8000/play/a06c
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-classics-logo-DA1825A08D-seeklogo.com.png" tvg-language="Spanish"  group-title="TS-TV",STAR CLASIC
 http://190.108.83.142:8000/play/a004
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BqWQvb0/Sin-t-tulo.jpg" tvg-language="Spanish"  group-title="TS-TV",STAR CINEMA
 http://201.131.201.126:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-comedy-logo-2381B28051-seeklogo.com.png" tvg-language="Spanish"  group-title="TS-TV",STAR COMEDY
-http://201.131.201.126:8000/play/a00h
+http://190.6.202.166:8000/play/a06s
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-hits-logo-59F5BBACBB-seeklogo.com.png" tvg-language="Spanish"  group-title="TS-TV",STAR HITS
-http://201.111.25.106:8000/play/a05n
+http://190.6.202.166:8000/play/a06a
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6091ae45fd4e92f672504ee2_star-series.jpeg" tvg-language="Spanish"  group-title="TS-TV",STAR SERIES
 http://201.131.201.126:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362836536505548803/T6XtjJpV_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",STAR LIFE
-http://201.111.25.106:8000/play/a06n
+http://190.6.202.166:8000/play/a01n
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1442548163596849165/sn60femd_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SONY
 http://45.160.73.129:8888/play/a03d
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SPACE
 http://45.160.73.129:8888/play/a03f
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" tvg-language="Spanish"  group-title="TS-TV",SYFY
-http://201.111.25.106:8000/play/a05u
+http://190.6.202.166:8000/play/a05k
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="TS-TV",STUDIO UNIVERSAL
-http://201.111.25.106:8000/play/a05t
+http://190.6.202.166:8000/play/a0cb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/490px-Tigo_Sports_logo.svg.png" tvg-language="Spanish"  group-title="TS-TV",TIGO SPORT
 http://201.111.25.106:8000/play/a05s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/125px-TBS_logo_2016.svg.png" tvg-language="Spanish"  group-title="TS-TV",TBS
@@ -228,16 +230,16 @@ http://45.160.73.129:8888/play/a026
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TCM
 http://200.229.147.16:8000/play/a02h
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TNT
-http://201.111.25.106:8000/play/a05f
+http://190.6.202.166:8000/play/a062
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TNT SERIES
-http://201.111.25.106:8000/play/a053
+http://190.6.202.166:8000/play/a06l
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/3eb1b3c4-e574-4d24-8810-85727602e734_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TELEMUNDO
-http://181.78.20.43:8000/play/a0up
+http://190.6.202.166:8000/play/a05q
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/126c4368-ce89-4282-9b09-4f0f71bc8503_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TOONCAST
 http://190.108.83.142:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",UNIVERSAL
 http://45.160.73.129:8888/play/a01l
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1411007291915182090/VsOVvKpj_400x400.png" tvg-language= "Spanish" group-title = "TS-TV", UNIVISION
-http://201.111.25.106:8000/play/a058
+http://190.6.202.166:8000/play/a0et
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="TS-TV",WARNER CHANNEL
 http://45.160.73.129:8888/play/a00f
