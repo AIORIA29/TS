@@ -127,8 +127,6 @@ http://190.6.202.166:8000/play/a06r
 http://45.160.73.129:8888/play/a014
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY WORLD
 http://190.6.202.166:8000/play/a06o
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1016323488016150528/j41zvKG-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",DSPORT
-http://91.226.51.126:8000/udp/239.100.10.183:2234
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/61f56bcb-1ac4-4421-8ff5-24d7303a15b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY CHANNEL
 http://200.24.159.179:8500/play/a018
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY JR
@@ -140,15 +138,15 @@ http://190.6.202.166:8000/play/a05m
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="TS-TV",ESPN
 http://200.24.159.179:8500/play/a01e
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 2 
-http://190.6.202.166:8000/play/a06h
+http://200.24.159.179:8500/play/a015
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN 3
 http://200.24.159.179:8500/play/a03b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 4 
 http://200.24.159.179:8500/play/a021
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN MX
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn_m.png" tvg-language="Spanish"  group-title="TS-TV",ESPN MX
 http://190.6.202.166:8000/play/a06f
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 2 MX
-http://200.24.159.179:8500/play/a015
+http://190.6.202.166:8000/play/a06h
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN 3 MX
 http://190.6.202.166:8000/play/a06g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.png" tvg-language="Spanish"  group-title="TS-TV",ESPN EXTRA
@@ -249,3 +247,17 @@ http://45.160.73.129:8888/play/a01l
 http://190.6.202.166:8000/play/a0et
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="TS-TV",WARNER CHANNEL
 http://45.160.73.129:8888/play/a00f
+#EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",CANAL+ SPORT HD
+http://91.226.51.126:8000/udp/239.100.10.183:2234
+#EXTINF:-1 tvg-logo="https://n-6-2.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66249.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",CANAL+ SPORT HD 2
+http://91.226.51.126:8000/udp/239.100.10.184:2234
+#EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66251.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",nSport+
+http://95.141.128.163:8004/play/a0a7
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",BT Sport
+http://158.69.117.205:9039/bt1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-2-uk.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",BT Sport 2
+http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",BT Sport 3
+http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Premier Sports
+http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
