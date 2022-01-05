@@ -101,8 +101,6 @@ http://187.49.191.6:8080/play/a011
 http://190.6.202.166:8000/play/a0ch
 #EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_400x400.jpg" tvg-language="Spanish""  group-title="TS-TV",CNN EN ESPAÑOL
 http://190.6.202.166:8000/play/a021
-#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/1171113998097534977/UhzmCM9E_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",CANAL CLARO
-http://200.24.159.179:8500/play/a03l
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" tvg-language="Spanish"  group-title="TS-TV",CANAL ESTRELLAS
 http://200.24.159.179:8500/play/a01m
 #EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-logo="https://cdn.mitvstatic.com/channels/13de30e5-a209-4dfe-a755-b161b7046ba1_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CARTOON NETWORK
@@ -219,6 +217,8 @@ http://190.6.202.166:8000/play/a062
 http://190.6.202.166:8000/play/a06l
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/3eb1b3c4-e574-4d24-8810-85727602e734_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TELEMUNDO
 http://190.6.202.166:8000/play/a05q
+#EXTINF:-1 tvg-id="tooncast.la" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png tvg-language="Spanish"  group-title="TS-TV",TOONCAST
+http://45.161.188.242:88/tooncast/mono.m3u8
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",UNIVERSAL
 http://45.160.73.129:8888/play/a01l
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411007291915182090/VsOVvKpj_400x400.png" tvg-language= "Spanish" group-title = "TS-TV", UNIVISION
@@ -226,7 +226,7 @@ http://190.6.202.166:8000/play/a0et
 #EXTINF:-1 tvg-id="warner.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="TS-TV",WARNER CHANNEL
 http://190.6.202.166:8000/play/a0eq
 #EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",CLARO SPORTS
-http://190.61.102.67:3150/play/a053
+http://200.24.159.179:8500/play/a03l
 ##EXTINF:-1 tvg-id="espn.co" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN
 http://200.24.159.179:8500/play/a01e
 #EXTINF:-1 tvg-id="espn2.cl" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 2 
@@ -256,9 +256,9 @@ http://181.198.67.2:8024/play/a0a1
 #EXTINF:-1 tvg-id="foxsports3.ar" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",FOX SPORTS 3
 http://190.6.202.166:8000/play/a06i
 #EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRpTbh3k9Dyrit2_MuHdKOdrN7nTiMvrEKdg&usqp=CAU.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",Movistar LaLiga
-http://w1j9xlb4.tvclub.xyz/iptv/YBLGEPYXHYDR2H/6073/index.m3u8
+http://w1j9xlb4.tvclub.xyz/iptv/4ZGFW3TSTWSFU9/6073/index.m3u8
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/800px-Movistar_Liga_de_Campeones.svg.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",Movistar LigaCampeones
-http://w1j9xlb4.tvclub.xyz/iptv/YBLGEPYXHYDR2H/6074/index.m3u8
+http://w1j9xlb4.tvclub.xyz/iptv/4ZGFW3TSTWSFU9/6074/index.m3u8
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,Movistar Deportes
 http://181.198.67.2:8024/play/a0ar
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ECDL
@@ -286,4 +286,16 @@ http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Premier Sports
 http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMdfsNy/descarga.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Viasat Fotball HD
-http://w1j9xlb4.tvclub.xyz/iptv/YBLGEPYXHYDR2H/5078/index.m3u8
+http://8vlzh0ux.megatv.fun/iptv/5D2XHCKEESWNB4/5078/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/150px-SKY_Basic_Logo.svg.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Sky Sport 1 HD DE
+http://w1j9xlb4.tvclub.xyz/iptv/4ZGFW3TSTWSFU9/2478/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/150px-SKY_Basic_Logo.svg.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Sky Sport 2 HD DE
+http://w1j9xlb4.tvclub.xyz/iptv/4ZGFW3TSTWSFU9/2479/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SKY_Basic_Logo.svg/150px-SKY_Basic_Logo.svg.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Sky Sport Bundesliga 1 HD DE
+http://w1j9xlb4.tvclub.xyz/iptv/4ZGFW3TSTWSFU9/2480/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Bein Sports 1 HD FR
+http://w1j9xlb4.tvclub.xyz/iptv/4ZGFW3TSTWSFU9/2499/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Bein Sports 2 HD FR
+http://w1j9xlb4.tvclub.xyz/iptv/4ZGFW3TSTWSFU9/2500/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Bein Sports 3 HD FR
+http://w1j9xlb4.tvclub.xyz/iptv/4ZGFW3TSTWSFU9/2501/index.m3u8
