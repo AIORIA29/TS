@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv.programadorx.cl/epg/gratis/abril/guide.xml.gz" url-tvg="https://i.mjh.nz/PlutoTV/us.xml.gz"
+#EXTM3U url-tvg="https://iptv.programadorx.cl/epg/gratis/abril/guide.xml.gz" "https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/J3ppj8N/imageonline-co-transparentimage.png" tvg-name="TVN HD"  group-title="LOCALES",TVN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3yKMkX8/unnamed-1.jpg," tvg-name="TVM HD 2"  group-title="LOCALES",TVN HD 2
@@ -111,8 +111,6 @@ http://200.229.147.16:8000/play/a03a
 http://45.160.73.129:8888/play/a03c
 #EXTINF:-1 tvg-id="clarocinema.co" tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CINE LATINO
 http://190.6.202.166:8000/play/a052
-#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",CLARO SPORTS
-http://200.24.159.179:8500/play/a03l
 #EXTINF:-1 tvg-id="comedycentral.las" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" tvg-language="Spanish"  group-title="TS-TV",COMEDY CENTRAL
 http://190.6.202.166:8000/play/a066
 #EXTINF:-1 tvg-id="discoverychannel.co" tvg-logo="https://cdn.mitvstatic.com/channels/26431e28-bd69-4174-9abc-d509ddb267e8_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY CHANNEL
@@ -132,7 +130,7 @@ http://45.160.73.129:8888/play/a014
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" tvg-language="Spanish"  group-title="TS-TV",DISCOVERY WORLD
 http://187.49.191.6:8080/play/a00c
 ##EXTINF:-1 tvg-id="disneychannel.cl" tvg-logo="https://cdn.mitvstatic.com/channels/61f56bcb-1ac4-4421-8ff5-24d7303a15b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY CHANNEL
-http://200.24.159.179:8500/play/a018
+http://200.24.159.179:8500/play/a017
 #EXTINF:-1 tvg-id="disneyjr.cl" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY JR
 http://200.24.159.179:8500/play/a013
 #EXTINF:-1 tvg-id="disneyxd.cl" tvg-logo="https://cdn.mitvstatic.com/channels/a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg" tvg-language="Spanish"  group-title="TS-TV",DISNEY XD
@@ -141,36 +139,6 @@ http://200.24.159.179:8500/play/a002
 http://190.6.202.166:8000/play/a05u
 #EXTINF:-1 tvg-id="222e!.cl" tvg-logo="https://pbs.twimg.com/profile_images/1280970964256337920/mxW60cm-_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",E!
 http://190.6.202.166:8000/play/a05m
-##EXTINF:-1 tvg-id="espn.co" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="TS-TV",ESPN
-http://200.24.159.179:8500/play/a01e
-#EXTINF:-1 tvg-id="espn2.cl" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 2 
-http://190.6.202.166:8000/play/a06h
-#EXTINF:-1 tvg-id="espn3.ar" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN 3
-http://200.24.159.179:8500/play/a03b
-#EXTINF:-1 tvg-id="foxsports.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 4 
-http://200.24.159.179:8500/play/a021
-#EXTINF:-1 tvg-id="espn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN MX
-http://190.6.202.166:8000/play/a06f
-#EXTINF:-1 tvg-id="espn-2.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 2 MX
-http://200.24.159.179:8500/play/a015
-#EXTINF:-1 tvg-id="espn3.mx" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="TS-TV",ESPN 3 MX
-http://190.6.202.166:8000/play/a06g
-#EXTINF:-1 tvg-id="foxsports.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="TS-TV",ESPN 4 MX
-http://190.6.202.166:8000/play/a05f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.png" tvg-language="Spanish"  group-title="TS-TV",ESPN EXTRA
-http://190.6.202.166:8000/play/a027
-#EXTINF:-1 tvg-id="217fx.cl" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FX
-http://190.6.202.166:8000/play/a05r
-#EXTINF:-1 tvg-id="505fxm.cl" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",FXM
-http://190.6.202.166:8000/play/a05t
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 1
-http://45.174.77.243:8000/play/a08z
-#EXTINF:-1 tvg-id="foxsports2.co" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 2
-http://45.174.77.243:8000/play/a090
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 2 CO
-http://190.6.202.166:8000/play/a061
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="TS-TV",FOX SPORTS 3
-http://190.6.202.166:8000/play/a06i
 #EXTINF:-1 tvg-id="golden.la" tvg-logo="https://pbs.twimg.com/profile_images/1445044876651995137/dzf98BT7_400x400.png" tvg-language="Spanish"  group-title="TS-TV",GOLDEN
 http://190.6.202.166:8000/play/a039
 #EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://pbs.twimg.com/profile_images/1412062181861072901/5OtMYWil_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",HBO
@@ -189,7 +157,7 @@ http://190.6.202.166:8000/play/a026
 http://190.6.202.166:8000/play/a033
 #EXTINF:-1 tvg-id="multipremier.la" tvg-logo="https://cdn.mitvstatic.com/channels/sv_multipremier_m.png" tvg-language="Spanish"  group-title="TS-TV",MULTIPREMIER
 http://190.6.202.166:8000/play/a051
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc-mediano.png" tvg-language="Spanish"  group-title="TS-TV",MULTICINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" tvg-language="Spanish"  group-title="TS-TV",MULTICINEMA
 http://187.49.191.6:8080/play/a01y
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/d32620f0-6fae-4265-a63b-098f3980d9b0_m.jpg" tvg-language="Spanish"  group-title="TS-TV",NATGEO
 http://190.6.202.166:8000/play/a02y
@@ -233,10 +201,8 @@ http://190.6.202.166:8000/play/a05h
 http://190.6.202.166:8000/play/a05k
 #EXTINF:-1 tvg-id="studiouniversal.co"tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="TS-TV",STUDIO UNIVERSAL
 http://190.6.202.166:8000/play/a0cb
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TD+CR
-http://187.49.191.6:8080/play/a022
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",TD+CR 2
-http://187.49.191.6:8080/play/a023
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-language="Spanish"  group-title="TS-TV",TELENOVELA
+http://190.61.102.67:3150/play/a08d
 #EXTINF:-1 tvg-id="tbs.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/125px-TBS_logo_2016.svg.png" tvg-language="Spanish"  group-title="TS-TV",TBS
 http://45.160.73.129:8888/play/a026
 #EXTINF:-1 tvg-id="tcm.la" tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg" tvg-language="Spanish"  group-title="TS-TV",TCM
@@ -253,6 +219,56 @@ http://45.160.73.129:8888/play/a01l
 http://190.6.202.166:8000/play/a0et
 #EXTINF:-1 tvg-id="warner.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="TS-TV",WARNER CHANNEL
 http://190.6.202.166:8000/play/a0eq
+#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",CLARO SPORTS
+http://200.24.159.179:8500/play/a03l
+##EXTINF:-1 tvg-id="espn.co" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN
+http://200.24.159.179:8500/play/a01e
+#EXTINF:-1 tvg-id="espn2.cl" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 2 
+http://190.6.202.166:8000/play/a06h
+#EXTINF:-1 tvg-id="espn3.ar" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 3
+http://200.24.159.179:8500/play/a03b
+#EXTINF:-1 tvg-id="foxsports.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 4 
+http://200.24.159.179:8500/play/a021
+#EXTINF:-1 tvg-id="espn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN MX
+http://190.6.202.166:8000/play/a06f
+#EXTINF:-1 tvg-id="espn-2.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 2 MX
+http://200.24.159.179:8500/play/a015
+#EXTINF:-1 tvg-id="espn3.mx" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 3 MX
+http://190.6.202.166:8000/play/a06g
+#EXTINF:-1 tvg-id="foxsports.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 4 MX
+http://190.6.202.166:8000/play/a05f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN EXTRA
+http://190.6.202.166:8000/play/a027
+#EXTINF:-1 tvg-id="217fx.cl" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",FX
+http://190.6.202.166:8000/play/a05r
+#EXTINF:-1 tvg-id="505fxm.cl" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",FXM
+http://190.6.202.166:8000/play/a05t
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",FOX SPORTS 1
+http://45.174.77.243:8000/play/a08z
+#EXTINF:-1 tvg-id="foxsports2.co" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",FOX SPORTS 2
+http://45.174.77.243:8000/play/a090
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",FOX SPORTS 2 CO
+http://190.6.202.166:8000/play/a061
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",FOX SPORTS 2 CL
+http://181.198.67.2:8024/play/a0a1
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",FOX SPORTS 3
+http://190.6.202.166:8000/play/a06i
+#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRpTbh3k9Dyrit2_MuHdKOdrN7nTiMvrEKdg&usqp=CAU.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",Movistar LaLiga
+http://8vlzh0ux.megatv.fun/iptv/5D2XHCKEESWNB4/6073/index.m3u8
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/800px-Movistar_Liga_de_Campeones.svg.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",Movistar LigaCampeones
+http://8vlzh0ux.megatv.fun/iptv/5D2XHCKEESWNB4/6074/index.m3u8
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.netlife.ec/wp-content/uploads/2021/08/Netlife-Play-futbol.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,Movistar Deportes
+http://181.198.67.2:8024/play/a0ar
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.netlife.ec/wp-content/uploads/2021/08/Netlife-Play-futbol.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ECDL
+http://181.198.67.2:8024/play/a0b5
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",GOL TV
+http://181.198.67.2:8024/play/a0ay
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://pbs.twimg.com/profile_images/1457766821222813701/QHurdDrm_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",TUDN
+http://190.61.102.67:3150/play/a08j
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",TD+CR
+http://187.49.191.6:8080/play/a022
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",TD+CR 2
+http://187.49.191.6:8080/play/a023
 #EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",CANAL+ SPORT HD
 http://91.226.51.126:8000/udp/239.100.10.183:2234
 #EXTINF:-1 tvg-logo="https://n-6-2.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66249.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",CANAL+ SPORT HD 2
@@ -267,10 +283,5 @@ http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8
 http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Premier Sports
 http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Viasat Fotboll HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMdfsNy/descarga.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Viasat Fotball HD
 http://8vlzh0ux.megatv.fun/iptv/5D2XHCKEESWNB4/5078/index.m3u8
-#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRpTbh3k9Dyrit2_MuHdKOdrN7nTiMvrEKdg&usqp=CAU.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑA",Movistar LaLiga
-http://8vlzh0ux.megatv.fun/iptv/5D2XHCKEESWNB4/6073/index.m3u8
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑA",Movistar Deportes
-http://8vlzh0ux.megatv.fun/iptv/5D2XHCKEESWNB4/6074/index.m3u8
-
