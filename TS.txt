@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AIORIA29/TS/main/guide.xml"
+#EXTM3U url-tvg="https://github.com/AIORIA29/TS/raw/main/guide.xml"
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/J3ppj8N/imageonline-co-transparentimage.png" tvg-name="TVN HD"  group-title="LOCALES",TVN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3yKMkX8/unnamed-1.jpg," tvg-name="TVM HD 2"  group-title="LOCALES",TVN HD 2
