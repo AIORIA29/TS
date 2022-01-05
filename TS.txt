@@ -101,6 +101,8 @@ http://187.49.191.6:8080/play/a011
 http://190.6.202.166:8000/play/a0ch
 #EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_400x400.jpg" tvg-language="Spanish""  group-title="TS-TV",CNN EN ESPAÑOL
 http://190.6.202.166:8000/play/a021
+#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/1171113998097534977/UhzmCM9E_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",CANAL CLARO
+http://200.24.159.179:8500/play/a03l
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" tvg-language="Spanish"  group-title="TS-TV",CANAL ESTRELLAS
 http://200.24.159.179:8500/play/a01m
 #EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-logo="https://cdn.mitvstatic.com/channels/13de30e5-a209-4dfe-a755-b161b7046ba1_m.jpg" tvg-language="Spanish"  group-title="TS-TV",CARTOON NETWORK
@@ -224,7 +226,7 @@ http://190.6.202.166:8000/play/a0et
 #EXTINF:-1 tvg-id="warner.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="TS-TV",WARNER CHANNEL
 http://190.6.202.166:8000/play/a0eq
 #EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",CLARO SPORTS
-http://200.24.159.179:8500/play/a03l
+http://190.61.102.67:3150/play/a053
 ##EXTINF:-1 tvg-id="espn.co" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN
 http://200.24.159.179:8500/play/a01e
 #EXTINF:-1 tvg-id="espn2.cl" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 2 
