@@ -41,13 +41,13 @@ https://mdstrm.com/live-stream-playlist/5ddc34626e84010896e952f2.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL HD"  group-title="TS-TV",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/teletica_7_1.png" tvg-name="TELE TICA C7"  group-title="INTERNACIONAL",TELE TICA C7
+#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/teletica_7_1.png" tvg-name="TELE TICA C7"  group-title="TS-TV",TELE TICA C7
 http://190.6.202.166:8000/play/a02r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r7Tp7zp/music.png" tvg-name="TU MUSICA HD"  group-title="TS-TV",TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/16dmryx/unnamed.jpg" tvg-name="PFM MUSIC"  group-title="TS-TV",PFM MUSIC
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/443px-Canal_5_HN_logo_2019.png" tvg-name="CANAL 5"  group-title="INTERNACIONAL",CANAL 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/443px-Canal_5_HN_logo_2019.png" tvg-name="CANAL 5"  group-title="TS-TV",CANAL 5
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Canal-51.png" tvg-name="CANAL 51"  group-title="TS-TV",CANAL 51
 https://cn51.live/hls/streamcn51.m3u8
@@ -57,7 +57,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png" tvg-name="DREIKO TV"  group-title="TS-TV",DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a362da6b167b9f708756e382b3863a851dda4fb53bf2327ce94ae279a4e80d9b.png" tvg-name="TELE CLASICO"  group-title="INTERNACIONAL",TELE CLASICO
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a362da6b167b9f708756e382b3863a851dda4fb53bf2327ce94ae279a4e80d9b.png" tvg-name="TELE CLASICO"  group-title="TS-TV",TELE CLASICO
 https://tvdatta.com:3484/stream/play.m3u8
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://1.bp.blogspot.com/-CRPsvgCjfwI/XaYpYWIoHKI/AAAAAAABMrc/xRo2zq2aRMkHLBy6xjYaK7J4XLaumobzwCNcBGAsYHQ/s280/Nick_Latino_Channel_1080x1080_Square_Nickelodeon_Pluto_TV_Frame_Logo_2.png" tvg-name="NICK"  group-title="PLUTO TV",NICK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
