@@ -37,6 +37,22 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 https://mdstrm.com/live-stream-playlist/5e60f5588a57af075650c315.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg" tvg-name="MEDCOM GO 2"  group-title="LOCALES",MEDCOM GO 2
 https://mdstrm.com/live-stream-playlist/5ddc34626e84010896e952f2.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/949813745685073921/tk2baI36_400x400.jpg" tvg-name="PANAMA HIT RADIO"  group-title="RADIOS",PANAMA HIT RADIO 
+https://www.streaming507.net:8024/stream
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-panama.png" tvg-name="ORIGINAL STEREO"  group-title="RADIOS",ORIGINAL STEREO
+https://original.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/super-veraguas.png" tvg-name="SUPER STEREO"  group-title="RADIOS",SUPER STEREO
+http://11618.cloudrad.io:9124/live
+#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/original.png" tvg-name="AM ORIGINAL"  group-title="RADIOS",AM ORIGINAL
+http://rosetta.shoutca.st:9264/stream/1/
+#EXTINF:-1, tvg-logo="http://www.wao975.fm/wp-content/uploads/2012/08/logopng1.png", tvg-name="WAO"  group-title="RADIOS",WAO
+http://ic.streann.com:8000/wao
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPERQ TV
+https://5f700d5b2c46f.streamlock.net/superqpanama/superqpanama/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://fotos.subefotos.com/b55779143f1d00bbaa18e5009701bb1co.jpg" tvg-name="FESTIVAL"  group-title="RADIOS",FESTIVAL
+https://www.streaming507.net:8128/stream
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPERQ
+https://sqserver.superqpanama.net:8005/superqpanama
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" tvg-name="WOW TV"  group-title="TS-TV",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL HD"  group-title="TS-TV",CARACOL HD
@@ -71,22 +87,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" tvg-name="VEVO POP LATINO"  group-title="PLUTO TV",VEVO POP LATINO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/949813745685073921/tk2baI36_400x400.jpg" tvg-name="PANAMA HIT RADIO"  group-title="RADIOS",PANAMA HIT RADIO 
-https://www.streaming507.net:8024/stream
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-panama.png" tvg-name="ORIGINAL STEREO"  group-title="RADIOS",ORIGINAL STEREO
-https://original.radioca.st/stream/1/
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/super-veraguas.png" tvg-name="SUPER STEREO"  group-title="RADIOS",SUPER STEREO
-http://11618.cloudrad.io:9124/live
-#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/original.png" tvg-name="AM ORIGINAL"  group-title="RADIOS",AM ORIGINAL
-http://rosetta.shoutca.st:9264/stream/1/
-#EXTINF:-1, tvg-logo="http://www.wao975.fm/wp-content/uploads/2012/08/logopng1.png", tvg-name="WAO"  group-title="RADIOS",WAO
-http://ic.streann.com:8000/wao
-#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPERQ TV
-https://5f700d5b2c46f.streamlock.net/superqpanama/superqpanama/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://fotos.subefotos.com/b55779143f1d00bbaa18e5009701bb1co.jpg" tvg-name="FESTIVAL"  group-title="RADIOS",FESTIVAL
-https://www.streaming507.net:8128/stream
-#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPERQ
-https://sqserver.superqpanama.net:8005/superqpanama
 #EXTINF:-1 tvg-id="aande.co" tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",A&E 
 http://200.229.147.16:8000/play/a02y
 #EXTINF:-1 tvg-id="axn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" tvg-language="Spanish"  group-title="TS-TV",AXN
@@ -256,8 +256,8 @@ http://190.6.202.166:8000/play/a06i
 #EXTINF:-1 tvg-id="M.LigaCampeones.sp" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,Movistar Deportes
 http://181.198.67.2:8024/play/a0ar
 #EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,Movistar LA LIGA
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232252
-#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,Movistar LA LIGA BAR
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137259
+#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,LA LIGA BAR
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234560
 #EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,MOVISTAR CHAMPIONS
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235352
