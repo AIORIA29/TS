@@ -10,7 +10,7 @@ http://187.49.191.6:8080/play/a02y
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" tvg-name="RPC HD"  group-title="LOCALES",RPC HD
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" tvg-name="TELEMETRO"  group-title="LOCALES",TELEMETRO
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6844
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64412
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" tvg-name="TELEMETRO HD"  group-title="LOCALES",TELEMETRO HD
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/OYE_TV.jpg" tvg-name="OYE TV"  group-title="LOCALES",OYE TV
@@ -37,25 +37,25 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 https://mdstrm.com/live-stream-playlist/5e60f5588a57af075650c315.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg" tvg-name="MEDCOM GO 2"  group-title="LOCALES",MEDCOM GO 2
 https://mdstrm.com/live-stream-playlist/5ddc34626e84010896e952f2.m3u8
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" tvg-name="WOW TV"  group-title="INTERNACIONAL",WOW TV
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" tvg-name="WOW TV"  group-title="TS-TV",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL HD"  group-title="INTERNACIONAL",CARACOL HD
+#EXTINF:-1 tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL HD"  group-title="TS-TV",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/teletica_7_1.png" tvg-name="TELE TICA C7"  group-title="INTERNACIONAL",TELE TICA C7
 http://190.6.202.166:8000/play/a02r
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r7Tp7zp/music.png" tvg-name="TU MUSICA HD"  group-title="INTERNACIONAL",TU MUSICA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r7Tp7zp/music.png" tvg-name="TU MUSICA HD"  group-title="TS-TV",TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/16dmryx/unnamed.jpg" tvg-name="PFM MUSIC"  group-title="INTERNACIONAL",PFM MUSIC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/16dmryx/unnamed.jpg" tvg-name="PFM MUSIC"  group-title="TS-TV",PFM MUSIC
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/443px-Canal_5_HN_logo_2019.png" tvg-name="CANAL 5"  group-title="INTERNACIONAL",CANAL 5
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Canal-51.png" tvg-name="CANAL 51"  group-title="INTERNACIONAL",CANAL 51
+#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Canal-51.png" tvg-name="CANAL 51"  group-title="TS-TV",CANAL 51
 https://cn51.live/hls/streamcn51.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0_400x400.jpg" tvg-name="CGTN"  group-title="INTERNACIONAL",CGTN
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0_400x400.jpg" tvg-name="CGTN"  group-title="TS-TV",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D02KthHN/aztv.png" tvg-name="AMIME TV"  group-title="INTERNACIONAL",ANIME TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D02KthHN/aztv.png" tvg-name="AMIME TV"  group-title="TS-TV",ANIME TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png" tvg-name="DREIKO TV"  group-title="INTERNACIONAL",DREIKO TV
+#EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png" tvg-name="DREIKO TV"  group-title="TS-TV",DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a362da6b167b9f708756e382b3863a851dda4fb53bf2327ce94ae279a4e80d9b.png" tvg-name="TELE CLASICO"  group-title="INTERNACIONAL",TELE CLASICO
 https://tvdatta.com:3484/stream/play.m3u8
@@ -267,6 +267,14 @@ http://190.61.102.67:3150/play/a08j
 http://187.49.191.6:8080/play/a022
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",TD+CR 2
 http://187.49.191.6:8080/play/a023
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",SKY SPORT MX
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",DIRECTV SPORT 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1918
+#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",DIRECTV SPORT 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1919
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN SPORT Ñ
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137268
 #EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",CANAL+ SPORT HD
 http://91.226.51.126:8000/udp/239.100.10.183:2234
 #EXTINF:-1 tvg-logo="https://n-6-2.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66249.png" tvg-language="Spanish"  group-title="DEPORTE-INGLES",CANAL+ SPORT HD 2
@@ -8301,8 +8309,6 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/237314
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/237315
 #EXTINF:-1 tvg-id="" tvg-name="The Middle-24/7" tvg-logo="" group-title="ENG - USA 24H",The Middle-24/7
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/237317
-#EXTINF:-1 tvg-id="" tvg-name="Adult PleasureXXX-24/7" tvg-logo="" group-title="ENG - USA 24H",Adult PleasureXXX-24/7
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/237318
 #EXTINF:-1 tvg-id="" tvg-name="The Flash-24/7" tvg-logo="" group-title="ENG - USA 24H",The Flash-24/7
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/237320
 #EXTINF:-1 tvg-id="" tvg-name="Last Of The Summer Wine-24/7" tvg-logo="" group-title="ENG - USA 24H",Last Of The Summer Wine-24/7
