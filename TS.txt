@@ -227,18 +227,12 @@ http://190.6.202.166:8000/play/a0et
 http://190.6.202.166:8000/play/a0eq
 #EXTINF:-1,|ES| MEGA FHD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51404
-#EXTINF:-1,|ES| LA SEXTA HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6091
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LALIGATV BAR HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6092
 #EXTINF:-1,|ES| MEGA HD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51345
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES 1 FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5984
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",REAL MADRID TV FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6075
 #EXTINF:-1,|ES| LA SEXTA FHD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51399
+#EXTINF:-1,|ES| LA SEXTA HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6091
 #EXTINF:-1,|ES| NOVA FHD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51401
 #EXTINF:-1,|ES| NEOX FHD
@@ -557,6 +551,10 @@ http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6022
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6024
 #EXTINF:-1,|ES| M. GOLF HD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6087
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5984
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",REAL MADRID TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6075
 #EXTINF:-1,|ES| M. FORMULA 1 HD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6089
 #EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LALIGA FHD
@@ -619,6 +617,8 @@ http://195.230.23.8:25461/goldsfree3/goldstv.com/6548
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51459
 #EXTINF:-1,|ES| M. GOLF FHD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51461
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LALIGATV BAR HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6092
 #EXTINF:-1,|ES| M. FORMULA 1 FHD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51463
 #EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LIGA DE CAMPEONES FHD
