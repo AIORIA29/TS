@@ -225,6 +225,24 @@ http://45.160.73.129:8888/play/a01l
 http://190.6.202.166:8000/play/a0et
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="TS-TV",WARNER CHANNEL
 http://190.6.202.166:8000/play/a0eq
+#EXTINF:-1,|ES| MEGA FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51404
+#EXTINF:-1,|ES| LA SEXTA HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6091
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LALIGATV BAR HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6092
+#EXTINF:-1,|ES| MEGA HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51345
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5984
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",REAL MADRID TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6075
+#EXTINF:-1,|ES| LA SEXTA FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51399
+#EXTINF:-1,|ES| NOVA FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51401
+#EXTINF:-1,|ES| NEOX FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51402
 #EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",CLARO SPORTS
 http://200.24.159.179:8500/play/a03l
 ##EXTINF:-1 tvg-id="ESPNAmericaLatina.us" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN
@@ -295,200 +313,6 @@ http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8
 http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="DEPORTE-INGLES",Premier Sports
 http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NexTV.pa" tvg-name="PA: Nex Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="Panama",Nex Canal 21
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6840
-#EXTINF:-1 tvg-id="NexTV.pa" tvg-name="PA: Nex Canal 21 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="Panama",Nex Canal 21 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32989
-#EXTINF:-1 tvg-id="RPCCanal4.pa" tvg-name="PA: RPC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rpc.svg/640px-Rpc.svg.png" group-title="Panama",RPC TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6842
-#EXTINF:-1 tvg-id="RPCCanal4.pa" tvg-name="PA: RPC TV HD" tvg-logo="http://tvgolatino.com:8080/images/b70bcbbd18ed913e0582705022c2af9d.png" group-title="Panama",RPC TV HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6841
-#EXTINF:-1 tvg-id="" tvg-name="PA: SERTV" tvg-logo="http://tvgolatino.com:8080/images/75b1c6e4a675a65dad6eba3783a1638e.png" group-title="Panama",SERTV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6843
-#EXTINF:-1 tvg-id="" tvg-name="PA: SERTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png" group-title="Panama",SERTV HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64411
-#EXTINF:-1 tvg-id="Telemetro.pa" tvg-name="PA: Telemetro" tvg-logo="http://tvgolatino.com:8080/images/c7bf5b2358a259b45d42e7705d877edb.png" group-title="Panama",Telemetro
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64412
-#EXTINF:-1 tvg-id="TVNCanal2.pa" tvg-name="PA: TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/TVN_Panam%25_3F_%25_282017%25_29.png" group-title="Panama",TVN
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6846
-#EXTINF:-1 tvg-id="TVNCanal2.pa" tvg-name="PA: TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/TVN_Panam%25_3F_%25_282017%25_29.png" group-title="Panama",TVN HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/85625
-#EXTINF:-1 tvg-id="TVNCanal2.pa" tvg-name="PA: Canal 2" tvg-logo="http://tvgolatino.com:8080/images/62a641197b5c9734395642f79d74719b.png" group-title="Panama"Canal 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32990
-#EXTINF:-1 tvg-id="" tvg-name="PA: TV Max" tvg-logo="http://tvgolatino.com:8080/images/54b6742f77b806f2c9214900f668b7c7.png" group-title="Panama",TV Max
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6845
-#EXTINF:-1 tvg-id="" tvg-name="PA: TV Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/640px-Logo_tvmax.png" group-title="Panama",TV Max HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/85111
-#EXTINF:-1 tvg-id="CanalPlus23.pa" tvg-name="PA: MasTV" tvg-logo="http://tvgolatino.com:8080/images/9df90ab6aac5aca2994896ddf91c3d25.png" ggroup-title="Panama",MasTV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32988
-#EXTINF:-1 tvg-id="CanalPlus23.pa" tvg-name="PA: Canal +23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="Panama",Canal +23
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6839
-#EXTINF:-1 tvg-id="" tvg-name="SP: PA: CableOnda Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/640px-Cable_Onda_Sports_logo.svg.png" group-title="Panama",CableOnda Sports HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32839
-#EXTINF:-1 tvg-id="" tvg-name="SP: PA: CableOnda Sports FC HD" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png?fit=600%2C360" group-title="Panama",CableOnda Sports FC HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31200
-#EXTINF:-1 tvg-id="EcoTV.pa" tvg-name="PA: ECO TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Ecotv.jpg" group-title="Panama",ECO TV FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/63592
-#EXTINF:-1 tvg-id="" tvg-name="PA: Hosanna Vision" tvg-logo="https://2.bp.blogspot.com/-QnGe66man_k/XBBFhSaleNI/AAAAAAAAA0s/sxDAjmBVKBMBkrm6oVBkB_LCilcFHM66ACLcBGAs/w280/hosanna-tv-panama.jpg" group-title="Panama",Hosanna Vision
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/81964
-#EXTINF:-1 tvg-id="" tvg-name="PA: Bocas TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bocas_TV_Logo_3D.png/230px-Bocas_TV_Logo_3D.png" group-title="Panama",Bocas TV HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/85626
-#EXTINF:-1 tvg-id="canalplus23.pa" tvg-name="PA: Canal +23" tvg-logo="" group-title="Panama",Canal +23
-http://ky-iptv.com:80/danilo/12345/181199.ts
-#EXTINF:-1 tvg-id="tvncanal2.pa" tvg-name="PA: Canal 2" tvg-logo="http://ky-iptv.com:25461/images/23ca66c1897eff4ca04e52a778c76e4c.png" group-title="Panama",Canal 2
-http://ky-iptv.com:80/danilo/12345/181200.ts
-#EXTINF:-1 tvg-id="nexcanal21.pa" tvg-name="PA: Nex Canal 21 FHD" tvg-logo="http://ky-iptv.com:25461/images/5c1f3c00ebb63dcdc40e9014ae1423ce.jpg" group-title="Panama",Nex Canal 21 FHD
-http://ky-iptv.com:80/danilo/12345/181204.ts
-#EXTINF:-1 tvg-id="" tvg-name="PA: RPC 4" tvg-logo="http://ky-iptv.com:25461/images/bd2b2d021b6ed165c50a7e963e98e66b.png" group-title="Panama",RPC 4
-http://ky-iptv.com:80/danilo/12345/181207.ts
-#EXTINF:-1 tvg-id="rpccanal4.pa" tvg-name="PA: RPC TV" tvg-logo="http://ky-iptv.com:25461/images/aefa11f38a0c2de2de08803654efea9f.png" group-title="Panama",RPC TV
-http://ky-iptv.com:80/danilo/12345/181209.ts
-#EXTINF:-1 tvg-id="canal13telemetro.pa" tvg-name="PA: TELEMETRO 13" tvg-logo="http://ky-iptv.com:25461/images/db08a9c67cedc625f0788dd9b1d93b4b.png" group-title="Panama",TELEMETRO 13
-http://ky-iptv.com:80/danilo/12345/181213.ts
-#EXTINF:-1 tvg-id="tvncanal2.pa" tvg-name="PA: TVN 2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/70/TVN_2_%282016-.n.v.%29.png/revision/latest?cb=20181117165549" group-title="Panama",PA: TVN 2
-http://ky-iptv.com:80/danilo/12345/181216.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: PAN RPC 4" tvg-logo="https://www.grpcom.com.br/wp-content/uploads/2018/05/rpc_logo_branco.png" group-title="Panama",RPC 4
-http://ky-iptv.com:80/danilo/12345/514590.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: PAN TV MAX 9" tvg-logo="http://ky-iptv.com:25461/images/54b6742f77b806f2c9214900f668b7c7.png" group-title="Panama",TV MAX 9
-http://ky-iptv.com:80/danilo/12345/514593.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: Panama - Nex Canal 21" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-21-nex--1560.png" group-title="Panama",Nex Canal 21
-http://ky-iptv.com:80/danilo/12345/514596.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: Panama - RPC CANAL 4 HD" tvg-logo="http://ky-iptv.com:25461/images/61dc46db63e70f13619fe7047f16c7a2.png" group-title="Panama",RPC CANAL 4 HD
-http://ky-iptv.com:80/danilo/12345/514598.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: PANAMA - TELEMETRO 13" tvg-logo="http://ky-iptv.com:25461/images/c7bf5b2358a259b45d42e7705d877edb.png" group-title="Panama",TELEMETRO 13
-http://ky-iptv.com:80/danilo/12345/514600.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. LIGA DE CAMPEONES HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6000
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 2 HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6015
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 1 HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6016
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES 2 HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6021
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES 1 HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6022
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. LALIGA HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6024
-#EXTINF:-1,|ES| M. GOLF HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6087
-#EXTINF:-1,|ES| M. FORMULA 1 HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6089
-#EXTINF:-1,|ES| LA SEXTA HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6091
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LALIGATV BAR HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6092
-#EXTINF:-1,|ES| MEGA HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51345
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES 1 FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5984
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",REAL MADRID TV FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6075
-#EXTINF:-1,|ES| LA SEXTA FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51399
-#EXTINF:-1,|ES| NOVA FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51401
-#EXTINF:-1,|ES| NEOX FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51402
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LALIGA FHD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6462
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN SPORTS ESPANAA FHD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6463
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN SPORTS LA LIGA FHD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6473
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LIGA 123 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6529
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LA LIGA 1
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6530
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR DEPORTES 1
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6531
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR LIGA CAMPEONES HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6532
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",CANAL  GOL
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6528
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LIGA 123 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6529
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LA LIGA 1
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6530
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR DEPORTES 1
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6531
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR LIGA CAMPEONES HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6532
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR VAMOS FHD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6533
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",CANAL GOL
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6534
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN-SPORT SPAIN
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6535
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LA LIGA HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6536
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LIGA 2
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6537
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LIGA 3
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6538
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LA LIGATV BAR HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6539
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",REAL MADRID  TV
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6540
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BARCA TV
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6541
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR GOLF HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6542
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR F1 HD
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6543
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR FUTBOL
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6544
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR MOTO GP
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6545
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 1
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6546
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 2
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6547
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 2
-http://195.230.23.8:25461/goldsfree3/goldstv.com/6548
-#EXTINF:-1,|ES| MEGA FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51404
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LALIGATV BAR FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51459
-#EXTINF:-1,|ES| M. GOLF FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51461
-#EXTINF:-1,|ES| M. FORMULA 1 FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51463
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LIGA DE CAMPEONES FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51464
-#EXTINF:-1,|ES| M. LALIGA FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51465
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",GOL TV FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51466
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",TELEDEPORTE FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51467
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",REAL MADRID TV HD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51468
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BARCA TV FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51469
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 1 FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51470
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 2 FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51471
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",#VAMOS FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51472
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. MULTIDEPORTE FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51473
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES FHD
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51474
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 4 HD (Solo Eventos)
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5993
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 3 HD (Solo Eventos)
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5994
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 2  HD (Solo Eventos)
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5996
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 1 HD (Solo Eventos)
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5998
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 4 FHD (Solo Eventos)
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51514
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 2 FHD (Solo Eventos)
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51516
-#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 1 FHD (Solo Eventos)
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51517
 #EXTINF:-1,bEIN SPORTS 1 Premium
 http://mneplayer.etya-iptv.com:8080/yavuz17/yavuz1717/159960
 #EXTINF:-1,bEIN SPORTS 1 FHD*
@@ -657,6 +481,182 @@ http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/72470
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/72469
 #EXTINF:-1,VIP |US| FOX SportsTime Ohio LHD
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/72468
+#EXTINF:-1 tvg-id="NexTV.pa" tvg-name="PA: Nex Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="Panama",Nex Canal 21
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6840
+#EXTINF:-1 tvg-id="NexTV.pa" tvg-name="PA: Nex Canal 21 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="Panama",Nex Canal 21 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32989
+#EXTINF:-1 tvg-id="RPCCanal4.pa" tvg-name="PA: RPC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rpc.svg/640px-Rpc.svg.png" group-title="Panama",RPC TV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6842
+#EXTINF:-1 tvg-id="RPCCanal4.pa" tvg-name="PA: RPC TV HD" tvg-logo="http://tvgolatino.com:8080/images/b70bcbbd18ed913e0582705022c2af9d.png" group-title="Panama",RPC TV HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6841
+#EXTINF:-1 tvg-id="" tvg-name="PA: SERTV" tvg-logo="http://tvgolatino.com:8080/images/75b1c6e4a675a65dad6eba3783a1638e.png" group-title="Panama",SERTV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6843
+#EXTINF:-1 tvg-id="" tvg-name="PA: SERTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png" group-title="Panama",SERTV HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64411
+#EXTINF:-1 tvg-id="Telemetro.pa" tvg-name="PA: Telemetro" tvg-logo="http://tvgolatino.com:8080/images/c7bf5b2358a259b45d42e7705d877edb.png" group-title="Panama",Telemetro
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64412
+#EXTINF:-1 tvg-id="TVNCanal2.pa" tvg-name="PA: TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/TVN_Panam%25_3F_%25_282017%25_29.png" group-title="Panama",TVN
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6846
+#EXTINF:-1 tvg-id="TVNCanal2.pa" tvg-name="PA: TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/TVN_Panam%25_3F_%25_282017%25_29.png" group-title="Panama",TVN HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/85625
+#EXTINF:-1 tvg-id="TVNCanal2.pa" tvg-name="PA: Canal 2" tvg-logo="http://tvgolatino.com:8080/images/62a641197b5c9734395642f79d74719b.png" group-title="Panama"Canal 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32990
+#EXTINF:-1 tvg-id="" tvg-name="PA: TV Max" tvg-logo="http://tvgolatino.com:8080/images/54b6742f77b806f2c9214900f668b7c7.png" group-title="Panama",TV Max
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6845
+#EXTINF:-1 tvg-id="" tvg-name="PA: TV Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/640px-Logo_tvmax.png" group-title="Panama",TV Max HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/85111
+#EXTINF:-1 tvg-id="CanalPlus23.pa" tvg-name="PA: MasTV" tvg-logo="http://tvgolatino.com:8080/images/9df90ab6aac5aca2994896ddf91c3d25.png" ggroup-title="Panama",MasTV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32988
+#EXTINF:-1 tvg-id="CanalPlus23.pa" tvg-name="PA: Canal +23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="Panama",Canal +23
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6839
+#EXTINF:-1 tvg-id="" tvg-name="SP: PA: CableOnda Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/640px-Cable_Onda_Sports_logo.svg.png" group-title="Panama",CableOnda Sports HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32839
+#EXTINF:-1 tvg-id="" tvg-name="SP: PA: CableOnda Sports FC HD" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png?fit=600%2C360" group-title="Panama",CableOnda Sports FC HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31200
+#EXTINF:-1 tvg-id="EcoTV.pa" tvg-name="PA: ECO TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Ecotv.jpg" group-title="Panama",ECO TV FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/63592
+#EXTINF:-1 tvg-id="" tvg-name="PA: Hosanna Vision" tvg-logo="https://2.bp.blogspot.com/-QnGe66man_k/XBBFhSaleNI/AAAAAAAAA0s/sxDAjmBVKBMBkrm6oVBkB_LCilcFHM66ACLcBGAs/w280/hosanna-tv-panama.jpg" group-title="Panama",Hosanna Vision
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/81964
+#EXTINF:-1 tvg-id="" tvg-name="PA: Bocas TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bocas_TV_Logo_3D.png/230px-Bocas_TV_Logo_3D.png" group-title="Panama",Bocas TV HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/85626
+#EXTINF:-1 tvg-id="canalplus23.pa" tvg-name="PA: Canal +23" tvg-logo="" group-title="Panama",Canal +23
+http://ky-iptv.com:80/danilo/12345/181199.ts
+#EXTINF:-1 tvg-id="tvncanal2.pa" tvg-name="PA: Canal 2" tvg-logo="http://ky-iptv.com:25461/images/23ca66c1897eff4ca04e52a778c76e4c.png" group-title="Panama",Canal 2
+http://ky-iptv.com:80/danilo/12345/181200.ts
+#EXTINF:-1 tvg-id="nexcanal21.pa" tvg-name="PA: Nex Canal 21 FHD" tvg-logo="http://ky-iptv.com:25461/images/5c1f3c00ebb63dcdc40e9014ae1423ce.jpg" group-title="Panama",Nex Canal 21 FHD
+http://ky-iptv.com:80/danilo/12345/181204.ts
+#EXTINF:-1 tvg-id="" tvg-name="PA: RPC 4" tvg-logo="http://ky-iptv.com:25461/images/bd2b2d021b6ed165c50a7e963e98e66b.png" group-title="Panama",RPC 4
+http://ky-iptv.com:80/danilo/12345/181207.ts
+#EXTINF:-1 tvg-id="rpccanal4.pa" tvg-name="PA: RPC TV" tvg-logo="http://ky-iptv.com:25461/images/aefa11f38a0c2de2de08803654efea9f.png" group-title="Panama",RPC TV
+http://ky-iptv.com:80/danilo/12345/181209.ts
+#EXTINF:-1 tvg-id="canal13telemetro.pa" tvg-name="PA: TELEMETRO 13" tvg-logo="http://ky-iptv.com:25461/images/db08a9c67cedc625f0788dd9b1d93b4b.png" group-title="Panama",TELEMETRO 13
+http://ky-iptv.com:80/danilo/12345/181213.ts
+#EXTINF:-1 tvg-id="tvncanal2.pa" tvg-name="PA: TVN 2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/70/TVN_2_%282016-.n.v.%29.png/revision/latest?cb=20181117165549" group-title="Panama",PA: TVN 2
+http://ky-iptv.com:80/danilo/12345/181216.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: PAN RPC 4" tvg-logo="https://www.grpcom.com.br/wp-content/uploads/2018/05/rpc_logo_branco.png" group-title="Panama",RPC 4
+http://ky-iptv.com:80/danilo/12345/514590.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: PAN TV MAX 9" tvg-logo="http://ky-iptv.com:25461/images/54b6742f77b806f2c9214900f668b7c7.png" group-title="Panama",TV MAX 9
+http://ky-iptv.com:80/danilo/12345/514593.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Panama - Nex Canal 21" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-21-nex--1560.png" group-title="Panama",Nex Canal 21
+http://ky-iptv.com:80/danilo/12345/514596.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Panama - RPC CANAL 4 HD" tvg-logo="http://ky-iptv.com:25461/images/61dc46db63e70f13619fe7047f16c7a2.png" group-title="Panama",RPC CANAL 4 HD
+http://ky-iptv.com:80/danilo/12345/514598.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: PANAMA - TELEMETRO 13" tvg-logo="http://ky-iptv.com:25461/images/c7bf5b2358a259b45d42e7705d877edb.png" group-title="Panama",TELEMETRO 13
+http://ky-iptv.com:80/danilo/12345/514600.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. LIGA DE CAMPEONES HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6000
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 2 HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6015
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6016
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES 2 HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6021
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6022
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. LALIGA HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6024
+#EXTINF:-1,|ES| M. GOLF HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6087
+#EXTINF:-1,|ES| M. FORMULA 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/6089
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LALIGA FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6462
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN SPORTS ESPANAA FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6463
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN SPORTS LA LIGA FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6473
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LIGA 123 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6529
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LA LIGA 1
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6530
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR DEPORTES 1
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6531
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR LIGA CAMPEONES HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6532
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",CANAL  GOL
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6528
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LIGA 123 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6529
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LA LIGA 1
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6530
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR DEPORTES 1
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6531
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR LIGA CAMPEONES HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6532
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR VAMOS FHD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6533
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",CANAL GOL
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6534
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN-SPORT SPAIN
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6535
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LA LIGA HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6536
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LIGA 2
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6537
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BEIN LIGA 3
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6538
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LA LIGATV BAR HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6539
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",REAL MADRID  TV
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6540
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BARCA TV
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6541
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR GOLF HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6542
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR F1 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6543
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR FUTBOL
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6544
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",MOVISTAR MOTO GP
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6545
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 1
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6546
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 2
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6547
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",ESPN 2
+http://195.230.23.8:25461/goldsfree3/goldstv.com/6548
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LALIGATV BAR FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51459
+#EXTINF:-1,|ES| M. GOLF FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51461
+#EXTINF:-1,|ES| M. FORMULA 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51463
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",LIGA DE CAMPEONES FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51464
+#EXTINF:-1,|ES| M. LALIGA FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51465
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",GOL TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51466
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",TELEDEPORTE FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51467
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",REAL MADRID TV HD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51468
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",BARCA TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51469
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51470
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",EUROSPORT 2 FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51471
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",#VAMOS FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51472
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. MULTIDEPORTE FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51473
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. DEPORTES FHD
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51474
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 4 HD (Solo Eventos)
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5993
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 3 HD (Solo Eventos)
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5994
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 2  HD (Solo Eventos)
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5996
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 1 HD (Solo Eventos)
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/5998
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 4 FHD (Solo Eventos)
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51514
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 2 FHD (Solo Eventos)
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51516
+#EXTINF:-1 tvg-id="" tvg-logo="https://avaazdo.s3.amazonaws.com/original_5c604dc24dc80.jpg" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",M. Liga de campeones 1 FHD (Solo Eventos)
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51517
 #EXTINF:-1 tvg-id="" tvg-name=" ⚽ Premier League ⚽" tvg-logo="" group-title="⚽ Premier League ⚽", ⚽ Premier League ⚽
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233628
 #EXTINF:-1 tvg-id="" tvg-name="SP: Premier League: Sky Sports Premier League HD (UK)" tvg-logo="" group-title="⚽ Premier League ⚽",SP: Premier League: Sky Sports Premier League HD (UK)
