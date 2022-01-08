@@ -272,7 +272,7 @@ http://181.198.67.2:8024/play/a0ar
 #EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,Movistar LA LIGA
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137259
 #EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,LA LIGA BAR
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234560
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51459
 #EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,MOVISTAR CHAMPIONS
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235352
 #EXTINF:-1 tvg-id="SkySports1.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL",SKY SPORT MX
