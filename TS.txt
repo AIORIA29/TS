@@ -549,41 +549,43 @@ http://vod.tuxchannel.tv:80/peliculas/720/xtremo%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/i%20was%20lorena%20bobbitt%202020.mkv
 #EXTINF:-1,zombie a los 17
 http://tux-vod.dynu.com/peliculas/720/zombie%20at%2017%202018.mkv
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/949813745685073921/tk2baI36_400x400.jpg" tvg-name="PANAMA HIT RADIO"  group-title="RADIOS",PANAMA HIT RADIO 
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/949813745685073921/tk2baI36_400x400.jpg" tvg-name="PANAMA HIT RADIO"  group-title="📻 RADIOS 📻",PANAMA HIT RADIO 
 https://www.streaming507.net:8024/stream
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-panama.png" tvg-name="ORIGINAL STEREO"  group-title="RADIOS",ORIGINAL STEREO
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-panama.png" tvg-name="ORIGINAL STEREO"  group-title="📻 RADIOS 📻",ORIGINAL STEREO
 https://original.radioca.st/stream/1/
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/super-veraguas.png" tvg-name="SUPER STEREO"  group-title="RADIOS",SUPER STEREO
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/super-veraguas.png" tvg-name="SUPER STEREO"  group-title="📻 RADIOS 📻",SUPER STEREO
 http://11618.cloudrad.io:9124/live
-#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/original.png" tvg-name="AM ORIGINAL"  group-title="RADIOS",AM ORIGINAL
+#EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/original.png" tvg-name="AM ORIGINAL"  group-title="📻 RADIOS 📻",AM ORIGINAL
 http://rosetta.shoutca.st:9264/stream/1/
-#EXTINF:-1, tvg-logo="http://www.wao975.fm/wp-content/uploads/2012/08/logopng1.png", tvg-name="WAO"  group-title="RADIOS",WAO
+#EXTINF:-1, tvg-logo="http://www.wao975.fm/wp-content/uploads/2012/08/logopng1.png", tvg-name="WAO"  group-title="📻 RADIOS 📻",WAO
 http://ic.streann.com:8000/wao
-#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPERQ TV
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="📻 RADIOS 📻",SUPERQ TV
 https://5f700d5b2c46f.streamlock.net/superqpanama/superqpanama/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://fotos.subefotos.com/b55779143f1d00bbaa18e5009701bb1co.jpg" tvg-name="FESTIVAL"  group-title="RADIOS",FESTIVAL
+#EXTINF:-1, tvg-logo="https://fotos.subefotos.com/b55779143f1d00bbaa18e5009701bb1co.jpg" tvg-name="FESTIVAL"  group-title="📻 RADIOS 📻",FESTIVAL
 https://www.streaming507.net:8128/stream
-#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="RADIOS",SUPERQ
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="📻 RADIOS 📻",SUPERQ
 https://sqserver.superqpanama.net:8005/superqpanama
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" tvg-name="WOW TV"  group-title="TS-TV",WOW TV
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" tvg-name="WOW TV"  group-title="🎬📺TS-TV📺🎬",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL HD"  group-title="TS-TV",CARACOL HD
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL HD"  group-title="🎬📺TS-TV📺🎬",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/teletica_7_1.png" tvg-name="TELE TICA C7"  group-title="TS-TV",TELE TICA C7
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/teletica_7_1.png" tvg-name="TELE TICA C7"  group-title="🎬📺TS-TV📺🎬",TELE TICA C7
 http://190.6.202.166:8000/play/a02r
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r7Tp7zp/music.png" tvg-name="TU MUSICA HD"  group-title="TS-TV",TU MUSICA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r7Tp7zp/music.png" tvg-name="TU MUSICA HD"  group-title="🎬📺TS-TV📺🎬",TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/16dmryx/unnamed.jpg" tvg-name="PFM MUSIC"  group-title="TS-TV",PFM MUSIC
+#EXTINF:-1 tvg-logo="https://www.diario26.com/images/xmusictop_logo.png,q3.pagespeed.ic.INJUpa5nJF.png" tvg-name="TU MUSICA HD"  group-title="🎬📺TS-TV📺🎬",MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/16dmryx/unnamed.jpg" tvg-name="PFM MUSIC"  group-title="🎬📺TS-TV📺🎬",PFM MUSIC
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/443px-Canal_5_HN_logo_2019.png" tvg-name="CANAL 5"  group-title="TS-TV",CANAL 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/443px-Canal_5_HN_logo_2019.png" tvg-name="CANAL 5"  group-title="🎬📺TS-TV📺🎬",CANAL 5
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Canal-51.png" tvg-name="CANAL 51"  group-title="TS-TV",CANAL 51
+#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Canal-51.png" tvg-name="CANAL 51"  group-title="🎬📺TS-TV📺🎬",CANAL 51
 https://cn51.live/hls/streamcn51.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0_400x400.jpg" tvg-name="CGTN"  group-title="TS-TV",CGTN
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246467745975156738/hicJQmq0_400x400.jpg" tvg-name="CGTN"  group-title="🎬📺TS-TV📺🎬",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png" tvg-name="DREIKO TV"  group-title="TS-TV",DREIKO TV
+#EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2021/09/cropped-logo-dreiko-arts-TV-2020.png" tvg-name="DREIKO TV"  group-title="🎬📺TS-TV📺🎬",DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a362da6b167b9f708756e382b3863a851dda4fb53bf2327ce94ae279a4e80d9b.png" tvg-name="TELE CLASICO"  group-title="TS-TV",TELE CLASICO
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a362da6b167b9f708756e382b3863a851dda4fb53bf2327ce94ae279a4e80d9b.png" tvg-name="TELE CLASICO"  group-title="🎬📺TS-TV📺🎬",TELE CLASICO
 https://tvdatta.com:3484/stream/play.m3u8
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://1.bp.blogspot.com/-CRPsvgCjfwI/XaYpYWIoHKI/AAAAAAABMrc/xRo2zq2aRMkHLBy6xjYaK7J4XLaumobzwCNcBGAsYHQ/s280/Nick_Latino_Channel_1080x1080_Square_Nickelodeon_Pluto_TV_Frame_Logo_2.png" tvg-name="NICK"  group-title="🛰️📺PLUTO TV📺🛰️",NICK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -767,31 +769,31 @@ http://190.6.202.166:8000/play/a061
 http://181.198.67.2:8024/play/a0a1
 #EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",FOX SPORTS 3
 http://190.6.202.166:8000/play/a06i
-#EXTINF:-1 tvg-id="M.LigaCampeones.sp" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",Movistar Deportes
+#EXTINF:-1 tvg-id="M.LigaCampeones.sp" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",Movistar Deportes
 http://181.198.67.2:8024/play/a0ar
-#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",Movistar LA LIGA
+#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",Movistar LA LIGA
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137259
-#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" tvg-language="Spanish"  group-title="DEPORTE-ESPAÑOL,LA LIGA BAR
+#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",LA LIGA BAR
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234560
-#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",MOVISTAR CHAMPIONS
+#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",MOVISTAR CHAMPIONS
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235352
-#EXTINF:-1 tvg-id="SkySports1.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",SKY SPORT MX
+#EXTINF:-1 tvg-id="SkySports1.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",SKY SPORT MX
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",DIRECTV SPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",DIRECTV SPORT 1
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1918
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",DIRECTV SPORT 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",DIRECTV SPORT 2
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1919
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",BEIN SPORT Ñ
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",BEIN SPORT Ñ
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137268
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",ECDL
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",ECDL
 http://181.198.67.2:8024/play/a0b5
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",GOL TV
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",GOL TV
 http://181.198.67.2:8024/play/a0ay
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1457766821222813701/QHurdDrm_400x400.jpg" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",TUDN
+#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1457766821222813701/QHurdDrm_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",TUDN
 http://190.61.102.67:3150/play/a08j
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",TD+CR
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",TD+CR
 http://187.49.191.6:8080/play/a022
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title=⚽⚾🏀🏈DEPORTE-ES",TD+CR 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",TD+CR 2
 http://187.49.191.6:8080/play/a023
 #EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",CANAL+ SPORT HD
 http://91.226.51.126:8000/udp/239.100.10.183:2234
@@ -1313,7 +1315,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101938
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36595
 #EXTINF:-1,24/7 FBI Temp 2
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93735
-#EXTINF:-1, group-title="⚽⚾🇲🇽MEXICO🇲🇽⚽⚾",•●★-- Deportes Mexico --★●•
+#EXTINF:-1, group-title="⚽⚾🇲🇽DEPORTES MEXICO🇲🇽⚽⚾",•●★-- Deportes Mexico --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32332
 #EXTINF:-1,SP: MX: Afizzionados 
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27246
@@ -1401,7 +1403,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27207
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107172
 #EXTINF:-1,SP: MX: TVC Deportes SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/224677
-#EXTINF:-1, group-title="🇨🇴⚽⚾🏈COLOMBIA",•●★-- Deportes Colombia --★●•
+#EXTINF:-1, group-title="🇨🇴⚽⚾🏈DEPORTESCOLOMBIA",•●★-- Deportes Colombia --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32341
 #EXTINF:-1,SP: CO: Espn 1 Sur (MOVIL)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65103
@@ -6435,7 +6437,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/228099
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/228100
 #EXTINF:-1,SP: USA: WWE Network FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86064
-#EXTINF:-1, group-title="⚽Sports⚽",•●★-- Sports --★●•
+#EXTINF:-1, group-title="⚽DEPORTES DIFERENTES PAISES⚽",•●★-- Sports --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/33155
 #EXTINF:-1,SP: FR: BeIN Sports 1 SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61096
