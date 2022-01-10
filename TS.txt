@@ -713,7 +713,7 @@ http://190.6.202.166:8000/play/a06a
 http://201.131.201.126:8000/play/a00i
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-logo="https://pbs.twimg.com/profile_images/1442548163596849165/sn60femd_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",SONY
 http://190.6.202.166:8000/play/a09v
-#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",SPACE
+#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",SPACE
 http://190.6.202.166:8000/play/a05h
 #EXTINF:-1 tvg-id="foxsyfy.la" tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",SYFY
 http://190.6.202.166:8000/play/a05k
