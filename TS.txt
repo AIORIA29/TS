@@ -103,7 +103,7 @@ http://ky-iptv.com:80/danilo/12345/514596.ts
 http://ky-iptv.com:80/danilo/12345/514598.ts
 #EXTINF:-1,PA: Telemetro OP2
 http://ky-iptv.com:80/danilo/12345/514600.ts
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="🎞️ PELICULAS 🎞️",A quemaropa
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="🎞️ VOD PELICULAS 🎞️",A quemaropa
 http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
 #EXTINF:-1,acción policial
 http://tux-vod.dynu.com:80/peliculas/720/police%20story.mkv
@@ -809,512 +809,6 @@ http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8
 http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",Premier Sports
 http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="🕦 CANALES 24/7 🕦",▂ ▄ ▅ ▆  CANALES 24/7  ▆ ▅ ▄ ▂
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31862
-#EXTINF:-1,24/7 Los Magnificos Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26597
-#EXTINF:-1,24/7 Los Magnificos Temp 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26599
-#EXTINF:-1,24/7 Los Magnificos Temp 3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101928
-#EXTINF:-1,24/7 Los Magnificos Temp 4
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101929
-#EXTINF:-1,24/7 El Auto Fantastico Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24660
-#EXTINF:-1,24/7 El Auto Fantastico Temp 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102160
-#EXTINF:-1,24/7 El Auto Fantastico (2008)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26595
-#EXTINF:-1,24/7 MacGiver (2016) Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26620
-#EXTINF:-1,24/7 MacGiver (2016) Temp 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26621
-#EXTINF:-1,24/7 Baywatch
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40812
-#EXTINF:-1,24/7 El Zorro Temp 1 (1956)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40813
-#EXTINF:-1,24/7 El Zorro Temp 2 (1956)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93734
-#EXTINF:-1,24/7 Walker Texas Ranger
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40855
-#EXTINF:-1,24/7 Cantinflas Parte 1 (18 Peliculas)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24889
-#EXTINF:-1,24/7 Cantinflas Parte 2 (19 Peliculas)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25122
-#EXTINF:-1,24/7 Cantinflas (Animada)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34129
-#EXTINF:-1,24/7 Los 3 Chiflados
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27255
-#EXTINF:-1,24/7 Pedro Infante
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25126
-#EXTINF:-1,24/7 Chespirito (1970)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102078
-#EXTINF:-1,24/7 Chespirito (1980)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102079
-#EXTINF:-1,24/7 Chespirito (1981)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102157
-#EXTINF:-1,24/7 Chespirito (1982)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102219
-#EXTINF:-1,24/7 Chespirito (1984)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102220
-#EXTINF:-1,24/7 Chespirito (1985)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102221
-#EXTINF:-1,24/7 Chespirito (1986)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102229
-#EXTINF:-1,24/7 Chespirito (1987)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102230
-#EXTINF:-1,24/7 Chespirito (1988)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102231
-#EXTINF:-1,24/7 Chespirito (1989)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102310
-#EXTINF:-1,24/7 Chespirito (1991)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102311
-#EXTINF:-1,24/7 Chespirito (1992)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102312
-#EXTINF:-1,24/7 Chespirito (1993)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102313
-#EXTINF:-1,24/7 Chespirito (1994)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102314
-#EXTINF:-1,24/7 Chespirito (1995)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102315
-#EXTINF:-1,24/7 El Chapulin Colorado
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25121
-#EXTINF:-1,24/7 El Chavo del 8
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24888
-#EXTINF:-1,24/7 El Chavo del 8 Serie Animada
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25128
-#EXTINF:-1,24/7 Caso Cerrado Inmigracion
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32432
-#EXTINF:-1,24/7 Caso Cerrado La Familia 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32433
-#EXTINF:-1,24/7 Caso Cerrado La Familia 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34213
-#EXTINF:-1,24/7 Caso Cerrado La Familia 3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34214
-#EXTINF:-1,24/7 Power Rangers 01 Mighty Morphin
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/141225
-#EXTINF:-1,24/7 Power Rangers 02 Mighty Morphin
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/160613
-#EXTINF:-1,24/7 Ben 10
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102316
-#EXTINF:-1,24/7 Ben 10 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102330
-#EXTINF:-1,24/7 Ataque a los Titanes SUB
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36616
-#EXTINF:-1,24/7 Ataque a los Titanes SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102865
-#EXTINF:-1,24/7 Paradise PD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34301
-#EXTINF:-1,24/7 PJ Masks: Heroes en pijamas SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40853
-#EXTINF:-1,24/7 PJ Masks: Heroes en pijamas HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101954
-#EXTINF:-1,24/7 Dragones de Berck
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34255
-#EXTINF:-1,24/7 Los Vengadores (Unidos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26594
-#EXTINF:-1,24/7 Rapido y Furioso (Espias a todo gas)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32268
-#EXTINF:-1,24/7 Guardianes de la Galaxia (Animado)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40854
-#EXTINF:-1,24/7 Gravity Falls
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26590
-#EXTINF:-1,24/7 Mr Pickles
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26619
-#EXTINF:-1,24/7 Barney y sus Amigos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24628
-#EXTINF:-1,24/7 Automan
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25156
-#EXTINF:-1,24/7 Animaniacs
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24439
-#EXTINF:-1,24/7 Autobus Magico
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24437
-#EXTINF:-1,24/7 Bubble Guppies
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24467
-#EXTINF:-1,24/7 Coraje el Perro Cobarde
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24603
-#EXTINF:-1,24/7 Digimon Adventure 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24614
-#EXTINF:-1,24/7 Digimon Adventure 1 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102084
-#EXTINF:-1,24/7 Digimon Adventure 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93729
-#EXTINF:-1,24/7 Donde esta Wally
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24604
-#EXTINF:-1,24/7 Dora la Exploradora
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32319
-#EXTINF:-1,24/7 Dora y sus Amigos en la Ciudad
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24438
-#EXTINF:-1,24/7 El Agente Oso
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24440
-#EXTINF:-1,24/7 El Bebe Jefazo Vuelta al Curro
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24493
-#EXTINF:-1,24/7 El Laboratorio de Dexter
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24605
-#EXTINF:-1,24/7 Equipo Umizoomi
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24615
-#EXTINF:-1,24/7 Fabulas de Esopo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24627
-#EXTINF:-1,24/7 Garfield
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25127
-#EXTINF:-1,24/7 La Casa de Mickey Mouse
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24617
-#EXTINF:-1,24/7 La Casa de Mickey Mouse Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36617
-#EXTINF:-1,24/7 La Doctora Juguete
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24436
-#EXTINF:-1,24/7 La Pantera Rosa
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24674
-#EXTINF:-1,24/7 Las Pistas de Blue
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24678
-#EXTINF:-1,24/7 Los Picapiedras
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24494
-#EXTINF:-1,24/7 Los Picapiedras (Pequeños)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34278
-#EXTINF:-1,24/7 Bobs Burgers Temp 1-5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125338
-#EXTINF:-1,24/7 Bobs Burgers Temp 6-9
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125339
-#EXTINF:-1,24/7 Futurama
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24618
-#EXTINF:-1,24/7 Futurama HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40859
-#EXTINF:-1,24/7 Futurama Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36594
-#EXTINF:-1,24/7 Los Simpsons Noche de Brujas SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24602
-#EXTINF:-1,24/7 Los Simpsons Noche de Brujas HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86123
-#EXTINF:-1,24/7 Los Simpsons Noche de Brujas FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86124
-#EXTINF:-1,24/7 Los Simpsons Temp 1-5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24661
-#EXTINF:-1,24/7 Los Simpsons Temp 6-10
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102338
-#EXTINF:-1,24/7 Los Simpsons Temp 11-15
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102703
-#EXTINF:-1,24/7 Los Simpsons HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40858
-#EXTINF:-1,24/7 South Park Temp 1-5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26155
-#EXTINF:-1,24/7 La Familia del Barrio
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/119698
-#EXTINF:-1,24/7 Los Reyes de la Colina Temp 1-7
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/119699
-#EXTINF:-1,24/7 Los Reyes de la Colina Temp 8-13
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125337
-#EXTINF:-1,24/7 Brickleberry +15
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26596
-#EXTINF:-1,24/7 Vulgarcito +18
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101948
-#EXTINF:-1,24/7 El Mono Mario +18
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101955
-#EXTINF:-1,24/7 Padre de Familia Temp 1-5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26178
-#EXTINF:-1,24/7 Padre de Familia HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40926
-#EXTINF:-1,24/7 Paw Patroll
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24681
-#EXTINF:-1,24/7 Peppa Pig
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24680
-#EXTINF:-1,24/7 Dinosaurios
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/211240
-#EXTINF:-1,24/7 Transformers Mastersforce (1988)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24613
-#EXTINF:-1,24/7 Transformers Armada
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93724
-#EXTINF:-1,24/7 Transformers Cybertron
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93725
-#EXTINF:-1,24/7 Transformers Energon
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93726
-#EXTINF:-1,24/7 Transformers G1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93727
-#EXTINF:-1,24/7 Transformers Headmasters
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93728
-#EXTINF:-1,24/7 Hey Arnold
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25130
-#EXTINF:-1,24/7 Hombres de Negro Serie Animada
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25131
-#EXTINF:-1,24/7 Los Pitufos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25132
-#EXTINF:-1,24/7 Dragon Ball (Vers Extendida)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25134
-#EXTINF:-1,24/7 Dragon Ball Z Los Saiyajin
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25175
-#EXTINF:-1,24/7 Dragon Ball Z Freezer
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25222
-#EXTINF:-1,24/7 Dragon Ball Z Cell
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25225
-#EXTINF:-1,24/7 Dragon Ball Z Majin Boo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26152
-#EXTINF:-1,24/7 Dragon Ball GT
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25176
-#EXTINF:-1,24/7 She-Ra La Princesa del Poder
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25137
-#EXTINF:-1,24/7 He-Man y los Masters del Universo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25219
-#EXTINF:-1,24/7 Capitan America y Los Planetarios
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25138
-#EXTINF:-1,24/7 Ghostbuster Filmation
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94437
-#EXTINF:-1,24/7 Tom Y Jerry
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25140
-#EXTINF:-1,24/7 Tom Y Jerry Kids
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25141
-#EXTINF:-1,24/7 Pato Aventura
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25142
-#EXTINF:-1,24/7 Sailor Moon (001-046)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25143
-#EXTINF:-1,24/7 Sailor Moon R (047-089)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93740
-#EXTINF:-1,24/7 Sailor Moon S (090-127)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93741
-#EXTINF:-1,24/7 Sailor Moon SuperS (128-166)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93742
-#EXTINF:-1,24/7 Sailor Moon Sailor Stars (167-200)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93743
-#EXTINF:-1,24/7 Las Guerreras Magicas
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25224
-#EXTINF:-1,24/7 Las Tortugas Ninja
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25147
-#EXTINF:-1,24/7 Angry Birds Toons
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25148
-#EXTINF:-1,24/7 Aladino
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25149
-#EXTINF:-1,24/7 Birdman
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25157
-#EXTINF:-1,24/7 Gargolas Heroes Goticos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25158
-#EXTINF:-1,24/7 Hercules (1998)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/160619
-#EXTINF:-1,24/7 Mi Pequeño Pony
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/160621
-#EXTINF:-1,24/7 Spiderman
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25159
-#EXTINF:-1,24/7 Super Mario Bross 3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25160
-#EXTINF:-1,24/7 Super Mario World
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93723
-#EXTINF:-1,24/7 Super Campeones (Captain Tsubasa)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25161
-#EXTINF:-1,24/7 Los Castores Cascarrabias
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25169
-#EXTINF:-1,24/7 Saint Seiya Torneo Galactico (1-40)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25170
-#EXTINF:-1,24/7 Saint Seiya Las 12 Casas (41-73)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25171
-#EXTINF:-1,24/7 Saint Seiya Asgard (74-99)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25172
-#EXTINF:-1,24/7 Saint Seiya Poseidon (100-114)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25173
-#EXTINF:-1,24/7 Saint Seiya Hades (115-145)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25174
-#EXTINF:-1,24/7 Beast Wars
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26602
-#EXTINF:-1,24/7 Beast Wars Machines
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26603
-#EXTINF:-1,24/7 Gi Joe
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25177
-#EXTINF:-1,24/7 Rugrats Aventura en Pañales
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25221
-#EXTINF:-1,24/7 Las Chicas Superpoderosas
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25223
-#EXTINF:-1,24/7 La Isla Misteriosa
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25229
-#EXTINF:-1,24/7 Jhonny Bravo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25220
-#EXTINF:-1,24/7 La Vaca y el Pollito
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25230
-#EXTINF:-1,24/7 Scooby Doo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26412
-#EXTINF:-1,24/7 Don Gato y su Pandilla
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26432
-#EXTINF:-1,24/7 Gasparin y sus Amigos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26435
-#EXTINF:-1,24/7 Las Aventuras de Tin Tin
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26582
-#EXTINF:-1,24/7 Los Supersonicos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26583
-#EXTINF:-1,24/7 Inspector Gadget
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26584
-#EXTINF:-1,24/7 El Oso Yogui
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26600
-#EXTINF:-1,24/7 Los Muppet Babys
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26601
-#EXTINF:-1,24/7 Candy Candy
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26588
-#EXTINF:-1,24/7 Remi el niño de nadie (1977)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125340
-#EXTINF:-1,24/7 El Gladiador (1976)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125342
-#EXTINF:-1,24/7 La Familia Meñique
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26589
-#EXTINF:-1,24/7 La Pequeña Lulu
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26593
-#EXTINF:-1,24/7 Un Show Mas
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26436
-#EXTINF:-1,24/7 El Reto de los Super Amigos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26598
-#EXTINF:-1,24/7 Fenomenoide
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27259
-#EXTINF:-1,24/7 La Hormiga y el Oso Hormiguero
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27261
-#EXTINF:-1,24/7 El Pais de Donkey Kong
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27260
-#EXTINF:-1,24/7 Pinguinos de Madagascar
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27258
-#EXTINF:-1,24/7 Los 7 Pecados Capitales
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27256
-#EXTINF:-1,24/7 Timon & Pumbaa
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27330
-#EXTINF:-1,24/7 La Casa de los Dibujos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32259
-#EXTINF:-1,24/7 La Casa de los Dibujos HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125341
-#EXTINF:-1,24/7 El Gallo Claudio
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32260
-#EXTINF:-1,24/7 Halcones Galacticos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32264
-#EXTINF:-1,24/7 Pinky y Cerebro
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32270
-#EXTINF:-1,24/7 Heathcliff
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34128
-#EXTINF:-1,24/7 Jackie Chan (Animada)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34130
-#EXTINF:-1,24/7 La Tonta Bruja
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34131
-#EXTINF:-1,24/7 Beetlejuice
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34216
-#EXTINF:-1,24/7 Sonic X
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34220
-#EXTINF:-1,24/7 Street Sharks
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34217
-#EXTINF:-1,24/7 Samurai Jack
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34218
-#EXTINF:-1,24/7 Samurai Jack FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102334
-#EXTINF:-1,24/7 Generador Rex
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34236
-#EXTINF:-1,24/7 Los Gatos Samurai
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34295
-#EXTINF:-1,24/7 Sakura Card Captor
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34297
-#EXTINF:-1,24/7 Los Osos Gummi
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34298
-#EXTINF:-1,24/7 La Liga del Dragon VHSRip
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34299
-#EXTINF:-1,24/7 Megaman NT Warrior
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34300
-#EXTINF:-1,24/7 Los Padrinos Magicos
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36593
-#EXTINF:-1,24/7 Thundercats
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40795
-#EXTINF:-1,24/7 ThunderCats (2011)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/119707
-#EXTINF:-1,24/7 Mágicas aventuras de Quasimodo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/212947
-#EXTINF:-1,24/7 Tarzan Animado
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40796
-#EXTINF:-1,24/7 Samurai X
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40797
-#EXTINF:-1,24/7 Mighty Ducks
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40798
-#EXTINF:-1,24/7 101 Dalmatas Animada
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40817
-#EXTINF:-1,24/7 Los Backyardigans
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40856
-#EXTINF:-1,24/7 Robotech
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40857
-#EXTINF:-1,24/7 Pocoyo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40940
-#EXTINF:-1,24/7 El Inspector
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93730
-#EXTINF:-1,24/7 El Inspector Ardilla
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93731
-#EXTINF:-1,24/7 El Show del Pajaro Loco
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93732
-#EXTINF:-1,24/7 En el Valle de los Dinosaurios
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93733
-#EXTINF:-1,24/7 Jumanji Serie Animada
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94447
-#EXTINF:-1,24/7 Justicia Joven
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94448
-#EXTINF:-1,24/7 La Leyenda de Zelda
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94450
-#EXTINF:-1,24/7 La Mascara Animado SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94451
-#EXTINF:-1,24/7 La Mascara Animado HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/227925
-#EXTINF:-1,24/7 Clasicos de Disney (Latino)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/41425
-#EXTINF:-1,24/7 Naruto
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101939
-#EXTINF:-1,24/7 Rick Y Morty
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101944
-#EXTINF:-1,24/7 Spiderwoman
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101947
-#EXTINF:-1,24/7 Las Aventuras de Fly
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101925
-#EXTINF:-1,24/7 Las Nuevas Aventuras de Batman
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101926
-#EXTINF:-1,24/7 Los Cazafantasmas (1986)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101930
-#EXTINF:-1,24/7 X-Men (Animada)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101958
-#EXTINF:-1,24/7 Heidi
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/127229
-#EXTINF:-1,24/7 Hawaii 5-0 Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102189
-#EXTINF:-1,24/7 Hawaii 5-0 Temp 1 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102190
-#EXTINF:-1,24/7 Hawaii 5-0 Temp 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102212
-#EXTINF:-1,24/7 Hawaii 5-0 Temp 2 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102213
-#EXTINF:-1,24/7 Mentes Criminales Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101937
-#EXTINF:-1,24/7 Castle Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32327
-#EXTINF:-1,24/7 Castle Temp 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32328
-#EXTINF:-1,24/7 Castle Temp 3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32334
-#EXTINF:-1,24/7 Castle Temp 4
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32335
-#EXTINF:-1,24/7 Castle Temp 5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32336
-#EXTINF:-1,24/7 Castle Temp 6
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32337
-#EXTINF:-1,24/7 Castle Temp 7
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32338
-#EXTINF:-1,24/7 CSI Miami Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24676
-#EXTINF:-1,24/7 CSI Miami Temp 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25123
-#EXTINF:-1,24/7 CSI Miami Temp 3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101959
-#EXTINF:-1,24/7 CSI Miami Temp 4
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101960
-#EXTINF:-1,24/7 CSI Miami Temp 5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101961
-#EXTINF:-1,24/7 CSI Miami Temp 6
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101962
-#EXTINF:-1,24/7 CSI Miami Temp 7
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101963
-#EXTINF:-1,24/7 CSI Miami Temp 8
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101964
-#EXTINF:-1,24/7 CSI Miami Temp 9
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101965
-#EXTINF:-1,24/7 CSI Miami Temp 10
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101966
-#EXTINF:-1,24/7 NCIS Los Angeles Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24887
-#EXTINF:-1,24/7 NCIS Los Angeles Temp 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101938
-#EXTINF:-1,24/7 FBI Temp 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36595
-#EXTINF:-1,24/7 FBI Temp 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93735
 #EXTINF:-1, group-title="⚽⚾🇲🇽DEPORTES MEXICO🇲🇽⚽⚾",•●★-- Deportes Mexico --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32332
 #EXTINF:-1,SP: MX: Afizzionados 
@@ -1869,6 +1363,512 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24173
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/3522
 #EXTINF:-1,SP: BR: Premiere Clubes HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/3523
+#EXTINF:-1, group-title="🕦 CANALES 24/7 🕦",▂ ▄ ▅ ▆  CANALES 24/7  ▆ ▅ ▄ ▂
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31862
+#EXTINF:-1,24/7 Los Magnificos Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26597
+#EXTINF:-1,24/7 Los Magnificos Temp 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26599
+#EXTINF:-1,24/7 Los Magnificos Temp 3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101928
+#EXTINF:-1,24/7 Los Magnificos Temp 4
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101929
+#EXTINF:-1,24/7 El Auto Fantastico Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24660
+#EXTINF:-1,24/7 El Auto Fantastico Temp 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102160
+#EXTINF:-1,24/7 El Auto Fantastico (2008)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26595
+#EXTINF:-1,24/7 MacGiver (2016) Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26620
+#EXTINF:-1,24/7 MacGiver (2016) Temp 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26621
+#EXTINF:-1,24/7 Baywatch
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40812
+#EXTINF:-1,24/7 El Zorro Temp 1 (1956)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40813
+#EXTINF:-1,24/7 El Zorro Temp 2 (1956)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93734
+#EXTINF:-1,24/7 Walker Texas Ranger
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40855
+#EXTINF:-1,24/7 Cantinflas Parte 1 (18 Peliculas)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24889
+#EXTINF:-1,24/7 Cantinflas Parte 2 (19 Peliculas)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25122
+#EXTINF:-1,24/7 Cantinflas (Animada)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34129
+#EXTINF:-1,24/7 Los 3 Chiflados
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27255
+#EXTINF:-1,24/7 Pedro Infante
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25126
+#EXTINF:-1,24/7 Chespirito (1970)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102078
+#EXTINF:-1,24/7 Chespirito (1980)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102079
+#EXTINF:-1,24/7 Chespirito (1981)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102157
+#EXTINF:-1,24/7 Chespirito (1982)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102219
+#EXTINF:-1,24/7 Chespirito (1984)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102220
+#EXTINF:-1,24/7 Chespirito (1985)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102221
+#EXTINF:-1,24/7 Chespirito (1986)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102229
+#EXTINF:-1,24/7 Chespirito (1987)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102230
+#EXTINF:-1,24/7 Chespirito (1988)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102231
+#EXTINF:-1,24/7 Chespirito (1989)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102310
+#EXTINF:-1,24/7 Chespirito (1991)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102311
+#EXTINF:-1,24/7 Chespirito (1992)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102312
+#EXTINF:-1,24/7 Chespirito (1993)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102313
+#EXTINF:-1,24/7 Chespirito (1994)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102314
+#EXTINF:-1,24/7 Chespirito (1995)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102315
+#EXTINF:-1,24/7 El Chapulin Colorado
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25121
+#EXTINF:-1,24/7 El Chavo del 8
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24888
+#EXTINF:-1,24/7 El Chavo del 8 Serie Animada
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25128
+#EXTINF:-1,24/7 Caso Cerrado Inmigracion
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32432
+#EXTINF:-1,24/7 Caso Cerrado La Familia 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32433
+#EXTINF:-1,24/7 Caso Cerrado La Familia 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34213
+#EXTINF:-1,24/7 Caso Cerrado La Familia 3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34214
+#EXTINF:-1,24/7 Power Rangers 01 Mighty Morphin
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/141225
+#EXTINF:-1,24/7 Power Rangers 02 Mighty Morphin
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/160613
+#EXTINF:-1,24/7 Ben 10
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102316
+#EXTINF:-1,24/7 Ben 10 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102330
+#EXTINF:-1,24/7 Ataque a los Titanes SUB
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36616
+#EXTINF:-1,24/7 Ataque a los Titanes SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102865
+#EXTINF:-1,24/7 Paradise PD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34301
+#EXTINF:-1,24/7 PJ Masks: Heroes en pijamas SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40853
+#EXTINF:-1,24/7 PJ Masks: Heroes en pijamas HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101954
+#EXTINF:-1,24/7 Dragones de Berck
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34255
+#EXTINF:-1,24/7 Los Vengadores (Unidos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26594
+#EXTINF:-1,24/7 Rapido y Furioso (Espias a todo gas)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32268
+#EXTINF:-1,24/7 Guardianes de la Galaxia (Animado)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40854
+#EXTINF:-1,24/7 Gravity Falls
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26590
+#EXTINF:-1,24/7 Mr Pickles
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26619
+#EXTINF:-1,24/7 Barney y sus Amigos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24628
+#EXTINF:-1,24/7 Automan
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25156
+#EXTINF:-1,24/7 Animaniacs
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24439
+#EXTINF:-1,24/7 Autobus Magico
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24437
+#EXTINF:-1,24/7 Bubble Guppies
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24467
+#EXTINF:-1,24/7 Coraje el Perro Cobarde
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24603
+#EXTINF:-1,24/7 Digimon Adventure 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24614
+#EXTINF:-1,24/7 Digimon Adventure 1 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102084
+#EXTINF:-1,24/7 Digimon Adventure 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93729
+#EXTINF:-1,24/7 Donde esta Wally
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24604
+#EXTINF:-1,24/7 Dora la Exploradora
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32319
+#EXTINF:-1,24/7 Dora y sus Amigos en la Ciudad
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24438
+#EXTINF:-1,24/7 El Agente Oso
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24440
+#EXTINF:-1,24/7 El Bebe Jefazo Vuelta al Curro
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24493
+#EXTINF:-1,24/7 El Laboratorio de Dexter
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24605
+#EXTINF:-1,24/7 Equipo Umizoomi
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24615
+#EXTINF:-1,24/7 Fabulas de Esopo
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24627
+#EXTINF:-1,24/7 Garfield
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25127
+#EXTINF:-1,24/7 La Casa de Mickey Mouse
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24617
+#EXTINF:-1,24/7 La Casa de Mickey Mouse Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36617
+#EXTINF:-1,24/7 La Doctora Juguete
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24436
+#EXTINF:-1,24/7 La Pantera Rosa
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24674
+#EXTINF:-1,24/7 Las Pistas de Blue
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24678
+#EXTINF:-1,24/7 Los Picapiedras
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24494
+#EXTINF:-1,24/7 Los Picapiedras (Pequeños)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34278
+#EXTINF:-1,24/7 Bobs Burgers Temp 1-5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125338
+#EXTINF:-1,24/7 Bobs Burgers Temp 6-9
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125339
+#EXTINF:-1,24/7 Futurama
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24618
+#EXTINF:-1,24/7 Futurama HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40859
+#EXTINF:-1,24/7 Futurama Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36594
+#EXTINF:-1,24/7 Los Simpsons Noche de Brujas SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24602
+#EXTINF:-1,24/7 Los Simpsons Noche de Brujas HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86123
+#EXTINF:-1,24/7 Los Simpsons Noche de Brujas FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86124
+#EXTINF:-1,24/7 Los Simpsons Temp 1-5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24661
+#EXTINF:-1,24/7 Los Simpsons Temp 6-10
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102338
+#EXTINF:-1,24/7 Los Simpsons Temp 11-15
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102703
+#EXTINF:-1,24/7 Los Simpsons HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40858
+#EXTINF:-1,24/7 South Park Temp 1-5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26155
+#EXTINF:-1,24/7 La Familia del Barrio
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/119698
+#EXTINF:-1,24/7 Los Reyes de la Colina Temp 1-7
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/119699
+#EXTINF:-1,24/7 Los Reyes de la Colina Temp 8-13
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125337
+#EXTINF:-1,24/7 Brickleberry +15
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26596
+#EXTINF:-1,24/7 Vulgarcito +18
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101948
+#EXTINF:-1,24/7 El Mono Mario +18
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101955
+#EXTINF:-1,24/7 Padre de Familia Temp 1-5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26178
+#EXTINF:-1,24/7 Padre de Familia HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40926
+#EXTINF:-1,24/7 Paw Patroll
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24681
+#EXTINF:-1,24/7 Peppa Pig
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24680
+#EXTINF:-1,24/7 Dinosaurios
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/211240
+#EXTINF:-1,24/7 Transformers Mastersforce (1988)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24613
+#EXTINF:-1,24/7 Transformers Armada
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93724
+#EXTINF:-1,24/7 Transformers Cybertron
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93725
+#EXTINF:-1,24/7 Transformers Energon
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93726
+#EXTINF:-1,24/7 Transformers G1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93727
+#EXTINF:-1,24/7 Transformers Headmasters
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93728
+#EXTINF:-1,24/7 Hey Arnold
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25130
+#EXTINF:-1,24/7 Hombres de Negro Serie Animada
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25131
+#EXTINF:-1,24/7 Los Pitufos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25132
+#EXTINF:-1,24/7 Dragon Ball (Vers Extendida)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25134
+#EXTINF:-1,24/7 Dragon Ball Z Los Saiyajin
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25175
+#EXTINF:-1,24/7 Dragon Ball Z Freezer
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25222
+#EXTINF:-1,24/7 Dragon Ball Z Cell
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25225
+#EXTINF:-1,24/7 Dragon Ball Z Majin Boo
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26152
+#EXTINF:-1,24/7 Dragon Ball GT
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25176
+#EXTINF:-1,24/7 She-Ra La Princesa del Poder
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25137
+#EXTINF:-1,24/7 He-Man y los Masters del Universo
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25219
+#EXTINF:-1,24/7 Capitan America y Los Planetarios
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25138
+#EXTINF:-1,24/7 Ghostbuster Filmation
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94437
+#EXTINF:-1,24/7 Tom Y Jerry
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25140
+#EXTINF:-1,24/7 Tom Y Jerry Kids
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25141
+#EXTINF:-1,24/7 Pato Aventura
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25142
+#EXTINF:-1,24/7 Sailor Moon (001-046)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25143
+#EXTINF:-1,24/7 Sailor Moon R (047-089)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93740
+#EXTINF:-1,24/7 Sailor Moon S (090-127)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93741
+#EXTINF:-1,24/7 Sailor Moon SuperS (128-166)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93742
+#EXTINF:-1,24/7 Sailor Moon Sailor Stars (167-200)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93743
+#EXTINF:-1,24/7 Las Guerreras Magicas
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25224
+#EXTINF:-1,24/7 Las Tortugas Ninja
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25147
+#EXTINF:-1,24/7 Angry Birds Toons
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25148
+#EXTINF:-1,24/7 Aladino
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25149
+#EXTINF:-1,24/7 Birdman
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25157
+#EXTINF:-1,24/7 Gargolas Heroes Goticos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25158
+#EXTINF:-1,24/7 Hercules (1998)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/160619
+#EXTINF:-1,24/7 Mi Pequeño Pony
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/160621
+#EXTINF:-1,24/7 Spiderman
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25159
+#EXTINF:-1,24/7 Super Mario Bross 3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25160
+#EXTINF:-1,24/7 Super Mario World
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93723
+#EXTINF:-1,24/7 Super Campeones (Captain Tsubasa)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25161
+#EXTINF:-1,24/7 Los Castores Cascarrabias
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25169
+#EXTINF:-1,24/7 Saint Seiya Torneo Galactico (1-40)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25170
+#EXTINF:-1,24/7 Saint Seiya Las 12 Casas (41-73)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25171
+#EXTINF:-1,24/7 Saint Seiya Asgard (74-99)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25172
+#EXTINF:-1,24/7 Saint Seiya Poseidon (100-114)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25173
+#EXTINF:-1,24/7 Saint Seiya Hades (115-145)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25174
+#EXTINF:-1,24/7 Beast Wars
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26602
+#EXTINF:-1,24/7 Beast Wars Machines
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26603
+#EXTINF:-1,24/7 Gi Joe
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25177
+#EXTINF:-1,24/7 Rugrats Aventura en Pañales
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25221
+#EXTINF:-1,24/7 Las Chicas Superpoderosas
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25223
+#EXTINF:-1,24/7 La Isla Misteriosa
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25229
+#EXTINF:-1,24/7 Jhonny Bravo
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25220
+#EXTINF:-1,24/7 La Vaca y el Pollito
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25230
+#EXTINF:-1,24/7 Scooby Doo
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26412
+#EXTINF:-1,24/7 Don Gato y su Pandilla
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26432
+#EXTINF:-1,24/7 Gasparin y sus Amigos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26435
+#EXTINF:-1,24/7 Las Aventuras de Tin Tin
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26582
+#EXTINF:-1,24/7 Los Supersonicos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26583
+#EXTINF:-1,24/7 Inspector Gadget
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26584
+#EXTINF:-1,24/7 El Oso Yogui
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26600
+#EXTINF:-1,24/7 Los Muppet Babys
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26601
+#EXTINF:-1,24/7 Candy Candy
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26588
+#EXTINF:-1,24/7 Remi el niño de nadie (1977)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125340
+#EXTINF:-1,24/7 El Gladiador (1976)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125342
+#EXTINF:-1,24/7 La Familia Meñique
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26589
+#EXTINF:-1,24/7 La Pequeña Lulu
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26593
+#EXTINF:-1,24/7 Un Show Mas
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26436
+#EXTINF:-1,24/7 El Reto de los Super Amigos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26598
+#EXTINF:-1,24/7 Fenomenoide
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27259
+#EXTINF:-1,24/7 La Hormiga y el Oso Hormiguero
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27261
+#EXTINF:-1,24/7 El Pais de Donkey Kong
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27260
+#EXTINF:-1,24/7 Pinguinos de Madagascar
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27258
+#EXTINF:-1,24/7 Los 7 Pecados Capitales
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27256
+#EXTINF:-1,24/7 Timon & Pumbaa
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27330
+#EXTINF:-1,24/7 La Casa de los Dibujos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32259
+#EXTINF:-1,24/7 La Casa de los Dibujos HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/125341
+#EXTINF:-1,24/7 El Gallo Claudio
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32260
+#EXTINF:-1,24/7 Halcones Galacticos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32264
+#EXTINF:-1,24/7 Pinky y Cerebro
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32270
+#EXTINF:-1,24/7 Heathcliff
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34128
+#EXTINF:-1,24/7 Jackie Chan (Animada)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34130
+#EXTINF:-1,24/7 La Tonta Bruja
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34131
+#EXTINF:-1,24/7 Beetlejuice
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34216
+#EXTINF:-1,24/7 Sonic X
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34220
+#EXTINF:-1,24/7 Street Sharks
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34217
+#EXTINF:-1,24/7 Samurai Jack
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34218
+#EXTINF:-1,24/7 Samurai Jack FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102334
+#EXTINF:-1,24/7 Generador Rex
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34236
+#EXTINF:-1,24/7 Los Gatos Samurai
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34295
+#EXTINF:-1,24/7 Sakura Card Captor
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34297
+#EXTINF:-1,24/7 Los Osos Gummi
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34298
+#EXTINF:-1,24/7 La Liga del Dragon VHSRip
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34299
+#EXTINF:-1,24/7 Megaman NT Warrior
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34300
+#EXTINF:-1,24/7 Los Padrinos Magicos
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36593
+#EXTINF:-1,24/7 Thundercats
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40795
+#EXTINF:-1,24/7 ThunderCats (2011)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/119707
+#EXTINF:-1,24/7 Mágicas aventuras de Quasimodo
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/212947
+#EXTINF:-1,24/7 Tarzan Animado
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40796
+#EXTINF:-1,24/7 Samurai X
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40797
+#EXTINF:-1,24/7 Mighty Ducks
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40798
+#EXTINF:-1,24/7 101 Dalmatas Animada
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40817
+#EXTINF:-1,24/7 Los Backyardigans
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40856
+#EXTINF:-1,24/7 Robotech
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40857
+#EXTINF:-1,24/7 Pocoyo
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40940
+#EXTINF:-1,24/7 El Inspector
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93730
+#EXTINF:-1,24/7 El Inspector Ardilla
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93731
+#EXTINF:-1,24/7 El Show del Pajaro Loco
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93732
+#EXTINF:-1,24/7 En el Valle de los Dinosaurios
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93733
+#EXTINF:-1,24/7 Jumanji Serie Animada
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94447
+#EXTINF:-1,24/7 Justicia Joven
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94448
+#EXTINF:-1,24/7 La Leyenda de Zelda
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94450
+#EXTINF:-1,24/7 La Mascara Animado SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/94451
+#EXTINF:-1,24/7 La Mascara Animado HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/227925
+#EXTINF:-1,24/7 Clasicos de Disney (Latino)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/41425
+#EXTINF:-1,24/7 Naruto
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101939
+#EXTINF:-1,24/7 Rick Y Morty
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101944
+#EXTINF:-1,24/7 Spiderwoman
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101947
+#EXTINF:-1,24/7 Las Aventuras de Fly
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101925
+#EXTINF:-1,24/7 Las Nuevas Aventuras de Batman
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101926
+#EXTINF:-1,24/7 Los Cazafantasmas (1986)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101930
+#EXTINF:-1,24/7 X-Men (Animada)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101958
+#EXTINF:-1,24/7 Heidi
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/127229
+#EXTINF:-1,24/7 Hawaii 5-0 Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102189
+#EXTINF:-1,24/7 Hawaii 5-0 Temp 1 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102190
+#EXTINF:-1,24/7 Hawaii 5-0 Temp 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102212
+#EXTINF:-1,24/7 Hawaii 5-0 Temp 2 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102213
+#EXTINF:-1,24/7 Mentes Criminales Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101937
+#EXTINF:-1,24/7 Castle Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32327
+#EXTINF:-1,24/7 Castle Temp 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32328
+#EXTINF:-1,24/7 Castle Temp 3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32334
+#EXTINF:-1,24/7 Castle Temp 4
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32335
+#EXTINF:-1,24/7 Castle Temp 5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32336
+#EXTINF:-1,24/7 Castle Temp 6
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32337
+#EXTINF:-1,24/7 Castle Temp 7
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32338
+#EXTINF:-1,24/7 CSI Miami Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24676
+#EXTINF:-1,24/7 CSI Miami Temp 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/25123
+#EXTINF:-1,24/7 CSI Miami Temp 3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101959
+#EXTINF:-1,24/7 CSI Miami Temp 4
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101960
+#EXTINF:-1,24/7 CSI Miami Temp 5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101961
+#EXTINF:-1,24/7 CSI Miami Temp 6
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101962
+#EXTINF:-1,24/7 CSI Miami Temp 7
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101963
+#EXTINF:-1,24/7 CSI Miami Temp 8
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101964
+#EXTINF:-1,24/7 CSI Miami Temp 9
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101965
+#EXTINF:-1,24/7 CSI Miami Temp 10
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101966
+#EXTINF:-1,24/7 NCIS Los Angeles Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24887
+#EXTINF:-1,24/7 NCIS Los Angeles Temp 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101938
+#EXTINF:-1,24/7 FBI Temp 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36595
+#EXTINF:-1,24/7 FBI Temp 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93735
 #EXTINF:-1, group-title="⚽ Premier League ⚽", ⚽ Premier League ⚽
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233628
 #EXTINF:-1,SP: Premier League: Sky Sports Premier League HD (UK)
