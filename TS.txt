@@ -37,7 +37,7 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 https://mdstrm.com/live-stream-playlist/5e60f5588a57af075650c315.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg" tvg-name="MEDCOM GO 2"  group-title="LOCALES",MEDCOM GO 2
 https://mdstrm.com/live-stream-playlist/5ddc34626e84010896e952f2.m3u8
-#EXTINF:-1, group-title="LOCALES OP2",▂ ▄ ▅ ▆  PANAMA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇵🇦 LOCALES OP2 🇵🇦",▂ ▄ ▅ ▆  PANAMA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31878
 #EXTINF:-1,PA: Nex Canal 21
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6840
@@ -103,7 +103,7 @@ http://ky-iptv.com:80/danilo/12345/514596.ts
 http://ky-iptv.com:80/danilo/12345/514598.ts
 #EXTINF:-1,PA: Telemetro OP2
 http://ky-iptv.com:80/danilo/12345/514600.ts
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="PELICULAS",A quemaropa
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="🎞️ PELICULAS 🎞️",A quemaropa
 http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
 #EXTINF:-1,acción policial
 http://tux-vod.dynu.com:80/peliculas/720/police%20story.mkv
@@ -1313,7 +1313,177 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101938
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36595
 #EXTINF:-1,24/7 FBI Temp 2
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93735
-#EXTINF:-1, ⚽ Premier League ⚽
+#EXTINF:-1, group-title="⚽⚾🇲🇽MEXICO🇲🇽⚽⚾",•●★-- Deportes Mexico --★●•
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32332
+#EXTINF:-1,SP: MX: Afizzionados 
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27246
+#EXTINF:-1,SP: MX: Espn 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26526
+#EXTINF:-1,SP: MX: Espn 1 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107158
+#EXTINF:-1,SP: MX: Espn 1 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24637
+#EXTINF:-1,SP: MX: Espn 2 (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65829
+#EXTINF:-1,SP: MX: Espn 2 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107157
+#EXTINF:-1,SP: MX: Espn 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26527
+#EXTINF:-1,SP: MX: Espn 2 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24638
+#EXTINF:-1,SP: MX: Espn 3 (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65828
+#EXTINF:-1,SP: MX: Espn 3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26528
+#EXTINF:-1,SP: MX: Espn 3 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24639
+#EXTINF:-1,SP: MX: Espn+
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26529
+#EXTINF:-1,SP: MX: Espn+ HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107160
+#EXTINF:-1,SP: MX: Espn+ Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24636
+#EXTINF:-1,SP: MX: Fox Sports 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/928
+#EXTINF:-1,SP: MX: Fox Sports 1 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27204
+#EXTINF:-1,SP: MX: Fox Sports 1 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/937
+#EXTINF:-1,SP: MX: Fox Sports 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/929
+#EXTINF:-1,SP: MX: Fox Sports 2 HD 
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27205
+#EXTINF:-1,SP: MX: Fox Sports 2 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/939
+#EXTINF:-1,SP: MX: Fox Sports 3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/930
+#EXTINF:-1,SP: MX: Fox Sports 3 HD 
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27206
+#EXTINF:-1,SP: MX: Fox Sports 3 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/941
+#EXTINF:-1,SP: MX: TUDN (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65816
+#EXTINF:-1,SP: MX: TUDN (USA)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1905
+#EXTINF:-1,SP: MX: TUDN HD (USA)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32904
+#EXTINF:-1,SP: MX: TUDN (Mexico)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32905
+#EXTINF:-1,SP: MX: TUDN FHD (Mexico)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40909
+#EXTINF:-1,SP: MX: TUDN X1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1906
+#EXTINF:-1,SP: MX: TUDN X2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1907
+#EXTINF:-1,SP: MX: TUDN X4
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1908
+#EXTINF:-1,SP: MX: TUDN X3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1909
+#EXTINF:-1,SP: MX: TUDN X5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1910
+#EXTINF:-1,SP: MX: TUDN X6
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1911
+#EXTINF:-1,SP: MX: TUDN X7
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1912
+#EXTINF:-1,SP: MX: TUDN X8
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1913
+#EXTINF:-1,SP: MX: TUDN X9
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1914
+#EXTINF:-1,SP: MX: TUDN X10
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1915
+#EXTINF:-1,SP: MX: TUDN X11
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/69255
+#EXTINF:-1,SP: MX: Adrenalina Sport Network
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/72055
+#EXTINF:-1,SP: MX: Adrenalina Sport Network FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27207
+#EXTINF:-1,SP: MX: Golf Channel Latinoamerica FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107172
+#EXTINF:-1,SP: MX: TVC Deportes SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/224677
+#EXTINF:-1, group-title="🇨🇴⚽⚾🏈COLOMBIA",•●★-- Deportes Colombia --★●•
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32341
+#EXTINF:-1,SP: CO: Espn 1 Sur (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65103
+#EXTINF:-1,SP: CO: Espn 1 Sur SD (Opc 1)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/931
+#EXTINF:-1,SP: CO: Espn 1 Sur SD (Opc 2)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137264
+#EXTINF:-1,SP: CO: Espn 1 Sur HD (Opc 1)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26576
+#EXTINF:-1,SP: CO: Espn 1 Sur HD (Opc 2)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137265
+#EXTINF:-1,SP: CO: Espn 1 Sur FHD (Opc 1)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/943
+#EXTINF:-1,SP: CO: Espn 1 Sur FHD (Opc 2)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137266
+#EXTINF:-1,SP: CO: Espn 2 Sur (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65826
+#EXTINF:-1,SP: CO: Espn 2 Sur SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/932
+#EXTINF:-1,SP: CO: Espn 2 Sur HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26577
+#EXTINF:-1,SP: CO: Espn 2 Sur FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/945
+#EXTINF:-1,SP: CO: Espn 3 Sur SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/933
+#EXTINF:-1,SP: CO: Espn 3 Sur HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26578
+#EXTINF:-1,SP: CO: Espn 3 Sur Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/946
+#EXTINF:-1,SP: CO: Espn Plus Sur
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/934
+#EXTINF:-1,SP: CO: Espn Plus Sur HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26579
+#EXTINF:-1,SP: CO: Espn Plus Sur Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/947
+#EXTINF:-1,SP: CO: Fox Sports 1 Sur
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/923
+#EXTINF:-1,SP: CO: Fox Sports 1 Sur HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26573
+#EXTINF:-1,SP: CO: Fox Sports 1 Sur Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/938
+#EXTINF:-1,SP: CO: Fox Sports 2 Sur
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/924
+#EXTINF:-1,SP: CO: Fox Sports 2 Sur HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26574
+#EXTINF:-1,SP: CO: Fox Sports 2 Sur Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/940
+#EXTINF:-1,SP: CO: Fox Sports 3 Sur
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/925
+#EXTINF:-1,SP: CO: Fox Sports 3 Sur HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26575
+#EXTINF:-1,SP: CO: Fox Sports 3 Sur Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/942
+#EXTINF:-1,SP: CO: Directv Sports 1 SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233833
+#EXTINF:-1,SP: CO: Directv Sports 1 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1918
+#EXTINF:-1,SP: CO: Directv Sports 2 SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233834
+#EXTINF:-1,SP: CO: Directv Sports 2 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1919
+#EXTINF:-1,SP: CO: Directv Sports Plus
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1920
+#EXTINF:-1,SP: CO: Win Sports (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102714
+#EXTINF:-1,SP: CO: Win Sports SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/80906
+#EXTINF:-1,SP: CO: Win Sports HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/11130
+#EXTINF:-1,SP: CO: Win Sports Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/2030
+#EXTINF:-1,SP: CO: Win Sports+ SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/80905
+#EXTINF:-1,SP: CO: Win Sports+ HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/80904
+#EXTINF:-1,SP: CO: Win Sports+ FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/30104
+#EXTINF:-1,SP: CO: Claro Sports Latinoamerica FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/927
+#EXTINF:-1,SP: CO: Claro Sports Latinoamerica
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101874
+#EXTINF:-1, group-title="⚽ Premier League ⚽", ⚽ Premier League ⚽
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233628
 #EXTINF:-1,SP: Premier League: Sky Sports Premier League HD (UK)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232274
@@ -1341,7 +1511,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234508
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234509
 #EXTINF:-1,SP: Premier League: Ziggo Sport HD (NL)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234510
-#EXTINF:-1,⚽ UEFA Champion League ⚽
+#EXTINF:-1, group-title="⚽ UEFA Champion League ⚽",⚽ UEFA Champion League ⚽
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233629
 #EXTINF:-1,SP: UEFA: ESPN 1 HD (LAT)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232314
@@ -1393,7 +1563,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232301
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232302
 #EXTINF:-1,SP: UEFA: TUDN X11
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232303
-#EXTINF:-1,⚽ La Liga ⚽
+#EXTINF:-1, group-title="⚽ La Liga ⚽",⚽ La Liga ⚽
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233630
 #EXTINF:-1,SP: La Liga: Barca TV
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232239
@@ -1427,6 +1597,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232242
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232236
 #EXTINF:-1,SP: La Liga: Real Madrid TV SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232238
+#EXTINF:-1, group-title="⚽ SERIE A ⚽",⚽ SERIE A ⚽
 #EXTINF:-1,SP: Serie A: ESPN 2 HD (MX)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234511
 #EXTINF:-1,SP: Serie A: C More Fotboll HD (SE)
@@ -1445,6 +1616,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232288
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232287
 #EXTINF:-1,SP: Serie ESPN 2 HD (LAT)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232289
+#EXTINF:-1, group-title="⚽ BUMDESLIGA ⚽",⚽ BUNDESLIGA ⚽
 #EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen Bundesliga 1 FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232217
 #EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 2 FHD
@@ -1516,6 +1688,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232206
 #EXTINF:-1,SP: Bundesliga: Sky Bundesliga 9 FHD (Solo Eventos)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232207
 #EXTINF:-1,SP: Bundesliga: Sky Bundesliga 9 HD (Solo Eventos)
+#EXTINF:-1, group-title="⚽ Copa Libertadores ⚽",⚽ Copa Libertadores ⚽
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232208
 #EXTINF:-1,SP: Copa Libertadores: Fox Sports 2 Sur
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232228
@@ -1535,6 +1708,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232233
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232234
 #EXTINF:-1,SP: Copa Libertadores: Sport TV 2 (Portugal)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232235
+#EXTINF:-1, group-title="⚽ LIGA 1 ⚽",⚽ LIGA 1 ⚽
 #EXTINF:-1,SP: Ligue: Amazon Prime Opc 1 (Solo Eventos)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232253
 #EXTINF:-1,SP: Ligue: Amazon Prime Opc 2 (Solo Eventos)
@@ -1551,6 +1725,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232258
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232259
 #EXTINF:-1,SP: Ligue: Amazon Prime Opc 8 (Solo Eventos)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232260
+#EXTINF:-1, group-title="⚽ DEPORTES ⚽",⚽ DEPORTES ⚽
 #EXTINF:-1,SP: USA: MLB Network
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/129157
 #EXTINF:-1,SP: FTF (For the Fans) (D)
@@ -1607,7 +1782,143 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235353
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235354
 #EXTINF:-1,Liga: Multideportes
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235355
-#EXTINF:-1,▂ ▄ ▅ ▆  ENTRETENIMIENTO  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇲🇽 MEXICO 🇲🇽",▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32224
+#EXTINF:-1,MX: Az Cinema
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24069
+#EXTINF:-1,MX: Az Cinema Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24070
+#EXTINF:-1,MX: Az Clic (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65048
+#EXTINF:-1,MX: Az Clic
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24061
+#EXTINF:-1,MX: Az Clic Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24062
+#EXTINF:-1,MX: Az Corazon
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24051
+#EXTINF:-1,MX: Az Corazon Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24052
+#EXTINF:-1,MX: Az Mundo
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24079
+#EXTINF:-1,MX: Az Mundo Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24080
+#EXTINF:-1,MX: Azteca 7 (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64739
+#EXTINF:-1,MX: Azteca 7
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24032
+#EXTINF:-1,MX: Azteca 7 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24033
+#EXTINF:-1,MX: Azteca Uno (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65050
+#EXTINF:-1,MX: Azteca Uno
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24034
+#EXTINF:-1,MX: Azteca Uno Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24035
+#EXTINF:-1,MX: 52
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24078
+#EXTINF:-1,MX: A Plus
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24081
+#EXTINF:-1,MX: ADN 40 (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64721
+#EXTINF:-1,MX: ADN 40
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24039
+#EXTINF:-1,MX: ADN 40 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107115
+#EXTINF:-1,MX: ADN 40 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24040
+#EXTINF:-1,MX: Canal 2 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24085
+#EXTINF:-1,MX: Canal 4 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24084
+#EXTINF:-1,MX: Canal 5 (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65060
+#EXTINF:-1,MX: Canal 5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24036
+#EXTINF:-1,MX: Canal 5 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24037
+#EXTINF:-1,MX: Canal 8 (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65061
+#EXTINF:-1,MX: Canal 8 Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24086
+#EXTINF:-1,MX: Canal Judicial
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24082
+#EXTINF:-1,MX: Canal Judicial Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24083
+#EXTINF:-1,MX: Distrito Comedia
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24074
+#EXTINF:-1,MX: Distrito Comedia HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/178028
+#EXTINF:-1,MX: Foro TV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24041
+#EXTINF:-1,MX: Foro TV Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24042
+#EXTINF:-1,MX: Galatv
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24038
+#EXTINF:-1,MX: Garage TV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24053
+#EXTINF:-1,MX: Garage TV Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24054
+#EXTINF:-1,MX: Glitz (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65727
+#EXTINF:-1,MX: Glitz
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24075
+#EXTINF:-1,MX: Hola TV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24055
+#EXTINF:-1,MX: Hola TV Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24056
+#EXTINF:-1,MX: Imagen TV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24064
+#EXTINF:-1,MX: Mas Chic
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24057
+#EXTINF:-1,MX: Mas Chic Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24058
+#EXTINF:-1,MX: Mexiquense
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24071
+#EXTINF:-1,MX: Milenio TV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24059
+#EXTINF:-1,MX: Milenio TV Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24060
+#EXTINF:-1,MX: Multimedios
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24043
+#EXTINF:-1,MX: Multimedios Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24044
+#EXTINF:-1,MX: Multimedios Plus
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24045
+#EXTINF:-1,MX: Multimedios Plus Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24046
+#EXTINF:-1,MX: Teleformula
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24047
+#EXTINF:-1,MX: Televisa MTY
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24048
+#EXTINF:-1,MX: Televisa Puebla (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65785
+#EXTINF:-1,MX: Televisa Puebla
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24049
+#EXTINF:-1,MX: Televisa Puebla Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24050
+#EXTINF:-1,MX: TV Mas
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24072
+#EXTINF:-1,MX: TV Mas Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24073
+#EXTINF:-1,MX: Unicable
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24065
+#EXTINF:-1,MX: Unicable Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24066
+#EXTINF:-1,MX: TL Novelas
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24096
+#EXTINF:-1,MX: TL Novelas HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/72250
+#EXTINF:-1,MX: Wobi TV (MOVIL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65784
+#EXTINF:-1,MX: Wobi TV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24067
+#EXTINF:-1,MX: Wobi TV Full HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24068
+#EXTINF:-1,MX: Bit Me
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64404
+#EXTINF:-1,MX: Bit Me FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64405
+#EXTINF:-1, group-title="📺 ENTRETENIMIENTO 📺",▂ ▄ ▅ ▆  ENTRETENIMIENTO  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31942
 #EXTINF:-1,LAT: Smithsonian Channel Latino
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/163533
@@ -1869,7 +2180,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/15102
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65812
 #EXTINF:-1,LAT: TBS (CO)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/4581
-#EXTINF:-1,•●★-- USA Latino Telemundo --★●•
+#EXTINF:-1, group-title="📺 Telemundo 📺",•●★-- USA Latino Telemundo --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233624
 #EXTINF:-1,LAT: Telemundo Internacional SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232179
@@ -1917,7 +2228,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/127414
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/153858
 #EXTINF:-1,LAT: Telemundo Atlanta
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/160606
-#EXTINF:-1,•●★-- USA Latino Galavision --★●•
+#EXTINF:-1, group-title="📺 Galavision 📺",•●★-- USA Latino Galavision --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233627
 #EXTINF:-1,LAT: Galavision Atlanta HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26794
@@ -1945,7 +2256,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26810
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26811
 #EXTINF:-1,LAT: Galavision West HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26812
-#EXTINF:-1,•●★-- USA Latino Univisión --★●•
+#EXTINF:-1, group-title="📺 Univisión 📺",•●★-- USA Latino Univisión --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233625
 #EXTINF:-1,LAT: Univision Noticias HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26861
@@ -1987,7 +2298,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26881
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26882
 #EXTINF:-1,LAT: Univision Puerto Rico HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26883
-#EXTINF:-1,•●★-- USA Latino Unimas --★●•
+#EXTINF:-1, group-title="📺 Unimas 📺",•●★-- USA Latino Unimas --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233626
 #EXTINF:-1,LAT: Unimas Albuquerque Santa Fe HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26884
@@ -2039,7 +2350,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31124
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31122
 #EXTINF:-1,LAT: Universo
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31133
-#EXTINF:-1,▂ ▄ ▅ ▆  CINE TV  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🎥 CINE TV 🎥",▄ ▅ ▆  CINE TV  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31943
 #EXTINF:-1,Cine TV: Run:Time 1 HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/228167
@@ -2635,7 +2946,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24978
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24979
 #EXTINF:-1,Cine TV: Cinema 37
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24980
-#EXTINF:-1,▂ ▄ ▅ ▆  INFANTIL  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🎮 INFANTIL 🎮",▄ ▅ ▆  INFANTIL  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31944
 #EXTINF:-1,Infantil: Play Kids FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/80920
@@ -2745,7 +3056,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7360
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126040
 #EXTINF:-1,Infantil: Ultra Kids
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126041
-#EXTINF:-1,▂ ▄ ▅ ▆  ARGENTINA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇦🇷 ARGENTINA 🇦🇷",▄ ▅ ▆  ARGENTINA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31863
 #EXTINF:-1,ARG: Net TV HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/163369
@@ -2889,7 +3200,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/71732
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/71733
 #EXTINF:-1,ARG: LA 90 FM
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/41354
-#EXTINF:-1,•●★-- Deportes Argentina --★●•
+#EXTINF:-1, group-title="🇦🇷 ⚽DEPORTES ARGENTINA⚽ 🇦🇷",•●★-- Deportes Argentina --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32333
 #EXTINF:-1,SP: ARG: TNT Sports SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233835
@@ -2937,7 +3248,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31810
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26938
 #EXTINF:-1,SP: ARG: DeporTV SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26940
-#EXTINF:-1,▂ ▄ ▅ ▆  CHILE  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇨🇱 CHILE 🇨🇱",▂ ▄ ▅ ▆  CHILE  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32094
 #EXTINF:-1,CL: PPV CHILE 1
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/72251
@@ -3073,7 +3384,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/33712
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64420
 #EXTINF:-1,CL: TV 8 Concepcion
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/75307
-#EXTINF:-1,•●★-- Deportes Chile --★●•
+#EXTINF:-1, group-title="🇨🇱 ⚽DEPORTES CHILE⚽ 🇨🇱",•●★-- Deportes Chile --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32340
 #EXTINF:-1,SP: CL: Espn SD 
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/110182
@@ -3125,7 +3436,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/320
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40956
 #EXTINF:-1,SP: CL: Teletrak HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/322
-#EXTINF:-1,▂ ▄ ▅ ▆  BOLIVIA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇧🇴 BOLIVIA 🇧🇴",▂ ▄ ▅ ▆  BOLIVIA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31864
 #EXTINF:-1,BO: ATB (MOVIL)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64736
@@ -3189,7 +3500,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24153
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/416
 #EXTINF:-1,SP: BO: Bolivia Deportes
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6059
-#EXTINF:-1,▂ ▄ ▅ ▆  NICARAGUA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇳🇮 NICARAGUA 🇳🇮",▂ ▄ ▅ ▆  NICARAGUA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31866
 #EXTINF:-1,NIC: Canal 2
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1983
@@ -3207,7 +3518,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1990
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1991
 #EXTINF:-1,NIC: Canal 14
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40827
-#EXTINF:-1,▂ ▄ ▅ ▆  REPUBLICA DOMINICANA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇩🇴 RD 🇩🇴",▂ ▄ ▅ ▆  REPUBLICA DOMINICANA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31867
 #EXTINF:-1,R.DO: Antena 7
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/4584
@@ -3261,7 +3572,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126027
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/225545
 #EXTINF:-1,SP: R.DO: CDN Sports
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101876
-#EXTINF:-1,▂ ▄ ▅ ▆  COSTA RICA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇨🇷 COSTA RICA 🇨🇷",▂ ▄ ▅ ▆  COSTA RICA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31868
 #EXTINF:-1,CR: Repretel 4
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/4628
@@ -3437,7 +3748,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126028
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126029
 #EXTINF:-1,SP: CR: Canal Pura Vida
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/205595
-#EXTINF:-1,▂ ▄ ▅ ▆  EL SALVADOR  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇸🇻 EL SALVADOR 🇸🇻",▄ ▅ ▆  EL SALVADOR  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31872
 #EXTINF:-1,SV: Canal 2
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6476
@@ -3473,7 +3784,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32346
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/112985
 #EXTINF:-1,SP: SV: Tigo Sports FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/112986
-#EXTINF:-1,▂ ▄ ▅ ▆  HONDURAS  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇭🇳 HONDURAS 🇭🇳",▂ ▄ ▅ ▆  HONDURAS  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31877
 #EXTINF:-1,HN: Azteca Honduras HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6804
@@ -3525,7 +3836,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31816
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/212880
 #EXTINF:-1,SP: HN: TDTV+
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/212881
-#EXTINF:-1,▂ ▄ ▅ ▆  PUERTO RICO  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇵🇷 PUERTO RICO 🇵🇷",▄ ▅ ▆  PUERTO RICO  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31879
 #EXTINF:-1,PR: Mega TV
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6829
@@ -3541,7 +3852,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6834
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6835
 #EXTINF:-1,PR: Telemundo
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/6830
-#EXTINF:-1,▂ ▄ ▅ ▆  GUATEMALA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇬🇹 GUATEMALA 🇬🇹",▄ ▅ ▆  GUATEMALA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31880
 #EXTINF:-1,GT: Retro Tv
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/8343
@@ -3565,7 +3876,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31806
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/34127
 #EXTINF:-1,SP: GT: Tigo Sports FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126030
-#EXTINF:-1,▂ ▄ ▅ ▆  CUBA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇨🇺 CUBA 🇨🇺",▄ ▅ ▆  CUBA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31916
 #EXTINF:-1,CU: Cubavision Internacional
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32067
@@ -3583,7 +3894,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102391
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102392
 #EXTINF:-1,CU: Voz Cuba Tv
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102393
-#EXTINF:-1,▂ ▄ ▅ ▆  HAITI  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇭🇹 HAITI 🇭🇹",▂ ▄ ▅ ▆  HAITI  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132501
 #EXTINF:-1,HT: Tropical Groove....
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132445
@@ -3697,7 +4008,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132498
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132499
 #EXTINF:-1,HT: Boston Neighborhood Network
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/132500
-#EXTINF:-1,▂ ▄ ▅ ▆  COLOMBIA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇨🇴 COLOMBIA 🇨🇴", ▄ ▅ ▆  COLOMBIA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32095
 #EXTINF:-1,CO: Canal 1 (MOVIL)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65058
@@ -3803,89 +4114,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48272
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107079
 #EXTINF:-1,CO: Trece (MOVIL)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65751
-#EXTINF:-1,•●★-- Deportes Colombia --★●•
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32341
-#EXTINF:-1,SP: CO: Espn 1 Sur (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65103
-#EXTINF:-1,SP: CO: Espn 1 Sur SD (Opc 1)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/931
-#EXTINF:-1,SP: CO: Espn 1 Sur SD (Opc 2)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137264
-#EXTINF:-1,SP: CO: Espn 1 Sur HD (Opc 1)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26576
-#EXTINF:-1,SP: CO: Espn 1 Sur HD (Opc 2)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137265
-#EXTINF:-1,SP: CO: Espn 1 Sur FHD (Opc 1)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/943
-#EXTINF:-1,SP: CO: Espn 1 Sur FHD (Opc 2)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137266
-#EXTINF:-1,SP: CO: Espn 2 Sur (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65826
-#EXTINF:-1,SP: CO: Espn 2 Sur SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/932
-#EXTINF:-1,SP: CO: Espn 2 Sur HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26577
-#EXTINF:-1,SP: CO: Espn 2 Sur FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/945
-#EXTINF:-1,SP: CO: Espn 3 Sur SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/933
-#EXTINF:-1,SP: CO: Espn 3 Sur HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26578
-#EXTINF:-1,SP: CO: Espn 3 Sur Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/946
-#EXTINF:-1,SP: CO: Espn Plus Sur
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/934
-#EXTINF:-1,SP: CO: Espn Plus Sur HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26579
-#EXTINF:-1,SP: CO: Espn Plus Sur Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/947
-#EXTINF:-1,SP: CO: Fox Sports 1 Sur
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/923
-#EXTINF:-1,SP: CO: Fox Sports 1 Sur HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26573
-#EXTINF:-1,SP: CO: Fox Sports 1 Sur Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/938
-#EXTINF:-1,SP: CO: Fox Sports 2 Sur
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/924
-#EXTINF:-1,SP: CO: Fox Sports 2 Sur HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26574
-#EXTINF:-1,SP: CO: Fox Sports 2 Sur Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/940
-#EXTINF:-1,SP: CO: Fox Sports 3 Sur
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/925
-#EXTINF:-1,SP: CO: Fox Sports 3 Sur HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26575
-#EXTINF:-1,SP: CO: Fox Sports 3 Sur Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/942
-#EXTINF:-1,SP: CO: Directv Sports 1 SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233833
-#EXTINF:-1,SP: CO: Directv Sports 1 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1918
-#EXTINF:-1,SP: CO: Directv Sports 2 SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233834
-#EXTINF:-1,SP: CO: Directv Sports 2 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1919
-#EXTINF:-1,SP: CO: Directv Sports Plus
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1920
-#EXTINF:-1,SP: CO: Win Sports (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102714
-#EXTINF:-1,SP: CO: Win Sports SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/80906
-#EXTINF:-1,SP: CO: Win Sports HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/11130
-#EXTINF:-1,SP: CO: Win Sports Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/2030
-#EXTINF:-1,SP: CO: Win Sports+ SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/80905
-#EXTINF:-1,SP: CO: Win Sports+ HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/80904
-#EXTINF:-1,SP: CO: Win Sports+ FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/30104
-#EXTINF:-1,SP: CO: Claro Sports Latinoamerica FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/927
-#EXTINF:-1,SP: CO: Claro Sports Latinoamerica
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101874
-#EXTINF:-1,▂ ▄ ▅ ▆  ECUADOR  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇪🇨 ECUADOR 🇪🇨",▂ ▄ ▅ ▆  ECUADOR  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32096
 #EXTINF:-1,EC: Canal Uno SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/15243
@@ -3997,231 +4226,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26944
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26945
 #EXTINF:-1,SP: EC: Gol TV 2
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/112988
-#EXTINF:-1,▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32224
-#EXTINF:-1,MX: Az Cinema
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24069
-#EXTINF:-1,MX: Az Cinema Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24070
-#EXTINF:-1,MX: Az Clic (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65048
-#EXTINF:-1,MX: Az Clic
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24061
-#EXTINF:-1,MX: Az Clic Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24062
-#EXTINF:-1,MX: Az Corazon
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24051
-#EXTINF:-1,MX: Az Corazon Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24052
-#EXTINF:-1,MX: Az Mundo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24079
-#EXTINF:-1,MX: Az Mundo Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24080
-#EXTINF:-1,MX: Azteca 7 (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64739
-#EXTINF:-1,MX: Azteca 7
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24032
-#EXTINF:-1,MX: Azteca 7 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24033
-#EXTINF:-1,MX: Azteca Uno (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65050
-#EXTINF:-1,MX: Azteca Uno
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24034
-#EXTINF:-1,MX: Azteca Uno Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24035
-#EXTINF:-1,MX: 52
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24078
-#EXTINF:-1,MX: A Plus
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24081
-#EXTINF:-1,MX: ADN 40 (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64721
-#EXTINF:-1,MX: ADN 40
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24039
-#EXTINF:-1,MX: ADN 40 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107115
-#EXTINF:-1,MX: ADN 40 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24040
-#EXTINF:-1,MX: Canal 2 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24085
-#EXTINF:-1,MX: Canal 4 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24084
-#EXTINF:-1,MX: Canal 5 (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65060
-#EXTINF:-1,MX: Canal 5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24036
-#EXTINF:-1,MX: Canal 5 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24037
-#EXTINF:-1,MX: Canal 8 (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65061
-#EXTINF:-1,MX: Canal 8 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24086
-#EXTINF:-1,MX: Canal Judicial
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24082
-#EXTINF:-1,MX: Canal Judicial Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24083
-#EXTINF:-1,MX: Distrito Comedia
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24074
-#EXTINF:-1,MX: Distrito Comedia HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/178028
-#EXTINF:-1,MX: Foro TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24041
-#EXTINF:-1,MX: Foro TV Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24042
-#EXTINF:-1,MX: Galatv
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24038
-#EXTINF:-1,MX: Garage TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24053
-#EXTINF:-1,MX: Garage TV Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24054
-#EXTINF:-1,MX: Glitz (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65727
-#EXTINF:-1,MX: Glitz
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24075
-#EXTINF:-1,MX: Hola TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24055
-#EXTINF:-1,MX: Hola TV Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24056
-#EXTINF:-1,MX: Imagen TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24064
-#EXTINF:-1,MX: Mas Chic
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24057
-#EXTINF:-1,MX: Mas Chic Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24058
-#EXTINF:-1,MX: Mexiquense
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24071
-#EXTINF:-1,MX: Milenio TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24059
-#EXTINF:-1,MX: Milenio TV Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24060
-#EXTINF:-1,MX: Multimedios
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24043
-#EXTINF:-1,MX: Multimedios Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24044
-#EXTINF:-1,MX: Multimedios Plus
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24045
-#EXTINF:-1,MX: Multimedios Plus Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24046
-#EXTINF:-1,MX: Teleformula
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24047
-#EXTINF:-1,MX: Televisa MTY
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24048
-#EXTINF:-1,MX: Televisa Puebla (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65785
-#EXTINF:-1,MX: Televisa Puebla
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24049
-#EXTINF:-1,MX: Televisa Puebla Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24050
-#EXTINF:-1,MX: TV Mas
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24072
-#EXTINF:-1,MX: TV Mas Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24073
-#EXTINF:-1,MX: Unicable
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24065
-#EXTINF:-1,MX: Unicable Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24066
-#EXTINF:-1,MX: TL Novelas
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24096
-#EXTINF:-1,MX: TL Novelas HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/72250
-#EXTINF:-1,MX: Wobi TV (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65784
-#EXTINF:-1,MX: Wobi TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24067
-#EXTINF:-1,MX: Wobi TV Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24068
-#EXTINF:-1,MX: Bit Me
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64404
-#EXTINF:-1,MX: Bit Me FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64405
-#EXTINF:-1,•●★-- Deportes Mexico --★●•
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32332
-#EXTINF:-1,SP: MX: Afizzionados 
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27246
-#EXTINF:-1,SP: MX: Espn 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26526
-#EXTINF:-1,SP: MX: Espn 1 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107158
-#EXTINF:-1,SP: MX: Espn 1 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24637
-#EXTINF:-1,SP: MX: Espn 2 (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65829
-#EXTINF:-1,SP: MX: Espn 2 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107157
-#EXTINF:-1,SP: MX: Espn 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26527
-#EXTINF:-1,SP: MX: Espn 2 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24638
-#EXTINF:-1,SP: MX: Espn 3 (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65828
-#EXTINF:-1,SP: MX: Espn 3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26528
-#EXTINF:-1,SP: MX: Espn 3 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24639
-#EXTINF:-1,SP: MX: Espn+
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26529
-#EXTINF:-1,SP: MX: Espn+ HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107160
-#EXTINF:-1,SP: MX: Espn+ Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24636
-#EXTINF:-1,SP: MX: Fox Sports 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/928
-#EXTINF:-1,SP: MX: Fox Sports 1 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27204
-#EXTINF:-1,SP: MX: Fox Sports 1 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/937
-#EXTINF:-1,SP: MX: Fox Sports 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/929
-#EXTINF:-1,SP: MX: Fox Sports 2 HD 
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27205
-#EXTINF:-1,SP: MX: Fox Sports 2 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/939
-#EXTINF:-1,SP: MX: Fox Sports 3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/930
-#EXTINF:-1,SP: MX: Fox Sports 3 HD 
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27206
-#EXTINF:-1,SP: MX: Fox Sports 3 Full HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/941
-#EXTINF:-1,SP: MX: TUDN (MOVIL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65816
-#EXTINF:-1,SP: MX: TUDN (USA)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1905
-#EXTINF:-1,SP: MX: TUDN HD (USA)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32904
-#EXTINF:-1,SP: MX: TUDN (Mexico)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32905
-#EXTINF:-1,SP: MX: TUDN FHD (Mexico)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40909
-#EXTINF:-1,SP: MX: TUDN X1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1906
-#EXTINF:-1,SP: MX: TUDN X2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1907
-#EXTINF:-1,SP: MX: TUDN X4
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1908
-#EXTINF:-1,SP: MX: TUDN X3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1909
-#EXTINF:-1,SP: MX: TUDN X5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1910
-#EXTINF:-1,SP: MX: TUDN X6
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1911
-#EXTINF:-1,SP: MX: TUDN X7
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1912
-#EXTINF:-1,SP: MX: TUDN X8
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1913
-#EXTINF:-1,SP: MX: TUDN X9
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1914
-#EXTINF:-1,SP: MX: TUDN X10
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1915
-#EXTINF:-1,SP: MX: TUDN X11
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/69255
-#EXTINF:-1,SP: MX: Adrenalina Sport Network
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/72055
-#EXTINF:-1,SP: MX: Adrenalina Sport Network FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27207
-#EXTINF:-1,SP: MX: Golf Channel Latinoamerica FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107172
-#EXTINF:-1,SP: MX: TVC Deportes SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/224677
-#EXTINF:-1,▂ ▄ ▅ ▆  PARAGUAY  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇵🇾 PARAGUAY 🇵🇾",▂ ▄ ▅ ▆  PARAGUAY  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32225
 #EXTINF:-1,PY: C9N (MOVIL)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/74856
@@ -4297,7 +4302,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32349
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1711
 #EXTINF:-1,SP: PY: Tigo Sports+ HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/63586
-#EXTINF:-1,▂ ▄ ▅ ▆  PERU  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇵🇪 PERU 🇵🇪",▂ ▄ ▅ ▆  PERU  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32226
 #EXTINF:-1,PE: America TV (MOVIL)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/64723
@@ -4397,7 +4402,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/228710
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101837
 #EXTINF:-1,PE: America TV FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/119680
-#EXTINF:-1,▂ ▄ ▅ ▆  SPAIN  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇪🇸 ESPAÑA 🇪🇸",▂ ▄ ▅ ▆  SPAIN  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32099
 #EXTINF:-1,•●★-- Entretenimiento --★●
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40868
@@ -4787,86 +4792,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/112997
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234749
 #EXTINF:-1,ES: M. Dreamworks FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/112998
-#EXTINF:-1,•●★-- Musicales --★●
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40872
-#EXTINF:-1,ES: M. Fest FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234750
-#EXTINF:-1,ES: MTV España
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/53
-#EXTINF:-1,ES: Mezzo
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/134
-#EXTINF:-1,ES: Mezzo FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/135
-#EXTINF:-1,ES: TV3 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48306
-#EXTINF:-1,ES: Bondia TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48361
-#EXTINF:-1,ES: Televisió de Girona
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48420
-#EXTINF:-1,ES: Diez TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48452
-#EXTINF:-1,ES: Canal Extremadura TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48423
-#EXTINF:-1,ES: TV Galicia Europa SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48424
-#EXTINF:-1,ES: TV Galicia America SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48425
-#EXTINF:-1,ES: 7RM Radio Televisión Murcia
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48431
-#EXTINF:-1,ES: Hamaika FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48435
-#EXTINF:-1,ES: TV Galicia America HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/10105
-#EXTINF:-1,ES: TV Galicia Cultura
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/10106
-#EXTINF:-1,ES: TV Galicia Europa HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/10107
-#EXTINF:-1,ES: TV Galicia Momentos G HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/10112
-#EXTINF:-1,ES: TV Galicia Infantil HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/10111
-#EXTINF:-1,ES: Alcarria TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/11119
-#EXTINF:-1,ES: A Punt SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48280
-#EXTINF:-1,ES: Intereconomia
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/27249
-#EXTINF:-1,ES: Interalmeria FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48288
-#EXTINF:-1,ES: Canal Malaga
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48291
-#EXTINF:-1,ES: Aragon TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48294
-#EXTINF:-1,ES: Canal 25 Barbastro TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48296
-#EXTINF:-1,ES: Popular TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48299
-#EXTINF:-1,ES: RTV Castilla y León SD (web)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48305
-#EXTINF:-1,ES: RTV Castilla y León HD (web)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48304
-#EXTINF:-1,ES: ETB SAT
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48432
-#EXTINF:-1,ES: ETB 1 SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48433
-#EXTINF:-1,ES: ETB 2 SD  
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/48434
-#EXTINF:-1,ES: ETB 1 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32154
-#EXTINF:-1,ES: ETB 2 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32155
-#EXTINF:-1,ES: Onda Algeciras TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/51572
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,•●★-- Deportes de España --★●•
+#EXTINF:-1, group-title="⚽⚾SPORTS SPAIN🇪🇸",•●★-- Deportes de España --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32964
 #EXTINF:-1,SP: ES: Dazn 1 SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107139
@@ -5106,7 +5032,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234161
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234162
 #EXTINF:-1,SP: ES: Footters 30 (Solo Eventos)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234163
-#EXTINF:-1,▂ ▄ ▅ ▆  URUGUAY  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇺🇾 URUGUAY 🇺🇾",▂ ▄ ▅ ▆  URUGUAY  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32228
 #EXTINF:-1,UY: PPV 1
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126053
@@ -5268,7 +5194,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/23860
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/74130
 #EXTINF:-1,SP: UY: Maroñas 
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/126054
-#EXTINF:-1,▂ ▄ ▅ ▆  VENEZUELA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇻🇪 VENEZUELA 🇻🇪",▂ ▄ ▅ ▆  VENEZUELA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32229
 #EXTINF:-1,VE: ANTV
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102394
@@ -5320,9 +5246,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107082
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234237
 #EXTINF:-1,VE: IVC
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234238
-
-
-#EXTINF:-1,•●★-- Brasil Esportes --★●•
+#EXTINF:-1, group-title="⚽ BRASIL DEPORTES ⚽",•●★-- Brasil Esportes --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233830
 #EXTINF:-1,SP: BR: SPorTV SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/3411
@@ -5418,10 +5342,8 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24173
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/3522
 #EXTINF:-1,SP: BR: Premiere Clubes HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/3523
-#EXTINF:-1,▂ ▄ ▅ ▆  USA  ▆ ▅ ▄ ▂
+#EXTINF:-1, group-title="🇺🇸 USA 🇺🇸",▂ ▄ ▅ ▆  USA  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32227
-#EXTINF:-1,•●★-- 24/7 Kids --★●
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/41113
 #EXTINF:-1,USA: Paw Patrol HD 24H
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/49420
 #EXTINF:-1,USA: Dora the Explorer 24H
@@ -6284,6 +6206,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232907
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232908
 #EXTINF:-1,USA: NBC Cheyenne - Scottbluff
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232909
+#EXTINF:-1, group-title="⚽⚾🏈USA SPORTS",•●★-- USA Sports --★●•
 #EXTINF:-1,SP: USA: BEIN Sports N FHD (Opc 2)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137269
 #EXTINF:-1,SP: USA: BEIN Sports en Español HD
@@ -6512,7 +6435,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/228099
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/228100
 #EXTINF:-1,SP: USA: WWE Network FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86064
-#EXTINF:-1,•●★-- France Sports --★●•
+#EXTINF:-1, group-title="⚽Sports⚽",•●★-- Sports --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/33155
 #EXTINF:-1,SP: FR: BeIN Sports 1 SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/61096
