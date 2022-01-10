@@ -1363,6 +1363,305 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24173
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/3522
 #EXTINF:-1,SP: BR: Premiere Clubes HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/3523
+#EXTINF:-1, group-title="⚽ Premier League ⚽", ⚽ Premier League ⚽
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233628
+#EXTINF:-1,SP: Premier League: Sky Sports Premier League HD (UK)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232274
+#EXTINF:-1,SP: Premier League: Premier Sports 1 HD (UK)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232275
+#EXTINF:-1,SP: Premier League: NBC Sports HD (US)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234497
+#EXTINF:-1,SP: Premier League: NBC Universo HD (US)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234498
+#EXTINF:-1,SP: Premier League: Sky Sports México (MX)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
+#EXTINF:-1,SP: Premier League: ESPN HD (LAT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234507
+#EXTINF:-1,SP: Premier League: Dazn 1 HD (ES)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232276
+#EXTINF:-1,SP: Premier League: Viasat Sport Premium HD (SE)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232277
+#EXTINF:-1,SP: Premier League: Sport TV 2 FHD (PT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234495
+#EXTINF:-1,SP: Premier League: Sport TV 3 HD (PT) 
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234496
+#EXTINF:-1,SP: Premier League: ESPN Brasil HD (BR)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234508
+#EXTINF:-1,SP: Premier League: Ziggo Sport Select FHD (NL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234509
+#EXTINF:-1,SP: Premier League: Ziggo Sport HD (NL)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234510
+#EXTINF:-1, group-title="⚽ UEFA Champion League ⚽",⚽ UEFA Champion League ⚽
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233629
+#EXTINF:-1,SP: UEFA: ESPN 1 HD (LAT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232314
+#EXTINF:-1,SP: UEFA: ESPN 2 HD (LAT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232315
+#EXTINF:-1,SP: UEFA: ESPN 3 HD (LAT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232316
+#EXTINF:-1,SP: UEFA: M. Liga Campeones HD (ES)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232304
+#EXTINF:-1,SP: UEFA: LaLiga TV Bar HD (ES)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234560
+#EXTINF:-1,SP: UEFA: BT Sport 1 HD (UK)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232305
+#EXTINF:-1,SP: UEFA: BT Sport 2 HD (UK)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232306
+#EXTINF:-1,SP: UEFA: BT Sport 3 HD (UK)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232307
+#EXTINF:-1,SP: UEFA: Eleven Sports 1 (PT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232308
+#EXTINF:-1,SP: UEFA: Eleven Sports 2 (PT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232309
+#EXTINF:-1,SP: UEFA: Eleven Sports 3 (PT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232310
+#EXTINF:-1,SP: UEFA: Eleven Sports 4 (PT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232311
+#EXTINF:-1,SP: UEFA: Eleven Sports 5 (PT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232312
+#EXTINF:-1,SP: UEFA: TUDN HD (US)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232292
+#EXTINF:-1,SP: UEFA: TUDN X1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232293
+#EXTINF:-1,SP: UEFA: TUDN X2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232294
+#EXTINF:-1,SP: UEFA: TUDN X3
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232295
+#EXTINF:-1,SP: UEFA: TUDN X4
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232296
+#EXTINF:-1,SP: UEFA: TUDN X5
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232297
+#EXTINF:-1,SP: UEFA: TUDN X6
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232298
+#EXTINF:-1,SP: UEFA: TUDN X7
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232299
+#EXTINF:-1,SP: UEFA: TUDN X8
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232300
+#EXTINF:-1,SP: UEFA: TUDN X9
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232301
+#EXTINF:-1,SP: UEFA: TUDN X10
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232302
+#EXTINF:-1,SP: UEFA: TUDN X11
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232303
+#EXTINF:-1, group-title="⚽ La Liga ⚽",⚽ La Liga ⚽
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233630
+#EXTINF:-1,SP: La Liga: Barca TV
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232239
+#EXTINF:-1,SP: La Liga: LaLiga TV FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232237
+#EXTINF:-1,SP: La Liga: LaLiga TV HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232243
+#EXTINF:-1,SP: La Liga: LaLiga TV HD USA
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232252
+#EXTINF:-1,SP: La Liga: M. LaLiga 02 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232240
+#EXTINF:-1,SP: La Liga: M. LaLiga 03 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232244
+#EXTINF:-1,SP: La Liga: M. LaLiga 04 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232245
+#EXTINF:-1,SP: La Liga: M. LaLiga 05 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232246
+#EXTINF:-1,SP: La Liga: M. LaLiga 07 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232248
+#EXTINF:-1,SP: La Liga: M. LaLiga 08 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232249
+#EXTINF:-1,SP: La Liga: M. LaLiga 09 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232250
+#EXTINF:-1,SP: La Liga: M. LaLiga 10 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232251
+#EXTINF:-1,SP: La Liga: M. LaLiga FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232241
+#EXTINF:-1,SP: La Liga: M. LaLiga HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232242
+#EXTINF:-1,SP: La Liga: M. LaLiga SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232236
+#EXTINF:-1,SP: La Liga: Real Madrid TV SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232238
+#EXTINF:-1, group-title="⚽ SERIE A ⚽",⚽ SERIE A ⚽
+#EXTINF:-1,SP: Serie A: ESPN 2 HD (MX)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234511
+#EXTINF:-1,SP: Serie A: C More Fotboll HD (SE)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234512
+#EXTINF:-1,SP: Serie A: Dazn Bar 1 HD (DE)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234513
+#EXTINF:-1,SP: Serie A: Sport TV 1 HD (PT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234514
+#EXTINF:-1,SP: Serie A: Dazn Sport 1
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232281
+#EXTINF:-1,SP: Serie A: Dazn Sport 2
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232282
+#EXTINF:-1,SP: Serie A: Sport Arena
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232288
+#EXTINF:-1,SP: Serie A: Sport Football
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232287
+#EXTINF:-1,SP: Serie ESPN 2 HD (LAT)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232289
+#EXTINF:-1, group-title="⚽ BUMDESLIGA ⚽",⚽ BUNDESLIGA ⚽
+#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen Bundesliga 1 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232217
+#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 2 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232218
+#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 3 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232219
+#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 4 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232220
+#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 5 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232221
+#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 6 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232222
+#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 7 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232223
+#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 8 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232224
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 FHD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232191
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232192
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 HEVC
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232225
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 SD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232211
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 10 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232209
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 10 HD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232210
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 2 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232193
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 2 HD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232194
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 2 HEVC (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232226
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 2 SD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232212
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 3 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232195
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 3 HD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232196
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 3 SD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232213
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 4 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232197
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 4 HD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232198
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 4 SD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232214
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 5 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232199
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 5 HD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232200
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 5 SD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232215
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 6 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232201
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 6 HD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232202
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 6 SD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232216
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 7 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232203
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 7 HD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232204
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 8 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232205
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 8 HD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232206
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 9 FHD (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232207
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 9 HD (Solo Eventos)
+#EXTINF:-1, group-title="⚽ Copa Libertadores ⚽",⚽ Copa Libertadores ⚽
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232208
+#EXTINF:-1,SP: Copa Libertadores: Fox Sports 2 Sur
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232228
+#EXTINF:-1,SP: Copa Libertadores: Bein Sports HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232231
+#EXTINF:-1,SP: Copa Libertadores: ESPN 2 Sur
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232230
+#EXTINF:-1,SP: Copa Libertadores: ESPN Sur
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232229
+#EXTINF:-1,SP: Copa Libertadores: Fox Sportd HD (Brasil)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232232
+#EXTINF:-1,SP: Copa Libertadores: Fox Sports 1 Sur
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232227
+#EXTINF:-1,SP: Copa Libertadores: Fox Sports 2 HD (Brasi)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232233
+#EXTINF:-1,SP: Copa Libertadores: Sport TV 1 (Portugal)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232234
+#EXTINF:-1,SP: Copa Libertadores: Sport TV 2 (Portugal)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232235
+#EXTINF:-1, group-title="⚽ LIGA 1 ⚽",⚽ LIGA 1 ⚽
+#EXTINF:-1,SP: Ligue: Amazon Prime Opc 1 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232253
+#EXTINF:-1,SP: Ligue: Amazon Prime Opc 2 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232254
+#EXTINF:-1,SP: Ligue: Amazon Prime Opc 3 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232255
+#EXTINF:-1,SP: Ligue: Amazon Prime Opc 4 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232256
+#EXTINF:-1,SP: Ligue: Amazon Prime Opc 5 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232257
+#EXTINF:-1,SP: Ligue: Amazon Prime Opc 6 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232258
+#EXTINF:-1,SP: Ligue: Amazon Prime Opc 7 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232259
+#EXTINF:-1,SP: Ligue: Amazon Prime Opc 8 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232260
+#EXTINF:-1, group-title="⚽ DEPORTES ⚽",⚽ DEPORTES ⚽
+#EXTINF:-1,SP: USA: MLB Network
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/129157
+#EXTINF:-1,SP: FTF (For the Fans) (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234805
+#EXTINF:-1,SP: Gol TV English (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234806
+#EXTINF:-1,SP: Gol TV Espanol (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234807
+#EXTINF:-1,SP: Inter TV (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234808
+#EXTINF:-1,SP: Peru Magico
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234810
+#EXTINF:-1,SP: RAI Italia (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234811
+#EXTINF:-1,SP: RCN (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234812
+#EXTINF:-1,SP: Milan Channel TV (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234813
+#EXTINF:-1,SP: Tigo Sports (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234814
+#EXTINF:-1,SP: Trace Sports EN (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234815
+#EXTINF:-1,SP: Trace Sports FR (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234816
+#EXTINF:-1,SP: beIN SPORTS (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234817
+#EXTINF:-1,SP: beIN Xtra (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234818
+#EXTINF:-1,SP: US (ROKU) beIN Sports XTRA (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234819
+#EXTINF:-1,SP: beIN SPORTS 4 FHD (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234820
+#EXTINF:-1,SP: beIN SPORTS 5 FHD (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234821
+#EXTINF:-1,SP: beIN SPORTS 6 FHD (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234822
+#EXTINF:-1,SP: beIN SPORTS 7 FHD (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234823
+#EXTINF:-1,SP: beIN SPORTS 8 FHD (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234824
+#EXTINF:-1,SP: beIN SPORTS en Espanol (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234825
+#EXTINF:-1,SP: beIN SPORTS La Liga (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234826
+#EXTINF:-1,SP: Golf Latin (D)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234827
+#EXTINF:-1,LaLiga:  TV Bar HD
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235351
+#EXTINF:-1,Liga de Campeones FHD (Opc 2)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235352
+#EXTINF:-1,M.LaLiga HD (Opc 2) 
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235353
+#EXTINF:-1,M. LaLiga HD (Opc 2)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235354
+#EXTINF:-1,Liga: Multideportes
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235355
 #EXTINF:-1, group-title="🕦 CANALES 24/7 🕦",▂ ▄ ▅ ▆  CANALES 24/7  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31862
 #EXTINF:-1,24/7 Los Magnificos Temp 1
@@ -1869,305 +2168,6 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/101938
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/36595
 #EXTINF:-1,24/7 FBI Temp 2
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/93735
-#EXTINF:-1, group-title="⚽ Premier League ⚽", ⚽ Premier League ⚽
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233628
-#EXTINF:-1,SP: Premier League: Sky Sports Premier League HD (UK)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232274
-#EXTINF:-1,SP: Premier League: Premier Sports 1 HD (UK)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232275
-#EXTINF:-1,SP: Premier League: NBC Sports HD (US)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234497
-#EXTINF:-1,SP: Premier League: NBC Universo HD (US)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234498
-#EXTINF:-1,SP: Premier League: Sky Sports México (MX)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
-#EXTINF:-1,SP: Premier League: ESPN HD (LAT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234507
-#EXTINF:-1,SP: Premier League: Dazn 1 HD (ES)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232276
-#EXTINF:-1,SP: Premier League: Viasat Sport Premium HD (SE)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232277
-#EXTINF:-1,SP: Premier League: Sport TV 2 FHD (PT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234495
-#EXTINF:-1,SP: Premier League: Sport TV 3 HD (PT) 
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234496
-#EXTINF:-1,SP: Premier League: ESPN Brasil HD (BR)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234508
-#EXTINF:-1,SP: Premier League: Ziggo Sport Select FHD (NL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234509
-#EXTINF:-1,SP: Premier League: Ziggo Sport HD (NL)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234510
-#EXTINF:-1, group-title="⚽ UEFA Champion League ⚽",⚽ UEFA Champion League ⚽
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233629
-#EXTINF:-1,SP: UEFA: ESPN 1 HD (LAT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232314
-#EXTINF:-1,SP: UEFA: ESPN 2 HD (LAT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232315
-#EXTINF:-1,SP: UEFA: ESPN 3 HD (LAT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232316
-#EXTINF:-1,SP: UEFA: M. Liga Campeones HD (ES)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232304
-#EXTINF:-1,SP: UEFA: LaLiga TV Bar HD (ES)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234560
-#EXTINF:-1,SP: UEFA: BT Sport 1 HD (UK)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232305
-#EXTINF:-1,SP: UEFA: BT Sport 2 HD (UK)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232306
-#EXTINF:-1,SP: UEFA: BT Sport 3 HD (UK)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232307
-#EXTINF:-1,SP: UEFA: Eleven Sports 1 (PT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232308
-#EXTINF:-1,SP: UEFA: Eleven Sports 2 (PT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232309
-#EXTINF:-1,SP: UEFA: Eleven Sports 3 (PT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232310
-#EXTINF:-1,SP: UEFA: Eleven Sports 4 (PT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232311
-#EXTINF:-1,SP: UEFA: Eleven Sports 5 (PT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232312
-#EXTINF:-1,SP: UEFA: TUDN HD (US)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232292
-#EXTINF:-1,SP: UEFA: TUDN X1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232293
-#EXTINF:-1,SP: UEFA: TUDN X2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232294
-#EXTINF:-1,SP: UEFA: TUDN X3
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232295
-#EXTINF:-1,SP: UEFA: TUDN X4
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232296
-#EXTINF:-1,SP: UEFA: TUDN X5
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232297
-#EXTINF:-1,SP: UEFA: TUDN X6
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232298
-#EXTINF:-1,SP: UEFA: TUDN X7
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232299
-#EXTINF:-1,SP: UEFA: TUDN X8
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232300
-#EXTINF:-1,SP: UEFA: TUDN X9
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232301
-#EXTINF:-1,SP: UEFA: TUDN X10
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232302
-#EXTINF:-1,SP: UEFA: TUDN X11
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232303
-#EXTINF:-1, group-title="⚽ La Liga ⚽",⚽ La Liga ⚽
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/233630
-#EXTINF:-1,SP: La Liga: Barca TV
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232239
-#EXTINF:-1,SP: La Liga: LaLiga TV FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232237
-#EXTINF:-1,SP: La Liga: LaLiga TV HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232243
-#EXTINF:-1,SP: La Liga: LaLiga TV HD USA
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232252
-#EXTINF:-1,SP: La Liga: M. LaLiga 02 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232240
-#EXTINF:-1,SP: La Liga: M. LaLiga 03 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232244
-#EXTINF:-1,SP: La Liga: M. LaLiga 04 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232245
-#EXTINF:-1,SP: La Liga: M. LaLiga 05 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232246
-#EXTINF:-1,SP: La Liga: M. LaLiga 07 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232248
-#EXTINF:-1,SP: La Liga: M. LaLiga 08 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232249
-#EXTINF:-1,SP: La Liga: M. LaLiga 09 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232250
-#EXTINF:-1,SP: La Liga: M. LaLiga 10 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232251
-#EXTINF:-1,SP: La Liga: M. LaLiga FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232241
-#EXTINF:-1,SP: La Liga: M. LaLiga HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232242
-#EXTINF:-1,SP: La Liga: M. LaLiga SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232236
-#EXTINF:-1,SP: La Liga: Real Madrid TV SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232238
-#EXTINF:-1, group-title="⚽ SERIE A ⚽",⚽ SERIE A ⚽
-#EXTINF:-1,SP: Serie A: ESPN 2 HD (MX)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234511
-#EXTINF:-1,SP: Serie A: C More Fotboll HD (SE)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234512
-#EXTINF:-1,SP: Serie A: Dazn Bar 1 HD (DE)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234513
-#EXTINF:-1,SP: Serie A: Sport TV 1 HD (PT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234514
-#EXTINF:-1,SP: Serie A: Dazn Sport 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232281
-#EXTINF:-1,SP: Serie A: Dazn Sport 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232282
-#EXTINF:-1,SP: Serie A: Sport Arena
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232288
-#EXTINF:-1,SP: Serie A: Sport Football
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232287
-#EXTINF:-1,SP: Serie ESPN 2 HD (LAT)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232289
-#EXTINF:-1, group-title="⚽ BUMDESLIGA ⚽",⚽ BUNDESLIGA ⚽
-#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen Bundesliga 1 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232217
-#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 2 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232218
-#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 3 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232219
-#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 4 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232220
-#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 5 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232221
-#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 6 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232222
-#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 7 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232223
-#EXTINF:-1,SP: Bundesliga: FLYERALARM Frauen-Bundesliga 8 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232224
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 FHD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232191
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232192
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 HEVC
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232225
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 SD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232211
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 10 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232209
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 10 HD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232210
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 2 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232193
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 2 HD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232194
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 2 HEVC (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232226
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 2 SD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232212
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 3 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232195
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 3 HD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232196
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 3 SD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232213
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 4 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232197
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 4 HD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232198
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 4 SD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232214
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 5 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232199
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 5 HD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232200
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 5 SD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232215
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 6 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232201
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 6 HD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232202
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 6 SD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232216
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 7 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232203
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 7 HD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232204
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 8 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232205
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 8 HD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232206
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 9 FHD (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232207
-#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 9 HD (Solo Eventos)
-#EXTINF:-1, group-title="⚽ Copa Libertadores ⚽",⚽ Copa Libertadores ⚽
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232208
-#EXTINF:-1,SP: Copa Libertadores: Fox Sports 2 Sur
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232228
-#EXTINF:-1,SP: Copa Libertadores: Bein Sports HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232231
-#EXTINF:-1,SP: Copa Libertadores: ESPN 2 Sur
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232230
-#EXTINF:-1,SP: Copa Libertadores: ESPN Sur
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232229
-#EXTINF:-1,SP: Copa Libertadores: Fox Sportd HD (Brasil)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232232
-#EXTINF:-1,SP: Copa Libertadores: Fox Sports 1 Sur
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232227
-#EXTINF:-1,SP: Copa Libertadores: Fox Sports 2 HD (Brasi)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232233
-#EXTINF:-1,SP: Copa Libertadores: Sport TV 1 (Portugal)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232234
-#EXTINF:-1,SP: Copa Libertadores: Sport TV 2 (Portugal)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232235
-#EXTINF:-1, group-title="⚽ LIGA 1 ⚽",⚽ LIGA 1 ⚽
-#EXTINF:-1,SP: Ligue: Amazon Prime Opc 1 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232253
-#EXTINF:-1,SP: Ligue: Amazon Prime Opc 2 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232254
-#EXTINF:-1,SP: Ligue: Amazon Prime Opc 3 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232255
-#EXTINF:-1,SP: Ligue: Amazon Prime Opc 4 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232256
-#EXTINF:-1,SP: Ligue: Amazon Prime Opc 5 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232257
-#EXTINF:-1,SP: Ligue: Amazon Prime Opc 6 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232258
-#EXTINF:-1,SP: Ligue: Amazon Prime Opc 7 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232259
-#EXTINF:-1,SP: Ligue: Amazon Prime Opc 8 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232260
-#EXTINF:-1, group-title="⚽ DEPORTES ⚽",⚽ DEPORTES ⚽
-#EXTINF:-1,SP: USA: MLB Network
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/129157
-#EXTINF:-1,SP: FTF (For the Fans) (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234805
-#EXTINF:-1,SP: Gol TV English (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234806
-#EXTINF:-1,SP: Gol TV Espanol (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234807
-#EXTINF:-1,SP: Inter TV (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234808
-#EXTINF:-1,SP: Peru Magico
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234810
-#EXTINF:-1,SP: RAI Italia (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234811
-#EXTINF:-1,SP: RCN (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234812
-#EXTINF:-1,SP: Milan Channel TV (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234813
-#EXTINF:-1,SP: Tigo Sports (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234814
-#EXTINF:-1,SP: Trace Sports EN (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234815
-#EXTINF:-1,SP: Trace Sports FR (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234816
-#EXTINF:-1,SP: beIN SPORTS (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234817
-#EXTINF:-1,SP: beIN Xtra (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234818
-#EXTINF:-1,SP: US (ROKU) beIN Sports XTRA (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234819
-#EXTINF:-1,SP: beIN SPORTS 4 FHD (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234820
-#EXTINF:-1,SP: beIN SPORTS 5 FHD (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234821
-#EXTINF:-1,SP: beIN SPORTS 6 FHD (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234822
-#EXTINF:-1,SP: beIN SPORTS 7 FHD (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234823
-#EXTINF:-1,SP: beIN SPORTS 8 FHD (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234824
-#EXTINF:-1,SP: beIN SPORTS en Espanol (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234825
-#EXTINF:-1,SP: beIN SPORTS La Liga (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234826
-#EXTINF:-1,SP: Golf Latin (D)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234827
-#EXTINF:-1,LaLiga:  TV Bar HD
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235351
-#EXTINF:-1,Liga de Campeones FHD (Opc 2)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235352
-#EXTINF:-1,M.LaLiga HD (Opc 2) 
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235353
-#EXTINF:-1,M. LaLiga HD (Opc 2)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235354
-#EXTINF:-1,Liga: Multideportes
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235355
 #EXTINF:-1, group-title="🇲🇽 MEXICO 🇲🇽",▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32224
 #EXTINF:-1,MX: Az Cinema
