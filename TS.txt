@@ -795,17 +795,17 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1919
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137268
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ECDL
 http://181.198.67.2:8024/play/a0b5
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",GOL TV
+#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title=""⚽⚾🏀🏈DEPORTE-ESPAÑOL",GOL TV
 http://181.198.67.2:8024/play/a0ay
-#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",GOL TV
+#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TyC 
 http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/41014
 #EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://pbs.twimg.com/profile_images/1457766821222813701/QHurdDrm_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TUDN
 http://190.61.102.67:3150/play/a08j
 #EXTINF:-1 tvg-id="ufc.mx" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",UFC
 http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/41009
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",TD+CR
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TD+CR
 http://187.49.191.6:8080/play/a022
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ES",TD+CR 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TD+CR 2
 http://187.49.191.6:8080/play/a023
 #EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",CANAL+ SPORT HD
 http://91.226.51.126:8000/udp/239.100.10.183:2234
@@ -825,6 +825,12 @@ http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/25032
 http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/25085
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",Premier Sports
 http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/03/09/15837100490775.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",UFC
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/74846
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437089046203879438/CskRkWRX_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",YES NETWORK MLB
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/115815
+#EXTINF:-1 tvg-logo="https://images.mediotiempo.com/eClWmp49_BgOM8fGMHXO83T4Zf4=/958x596/uploads/media/2017/03/27/wwe-network-3.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",WWE NETWORK 
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86064
 #EXTINF:-1, group-title="⚽⚾🇲🇽DEPORTES MEXICO🇲🇽⚽⚾",•●★-- Deportes Mexico --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32332
 #EXTINF:-1,SP: MX: Afizzionados 
