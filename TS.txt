@@ -799,7 +799,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1919
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137268
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ECDL
 http://181.198.67.2:8024/play/a0b5
-#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title=""⚽⚾🏀🏈DEPORTE-ESPAÑOL",GOL TV
+#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",GOL TV
 http://181.198.67.2:8024/play/a0ay
 #EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TyC 
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7395
