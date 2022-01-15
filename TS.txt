@@ -31,7 +31,7 @@ http://187.49.191.6:8080/play/a02p
 https://mediacp.us:8081/23tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/210de2_6ad3fe5cb85b433d87d9dcf8b83847f4~mv2.png" tvg-name="BTV"  group-title="🇵🇦 LOCALES 🇵🇦",BTV
 https://cloud.streamingconnect.tv:455/btv/btv.m3u8
-#EXTINF:-1 tvg-logo="https://negocios.masmovilpanama.com/sites/negocios.masmovilpanama.com/files/2020-08/hossana.png" tvg-name="HOSANA VISION"  group-title="🇵🇦 LOCALES 🇵🇦",HOSANA VISION
+#EXTINF:-1 tvg-logo="https://hosannavision.com/sites/default/files/logo-hosanna-vision_0_8.png" tvg-name="HOSANA VISION"  group-title="🇵🇦 LOCALES 🇵🇦",HOSANA VISION
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg" tvg-name="MEDCOM GO"  group-title="🇵🇦 LOCALES 🇵🇦",MEDCOM GO
 https://mdstrm.com/live-stream-playlist/5e60f5588a57af075650c315.m3u8
@@ -602,73 +602,71 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b7500077064
 #EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" tvg-name="VEVO POP LATINO"  group-title="🛰️📺PLUTO TV📺🛰️",VEVO POP LATINO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="AELatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",A&E 
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41114
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24095
 #EXTINF:-1 tvg-id="AXNLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",AXN
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41109
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24093
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",AZ CORAZON
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24052
 #EXTINF:-1 tvg-id="AnimalPlanetLatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1093873117884235776/a3V9JWjh_400x400.jpg" tvg-language="Spanish""  group-title="🎬📺TS-TV📺🎬",ANIMAL PLANET
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41110
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24088
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1461100491870556162/MONb14F1_400x400.jpg" tvg-language="Spanish""  group-title="🎬📺TS-TV📺🎬",AMC
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41113
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24091
 #EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_400x400.jpg" tvg-language="Spanish""  group-title="🎬📺TS-TV📺🎬",CNN EN ESPAÑOL
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41092
+http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/41092
 #EXTINF:-1 tvg-id="LasEstrellasMexico.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-las-estrellas.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CANAL ESTRELLAS
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41102
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/16827
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/13de30e5-a209-4dfe-a755-b161b7046ba1_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CARTOON NETWORK
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41096
-#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1420633973680705539/2I-jDhPq_400x400.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CARTOONITO
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41106
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7345
 #EXTINF:-1 tvg-id="CinecanalOeste.us" tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CINECANAL
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41095
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32215
 #EXTINF:-1 tvg-id="CinemaxLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CINEMAX
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41101
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/15128
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CINE LATINO
 http://190.6.202.166:8000/play/a052
 #EXTINF:-1 tvg-id="ComedyCentralLatinoamericaNorte.us" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",COMEDY CENTRAL
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41098
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7106
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/de-pelicula.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DE PELICULA HD
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41088
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24123
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/26431e28-bd69-4174-9abc-d509ddb267e8_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISCOVERY CHANNEL
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7089
-#EXTINF:-1 tvg-id="Discoverycivilacion.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/490px-Discovery_Civilization_logo.svg.png" tvg-language="Spanish" group-title="🎬📺TS-TV📺🎬",DISCOVERY CIVILIZATION
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41084
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/490px-Discovery_Civilization_logo.svg.png" tvg-language="Spanish" group-title="🎬📺TS-TV📺🎬",DISCOVERY CIVILIZATION
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/2015
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" tvg-language="Spanish" group-title="🎬📺TS-TV📺🎬",DISCOVERY H&H
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7094
 #EXTINF:-1 tvg-id="DiscoveryKidsAmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-kids_m.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISCOVERY KIDS
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41090
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1782
 #EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISCOVERY THEATHER
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41087
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7104
 #EXTINF:-1 tvg-id="DiscoveryTurboAmericaLatina.us" tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISCOVERY TURBO
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41086
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/15100
 #EXTINF:-1 tvg-id="InvestigationDiscoverySur.us" tvg-logo="https://cdn.mitvstatic.com/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISCOVERY ID
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/2027
 #EXTINF:-1 tvg-id="TLCLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISCOVERY TLC
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41022
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7102
 #EXTINF:-1 tvg-id="DiscoveryHDWorldLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISCOVERY WORLD
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41085
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/4572
 ##EXTINF:-1 tvg-id="DisneyChannelCentro.us" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/2OvNI0n7Ik6uWEWoYAIWgW/37e1e49a26fe7b85b11d00f23ec2eea3/dc-2017-logo-rbg.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISNEY CHANNEL
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7348
 #EXTINF:-1 tvg-id="disneyjr.cl" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/7wWan0jrwsAkEUKUa2Wsmo/0c7987b9c2d66ca1e91945b729a14163/disney_junior.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISNEY JR
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41080
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7356
 #EXTINF:-1 tvg-id="DisneyXDSur.us" tvg-logo="https://negocios.masmovilpanama.com/sites/negocios.masmovilpanama.com/files/2020-08/disney_xd.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DISNEY XD
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41081
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7354
 #EXTINF:-1 tvg-id="1741dhehd.cl" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/logo-header.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",DHE
 http://190.6.202.166:8000/play/a05u
 #EXTINF:-1 tvg-id="ELatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1280970964256337920/mxW60cm-_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",E!
 http://190.6.202.166:8000/play/a05m
 #EXTINF:-1 tvg-id="FXNorte.us" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",FX
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41058
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/102713
 #EXTINF:-1 tvg-id="FXMOeste.us" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",FXM
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41057
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/9747
 #EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-1.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",GOLDEN
 http://190.6.202.166:8000/play/a039
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-edge-1.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",GOLDEN EDGE
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41053
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24128
 #EXTINF:-1 tvg-id="Goldenplus.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-golden-plus.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",GOLDEN PLUS
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41052
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1867
 #EXTINF:-1 tvg-id="HBOLatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1412062181861072901/5OtMYWil_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",HBO
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41046
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1856
 #EXTINF:-1 tvg-id="HBO2Latinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",HBO 2
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1858
 #EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/ac977685-d710-405a-ac39-2c4a57f93bfa_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",HBO FAMILY
@@ -678,7 +676,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1855
 #EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",HBO XTREME
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31811
 #EXTINF:-1 tvg-id="HistoryLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" tvg-language="Spanish" group-title="🎬📺TS-TV📺🎬",HISTORY 1
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41050
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7091
 #EXTINF:-1 tvg-id="History2Latinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" tvg-language="Spanish" group-title="🎬📺TS-TV📺🎬",HISTORY 2
 http://190.6.202.166:8000/play/a033
 #EXTINF:-1 tvg-id="multipremier.la" tvg-logo="https://cdn.mitvstatic.com/channels/sv_multipremier_m.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",MULTIPREMIER
@@ -688,21 +686,21 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26936
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicCentro.us" tvg-logo="https://cdn.mitvstatic.com/channels/d32620f0-6fae-4265-a63b-098f3980d9b0_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",NATGEO
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41036
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/4575
 #EXTINF:-1 tvg-id="NationalGeographicWildLatin.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",NATGEO WILD
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41037
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7096
 #EXTINF:-1 tvg-id="NatGeoKids.us" tvg-logo="http://television.com.ar/wp-content/uploads/2020/11/Natgeo-Kids-350x240.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",NATGEO KIDS
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1779
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/30ac595d-4dbd-4b72-a325-978cb5dfcd55_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",NICK JR
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41032
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/115728
 #EXTINF:-1 tvg-id="NickelodeonSur.us" tvg-logo="https://cdn.mitvstatic.com/channels/5d406120-a316-48a4-8bed-8a35bd86d795_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",NICK
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41034
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1780
 #EXTINF:-1 tvg-id="nick2" tvg-logo="https://pbs.twimg.com/profile_images/1201537129572163585/uotYCBJW_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",NICK 2
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41035
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1777
 #EXTINF:-1 tvg-id="PasionesLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/100px-Pasiones_Tv_logo.svg.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",PASIONES
 http://190.6.202.166:8000/play/a06p
 #EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1410619325333917703/iCSeFgLC_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",PARAMOUNT
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41031
+http://190.6.202.166:8000/play/a06k
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",STAR CHANNEL
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24125
 #EXTINF:-1 tvg-id="StarLifeLatin.us" tvg-logo="https://pbs.twimg.com/profile_images/1362836536505548803/T6XtjJpV_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",STAR LIFE
@@ -724,9 +722,9 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1850
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-logo="https://pbs.twimg.com/profile_images/1442548163596849165/sn60femd_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",SONY
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24139
 #EXTINF:-1 tvg-id="SpaceSur.ar" tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",SPACE
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41028
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/15129
 #EXTINF:-1 tvg-id="foxsyfy.la" tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",SYFY
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41026
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/26623
 #EXTINF:-1 tvg-id="StudioUniversalAmericaLatina.us"tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",STUDIO UNIVERSAL
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24122
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2019/03/televisa-afiliados-canales-tlnovelas.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",TELENOVELA
@@ -736,19 +734,19 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/4581
 #EXTINF:-1 tvg-id="TCMAmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",TCM
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/65806
 #EXTINF:-1 tvg-id="TNTAmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",TNT
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41021
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1864
 #EXTINF:-1 tvg-id="TNTSeriesArgentina.us" tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",TNT SERIES
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41020
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1865
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/telemundo.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",TELEMUNDO
 http://190.6.202.166:8000/play/a05q
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",TOONCAST
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41015
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7363
 #EXTINF:-1 tvg-id="UniversalTVAmericaLatinaOeste.us" tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",UNIVERSAL
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1812
 #EXTINF:-1 tvg-id="UnivisionLatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1411007291915182090/VsOVvKpj_400x400.png" tvg-language= "Spanish" group-title = "🎬📺TS-TV📺🎬", UNIVISION
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41013
+http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/41013
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",WARNER CHANNEL
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41005
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/103098
 #EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",CLARO SPORTS
 http://200.24.159.179:8500/play/a03l
 ##EXTINF:-1 tvg-id="ESPNAmericaLatina.us" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL"",ESPN
@@ -792,9 +790,9 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235352
 #EXTINF:-1 tvg-id="SkySports1.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",SKY SPORT MX
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",DIRECTV SPORT 1
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1918
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd?&l=https://iptvtucuman.com/dtv1wv
 #EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",DIRECTV SPORT 2
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1919
+https://dtv-latam-abc.akamaized.net/dash/live/700404/dtv/DTV-ABC-directtvsports2/master.mpd?&l=https://iptvtucuman.com/dtv2wv
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",BEIN SPORT Ñ
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137268
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ECDL
