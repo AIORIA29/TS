@@ -569,9 +569,9 @@ https://original.radioca.st/stream/1/
 http://11618.cloudrad.io:9124/live
 #EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/original.png" tvg-name="AM ORIGINAL"  group-title="📻 RADIOS 📻",AM ORIGINAL
 http://rosetta.shoutca.st:9264/stream/1/
-#EXTINF:-1, tvg-logo="https://img.streann.com/upload2/1629486980933.png", group-title="📻 RADIOS 📻",QUIUBO STEREO
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1038152166391787520/feQ1j16i_400x400.jpg", group-title="📻 RADIOS 📻",QUIUBO STEREO
 https://ott.streann.com/loadbalancer/services/v1/radios-secure/611fff9be4b03ec37aae6f8b/playlist.m3u8?access_token=7e4ed15d-f084-4fe9-bdfe-c0c1e34a3266&device-id=0fsKGc34jkhXdYEW69KIlxtxAJOGrLuaFLZya2oShFDe0PVPwn&device-type=web&device-name=web&network-type=wifi&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20oriental),hora%20est%C3%A1ndar%20oriental&undefined
-#EXTINF:-1, tvg-logo="https://img.streann.com/upload2/1634660075655.png", group-title="📻 RADIOS 📻",FABULOSA ESTEREO
+#EXTINF:-1, tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/endzyprz6umy.png", group-title="📻 RADIOS 📻",FABULOSA ESTEREO
 https://ott.streann.com/loadbalancer/services/v1/radios-secure/616eeef9e4b0d7fa6488305a/playlist.m3u8?access_token=7e4ed15d-f084-4fe9-bdfe-c0c1e34a3266&device-id=0fsKGc34jkhXdYEW69KIlxtxAJOGrLuaFLZya2oShFDe0PVPwn&device-type=web&device-name=web&network-type=wifi&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20oriental),hora%20est%C3%A1ndar%20oriental&undefined
 #EXTINF:-1, tvg-logo="http://www.wao975.fm/wp-content/uploads/2012/08/logopng1.png", tvg-name="WAO"  group-title="📻 RADIOS 📻",WAO
 http://ic.streann.com:8000/wao
