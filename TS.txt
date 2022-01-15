@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cr/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv.programadorx.cl/epg/gratis/abril/guide.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.ibb.co/J3ppj8N/imageonline-co-transparentimage.png" tvg-name="TVN HD"  group-title="🇵🇦 LOCALES 🇵🇦",TVN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.ibb.co/3yKMkX8/unnamed-1.jpg," tvg-name="TVM HD 2"  group-title="🇵🇦 LOCALES 🇵🇦",TVN HD 2
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
+#EXTINF:-1 tvg-id="TVNpass.pa" tvg-logo="https://i.ibb.co/3yKMkX8/unnamed-1.jpg," tvg-name="TVM HD 2"  group-title="🇵🇦 LOCALES 🇵🇦",TVN PASS
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/606254c0e4b03e1f0616b2bd/playlist.m3u8?access_token=7e4ed15d-f084-4fe9-bdfe-c0c1e34a3266&device-id=0fsKGc34jkhXdYEW69KIlxtxAJOGrLuaFLZya2oShFDe0PVPwn&device-type=web&device-name=web&network-type=wifi&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20oriental),hora%20est%C3%A1ndar%20oriental&undefined
 #EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" tvg-name="TV MAX HD"  group-title="🇵🇦 LOCALES 🇵🇦",TV MAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RPCTV.pa" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" tvg-name="RPC"  group-title="🇵🇦 LOCALES 🇵🇦",RPC 
@@ -549,6 +549,18 @@ http://vod.tuxchannel.tv:80/peliculas/720/xtremo%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/i%20was%20lorena%20bobbitt%202020.mkv
 #EXTINF:-1,zombie a los 17
 http://tux-vod.dynu.com/peliculas/720/zombie%20at%2017%202018.mkv
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1356621732564631552/mlBHOoKp_400x400.jpg", group-title="📻 RADIOS 📻",TELEMETRO RADIO
+https://mdstrm.com/audio/5eed1f402a71ff071938abc2/live.m3u8
+#EXTINF:-1, tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1523444301.jpg", group-title="📻 RADIOS 📻",TELEMETRO RADIO TV
+https://mdstrm.com/live-stream-playlist/5d97ca5673de440761ff194e.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1349479335946805251/VX9LxouO_400x400.jpg", group-title="📻 RADIOS 📻",RPC RADIO
+https://mdstrm.com/audio/5eebd56d74f62407a5cd6b62/live.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1349479335946805251/VX9LxouO_400x400.jpg", group-title="📻 RADIOS 📻",RPC RADIO TV
+https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
+#EXTINF:-1, tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-150px/jfhwrcnrymat.png", group-title="📻 RADIOS 📻",TVN RADIO
+https://ott.streann.com/loadbalancer/services/v1/radios-secure/60e8ca95e4b070abd1166308/playlist.m3u8?access_token=7e4ed15d-f084-4fe9-bdfe-c0c1e34a3266&device-id=0fsKGc34jkhXdYEW69KIlxtxAJOGrLuaFLZya2oShFDe0PVPwn&device-type=web&device-name=web&network-type=wifi&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20oriental),hora%20est%C3%A1ndar%20oriental&undefined
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1283232145847267329/HKLjgNtV_400x400.jpg", group-title="📻 RADIOS 📻",TVN RADIO TV
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5ef239762cdc1ef977abe5ea/playlist.m3u8?access_token=7e4ed15d-f084-4fe9-bdfe-c0c1e34a3266&device-id=0fsKGc34jkhXdYEW69KIlxtxAJOGrLuaFLZya2oShFDe0PVPwn&device-type=web&device-name=web&network-type=wifi&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20oriental),hora%20est%C3%A1ndar%20oriental&undefined
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/949813745685073921/tk2baI36_400x400.jpg" tvg-name="PANAMA HIT RADIO"  group-title="📻 RADIOS 📻",PANAMA HIT RADIO 
 https://www.streaming507.net:8024/stream
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-panama.png" tvg-name="ORIGINAL STEREO"  group-title="📻 RADIOS 📻",ORIGINAL STEREO
@@ -557,18 +569,26 @@ https://original.radioca.st/stream/1/
 http://11618.cloudrad.io:9124/live
 #EXTINF:-1, tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/original.png" tvg-name="AM ORIGINAL"  group-title="📻 RADIOS 📻",AM ORIGINAL
 http://rosetta.shoutca.st:9264/stream/1/
+#EXTINF:-1, tvg-logo="https://img.streann.com/upload2/1629486980933.png", group-title="📻 RADIOS 📻",QUIUBO STEREO
+https://ott.streann.com/loadbalancer/services/v1/radios-secure/611fff9be4b03ec37aae6f8b/playlist.m3u8?access_token=7e4ed15d-f084-4fe9-bdfe-c0c1e34a3266&device-id=0fsKGc34jkhXdYEW69KIlxtxAJOGrLuaFLZya2oShFDe0PVPwn&device-type=web&device-name=web&network-type=wifi&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20oriental),hora%20est%C3%A1ndar%20oriental&undefined
+#EXTINF:-1, tvg-logo="https://img.streann.com/upload2/1634660075655.png", group-title="📻 RADIOS 📻",FABULOSA ESTEREO
+https://ott.streann.com/loadbalancer/services/v1/radios-secure/616eeef9e4b0d7fa6488305a/playlist.m3u8?access_token=7e4ed15d-f084-4fe9-bdfe-c0c1e34a3266&device-id=0fsKGc34jkhXdYEW69KIlxtxAJOGrLuaFLZya2oShFDe0PVPwn&device-type=web&device-name=web&network-type=wifi&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20oriental),hora%20est%C3%A1ndar%20oriental&undefined
 #EXTINF:-1, tvg-logo="http://www.wao975.fm/wp-content/uploads/2012/08/logopng1.png", tvg-name="WAO"  group-title="📻 RADIOS 📻",WAO
 http://ic.streann.com:8000/wao
-#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="📻 RADIOS 📻",SUPERQ TV
-https://5f700d5b2c46f.streamlock.net/superqpanama/superqpanama/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://cdn-profiles.tunein.com/s13294/images/logog.png", group-title="📻 RADIOS 📻",CALIENTE
+https://mdstrm.com/live-stream-playlist/5d977ffcbe301a0f0d8e50fb.m3u8
 #EXTINF:-1, tvg-logo="https://fotos.subefotos.com/b55779143f1d00bbaa18e5009701bb1co.jpg" tvg-name="FESTIVAL"  group-title="📻 RADIOS 📻",FESTIVAL
 https://www.streaming507.net:8128/stream
 #EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="📻 RADIOS 📻",SUPERQ
 https://sqserver.superqpanama.net:8005/superqpanama
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-q-32x32.png" tvg-name="SUPER Q"  group-title="📻 RADIOS 📻",SUPERQ TV
+https://5f700d5b2c46f.streamlock.net/superqpanama/superqpanama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" tvg-name="WOW TV"  group-title="🎬📺TS-TV📺🎬",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" tvg-name="CARACOL HD"  group-title="🎬📺TS-TV📺🎬",CARACOL HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="🎬📺TS-TV📺🎬",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/teletica_7_1.png" tvg-name="TELE TICA C7"  group-title="🎬📺TS-TV📺🎬",TELE TICA C7
 http://190.6.202.166:8000/play/a02r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r7Tp7zp/music.png" tvg-name="TU MUSICA HD"  group-title="🎬📺TS-TV📺🎬",TU MUSICA HD
@@ -613,6 +633,8 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24088
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/24091
 #EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_400x400.jpg" tvg-language="Spanish""  group-title="🎬📺TS-TV📺🎬",CNN EN ESPAÑOL
 http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/41092
+#EXTINF:-1 tvg-id="canalclaro.mx" tvg-logo="https://www.claro.com.pa/portal/pa/gc/canales/1502984126096-Imagen.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CANAL CLARO
+http://200.24.159.179:8500/play/a03l
 #EXTINF:-1 tvg-id="LasEstrellasMexico.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-las-estrellas.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CANAL ESTRELLAS
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/16827
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/13de30e5-a209-4dfe-a755-b161b7046ba1_m.jpg" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",CARTOON NETWORK
@@ -747,8 +769,8 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1812
 http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/41013
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",WARNER CHANNEL
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/103098
-#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",CLARO SPORTS
-http://200.24.159.179:8500/play/a03l
+#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://www.claro.com.pa/portal/pa/gc/canales/1503414950862-Imagen.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",CLARO SPORTS
+http://187.200.246.16:8000/play/a0cm
 ##EXTINF:-1 tvg-id="ESPNAmericaLatina.us" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL"",ESPN
 http://200.24.159.179:8500/play/a01e
 #EXTINF:-1 tvg-id="ESPN2Colombia.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 2 
@@ -794,7 +816,7 @@ https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargent
 #EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",DIRECTV SPORT 2
 https://dtv-latam-abc.akamaized.net/dash/live/700404/dtv/DTV-ABC-directtvsports2/master.mpd?&l=https://iptvtucuman.com/dtv2wv
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",BEIN SPORT Ñ
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137268
+https://cdn-bein-es-hls-overon.nunchee.tv/master/710cc0ac471746b9b6691a0d8064db924580fecc/bein-es-hls-overon/index.m3u8?secure=1&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4tYmVpbi1lcy1obHMtb3Zlcm9uLm51bmNoZWUudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MjI3Mzg3MX19fV19&Key-Pair-Id=K3NCDY0BEWL60L&Signature=SANnGqN~IYgjFNeumpW9HboA-qWw-d07Zv-Z-Ay3DAkznEuT6RcEAPpSWWMBWhZoOwYoBtLR~58oamTk4UZTOySzmYEnDCX8k8BA7~7KKzg27yGZyyi2t-zEspHrxII7wlJVtDQ-0nomAp~4Qb0cvKwcMsu19TFOF2G2BtCxsZ1-NqHBZsZOZQa5jWrSb73qK~9NE2WfmwvC4sew0GwoblI5oQA9ZUYNxrIKbHtdc8gYk9fvNyhX54NzxK2SsnBXoTNBNekePPwY3n4nzi7QaJ5SOATGeVaFQD3eH5irsb9u0jNWxg0W5hfPGGWBVsg1Dl22pmjd9ql5hOmN1JuykQ__
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ECDL
 http://181.198.67.2:8024/play/a0b5
 #EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",GOL TV
@@ -809,6 +831,56 @@ http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41009
 http://187.49.191.6:8080/play/a022
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TD+CR 2
 http://187.49.191.6:8080/play/a023
+#EXTINF:-1 group-title="SPORT⚽⚾SD-HD",ESPN
+http://swiptv.online:55577/headend/headend5757/2214
+#EXTINF:-1,ESPN 2
+http://swiptv.online:55577/headend/headend5757/2259
+#EXTINF:-1,ESPN 3
+http://swiptv.online:55577/headend/headend5757/2256
+#EXTINF:-1,ESPN 4
+http://swiptv.online:55577/headend/headend5757/2215
+#EXTINF:-1,ESPN EXTRA
+http://swiptv.online:55577/headend/headend5757/2224
+#EXTINF:-1,FOX SPORTS 2
+http://swiptv.online:55577/headend/headend5757/2242
+#EXTINF:-1,FOX SPORTS 3
+http://swiptv.online:55577/headend/headend5757/2216
+#EXTINF:-1,FOX SPORT PREMIUN
+http://swiptv.online:55577/headend/headend5757/2181
+#EXTINF:-1,TNT SPORTS
+http://swiptv.online:55577/headend/headend5757/2217
+#EXTINF:-1,GOL TV
+http://swiptv.online:55577/headend/headend5757/2169
+#EXTINF:-1,CANAL DEL FUTBOL
+http://swiptv.online:55577/headend/headend5757/2172
+#EXTINF:-1,SKY SPORT
+http://swiptv.online:55577/headend/headend5757/2186
+#EXTINF:-1,GOL PERU
+http://swiptv.online:55577/headend/headend5757/2238
+#EXTINF:-1,DIRECTV SPORT
+http://swiptv.online:55577/headend/headend5757/2243
+#EXTINF:-1,DIREC TV SPORT 2
+http://swiptv.online:55577/headend/headend5757/2264
+#EXTINF:-1,ESPN 1
+http://45.161.188.242:88/espn/mono.m3u8
+#EXTINF:-1,ESPN 2
+http://45.161.188.242:88/espn2/mono.m3u8
+#EXTINF:-1,ESPN 3
+http://45.161.188.242:88/espn3/mono.m3u8
+#EXTINF:-1,ESPN 4
+http://45.161.188.242:88/foxsports/mono.m3u8
+#EXTINF:-1,FOX SPORT 1
+http://45.161.188.242:88/foxsports1/mono.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://45.161.188.242:88/foxsports2/mono.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://45.161.188.242:88/foxsports3/mono.m3u8
+#EXTINF:-1,TNT SPORT 2
+http://45.161.188.242:88/tntsports2/video.m3u8
+#EXTINF:-1,TNT SPORT 3
+http://45.161.188.242:88/tntsports3/mono.m3u8
+#EXTINF:-1,TyC SPORT
+http://45.161.188.242:88/tycsports/mono.m3u8
 #EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",CANAL+ SPORT HD
 http://91.226.51.126:8000/udp/239.100.10.183:2234
 #EXTINF:-1 tvg-logo="https://n-6-2.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66249.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",CANAL+ SPORT HD 2
@@ -833,6 +905,592 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/74846
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/115815
 #EXTINF:-1 tvg-logo="https://images.mediotiempo.com/eClWmp49_BgOM8fGMHXO83T4Zf4=/958x596/uploads/media/2017/03/27/wwe-network-3.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",WWE NETWORK 
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86064
+#EXTINF:-1 group-title="📺TS_SD-HD📺",STAR LIFE
+http://swiptv.online:55577/headend/headend5757/2152
+#EXTINF:-1,AZ MUNDO
+http://swiptv.online:55577/headend/headend5757/2153
+#EXTINF:-1,AMC
+http://swiptv.online:55577/headend/headend5757/2154
+#EXTINF:-1,NATGEO KIDS
+http://swiptv.online:55577/headend/headend5757/2155
+#EXTINF:-1,CNN ESPAÑOL
+http://swiptv.online:55577/headend/headend5757/2157
+#EXTINF:-1,SYFY
+http://swiptv.online:55577/headend/headend5757/2158
+#EXTINF:-1,ANIMAL PLANET
+http://swiptv.online:55577/headend/headend5757/2159
+#EXTINF:-1,TLNOVELAS
+http://swiptv.online:55577/headend/headend5757/2160
+#EXTINF:-1,LIFE TIME
+http://swiptv.online:55577/headend/headend5757/2163
+#EXTINF:-1,DISCOVERY SCIENCE
+http://swiptv.online:55577/headend/headend5757/2165
+#EXTINF:-1,HBO +
+http://swiptv.online:55577/headend/headend5757/2167
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://swiptv.online:55577/headend/headend5757/2170
+#EXTINF:-1,CARACOL
+http://swiptv.online:55577/headend/headend5757/2174
+#EXTINF:-1,TC TV
+http://swiptv.online:55577/headend/headend5757/2175
+#EXTINF:-1,ECUAVISA
+http://swiptv.online:55577/headend/headend5757/2176
+#EXTINF:-1,FILMS & ARTS
+http://swiptv.online:55577/headend/headend5757/2179
+#EXTINF:-1,E!
+http://swiptv.online:55577/headend/headend5757/2180
+#EXTINF:-1,TELEAMAZONAS
+http://swiptv.online:55577/headend/headend5757/2183
+#EXTINF:-1,GAMAVISION
+http://swiptv.online:55577/headend/headend5757/2184
+#EXTINF:-1,OROMAR TV
+http://swiptv.online:55577/headend/headend5757/2187
+#EXTINF:-1,HBO SIGNATURE
+http://swiptv.online:55577/headend/headend5757/2189
+#EXTINF:-1,DISCOVERY CHANNEL
+http://swiptv.online:55577/headend/headend5757/2191
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://swiptv.online:55577/headend/headend5757/2192
+#EXTINF:-1,STAR SERIES
+http://swiptv.online:55577/headend/headend5757/2193
+#EXTINF:-1,AZ CLICK
+http://swiptv.online:55577/headend/headend5757/2194
+#EXTINF:-1,HBO XTREME
+http://swiptv.online:55577/headend/headend5757/2195
+#EXTINF:-1,STAR FUN
+http://swiptv.online:55577/headend/headend5757/2196
+#EXTINF:-1,TNT
+http://swiptv.online:55577/headend/headend5757/2197
+#EXTINF:-1,TELEMUNDO
+http://swiptv.online:55577/headend/headend5757/2198
+#EXTINF:-1,PARAMOUNT
+http://swiptv.online:55577/headend/headend5757/2199
+#EXTINF:-1,DISNEY XD
+http://swiptv.online:55577/headend/headend5757/2200
+#EXTINF:-1,DISNEY JUNIOR
+http://swiptv.online:55577/headend/headend5757/2201
+#EXTINF:-1,DISNEY CHANNEL
+http://swiptv.online:55577/headend/headend5757/2202
+#EXTINF:-1,AXN
+http://swiptv.online:55577/headend/headend5757/2203
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://swiptv.online:55577/headend/headend5757/2205
+#EXTINF:-1,COMEDY CENTRAL
+http://swiptv.online:55577/headend/headend5757/2206
+#EXTINF:-1,NICKELODEON
+http://swiptv.online:55577/headend/headend5757/2210
+#EXTINF:-1,NATIONAL GEOGRAFHY
+http://swiptv.online:55577/headend/headend5757/2211
+#EXTINF:-1,A&E
+http://swiptv.online:55577/headend/headend5757/2212
+#EXTINF:-1,NICK JR
+http://swiptv.online:55577/headend/headend5757/2218
+#EXTINF:-1,STAR CINEMA
+http://swiptv.online:55577/headend/headend5757/2219
+#EXTINF:-1,STAR HITS
+http://swiptv.online:55577/headend/headend5757/2220
+#EXTINF:-1,MTV
+http://swiptv.online:55577/headend/headend5757/2221
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://swiptv.online:55577/headend/headend5757/2222
+#EXTINF:-1,WARNER CHANNEL
+http://swiptv.online:55577/headend/headend5757/2223
+#EXTINF:-1,STAR ACTION
+http://swiptv.online:55577/headend/headend5757/2227
+#EXTINF:-1,TLNOVELAS
+http://swiptv.online:55577/headend/headend5757/2228
+#EXTINF:-1,DISTRITO COMEDIA
+http://swiptv.online:55577/headend/headend5757/2229
+#EXTINF:-1,GOLDEN
+http://swiptv.online:55577/headend/headend5757/2230
+#EXTINF:-1,GOLDEN EDGE
+http://swiptv.online:55577/headend/headend5757/2231
+#EXTINF:-1,CARACOL NOTICIAS
+http://swiptv.online:55577/headend/headend5757/2233
+#EXTINF:-1,MYTIME
+http://swiptv.online:55577/headend/headend5757/2235
+#EXTINF:-1,CINECANAL
+http://swiptv.online:55577/headend/headend5757/2239
+#EXTINF:-1,HBO
+http://swiptv.online:55577/headend/headend5757/2241
+#EXTINF:-1,HISTORY CHANNEL
+http://swiptv.online:55577/headend/headend5757/2244
+#EXTINF:-1,HISTORY 2
+http://swiptv.online:55577/headend/headend5757/2245
+#EXTINF:-1,PANAMERICANA
+http://swiptv.online:55577/headend/headend5757/2246
+#EXTINF:-1,CINEMAX
+http://swiptv.online:55577/headend/headend5757/2247
+#EXTINF:-1,LATINA
+http://swiptv.online:55577/headend/headend5757/2248
+#EXTINF:-1,FXMOVIES
+http://swiptv.online:55577/headend/headend5757/2249
+#EXTINF:-1,HBO 2
+http://swiptv.online:55577/headend/headend5757/2250
+#EXTINF:-1,HBO FAMILY
+http://swiptv.online:55577/headend/headend5757/2251
+#EXTINF:-1,STUDIO UNIVERSAL
+http://swiptv.online:55577/headend/headend5757/2253
+#EXTINF:-1,FX
+http://swiptv.online:55577/headend/headend5757/2254
+#EXTINF:-1,NATGEO WILD
+http://swiptv.online:55577/headend/headend5757/2257
+#EXTINF:-1,DISCOVERY KIDS
+http://swiptv.online:55577/headend/headend5757/2258
+#EXTINF:-1,AMERICA TV
+http://swiptv.online:55577/headend/headend5757/2260
+#EXTINF:-1,SPACE
+http://swiptv.online:55577/headend/headend5757/2261
+#EXTINF:-1,STAR CHANNEL
+http://swiptv.online:55577/headend/headend5757/2262
+#EXTINF:-1,AZ CORAZON
+http://swiptv.online:55577/headend/headend5757/2263
+#EXTINF:-1,TNT SERIES
+http://swiptv.online:55577/headend/headend5757/2255
+#EXTINF:-1,CARTOON NETWORK
+http://swiptv.online:55577/headend/headend5757/2265
+#EXTINF:-1,STAR COMEDY OP 2
+http://swiptv.online:55577/headend/headend5757/2266
+#EXTINF:-1,DISCOVERY THEATER
+http://swiptv.online:55577/headend/headend5757/2411
+#EXTINF:-1,SONY
+http://swiptv.online:55577/headend/headend5757/2412
+#EXTINF:-1,DW
+http://swiptv.online:55577/headend/headend5757/2413
+#EXTINF:-1,ANTENA 3
+http://swiptv.online:55577/headend/headend5757/2414
+#EXTINF:-1,RT
+http://swiptv.online:55577/headend/headend5757/2415
+#EXTINF:-1,NICK MUSIC
+http://swiptv.online:55577/headend/headend5757/2416
+#EXTINF:-1,TV CHILE
+http://swiptv.online:55577/headend/headend5757/2417
+#EXTINF:-1,TLC
+http://swiptv.online:55577/headend/headend5757/2418
+#EXTINF:-1,RTS
+http://swiptv.online:55577/headend/headend5757/2420
+#EXTINF:-1,axn
+http://45.161.188.242:88/axn/mono.m3u8
+#EXTINF:-1,canal13
+http://45.161.188.242:88/canal13/mono.m3u8
+#EXTINF:-1,cinemax
+http://45.161.188.242:88/cinemax/mono.m3u8
+#EXTINF:-1,cnnchile
+http://45.161.188.242:88/cnnchile/mono.m3u8
+#EXTINF:-1,lared
+http://45.161.188.242:88/lared/mono.m3u8
+#EXTINF:-1,mega
+http://45.161.188.242:88/mega/mono.m3u8
+#EXTINF:-1,tvn
+http://45.161.188.242:88/tvn/mono.m3u8
+#EXTINF:-1,viax
+http://45.161.188.242:88/viax/mono.m3u8
+#EXTINF:-1,zonalatina
+http://45.161.188.242:88/zonalatina/mono.m3u8
+#EXTINF:-1,vidatv
+http://45.161.188.242:88/vidatv/mono.m3u8
+#EXTINF:-1,cartoonnetwork
+http://45.161.188.242:88/cartoonnetwork/mono.m3u8
+#EXTINF:-1,discoverychannel
+http://45.161.188.242:88/discoverychannel/mono.m3u8
+#EXTINF:-1,disneychannel
+http://45.161.188.242:88/disneychannel/mono.m3u8
+#EXTINF:-1,eentertainment
+http://45.161.188.242:88/eentertainment/mono.m3u8
+#EXTINF:-1,mtv
+http://45.161.188.242:88/mtv/mono.m3u8
+#EXTINF:-1,natgeo
+http://45.161.188.242:88/natgeo/mono.m3u8
+#EXTINF:-1,nickelodeon
+http://45.161.188.242:88/nickelodeon/mono.m3u8
+#EXTINF:-1,nickjr
+http://45.161.188.242:88/nickjr/mono.m3u8
+#EXTINF:-1,tlc
+http://45.161.188.242:88/tlc/mono.m3u8
+#EXTINF:-1,animalplanet
+http://45.161.188.242:88/animalplanet/mono.m3u8
+#EXTINF:-1,discoveryturbo
+http://45.161.188.242:88/discoveryturbo/mono.m3u8
+#EXTINF:-1,homeandhealth
+http://45.161.188.242:88/homeandhealth/mono.m3u8
+#EXTINF:-1,tcm
+http://45.161.188.242:88/tcm/mono.m3u8
+#EXTINF:-1,disneyjr
+http://45.161.188.242:88/disneyjr/mono.m3u8
+#EXTINF:-1,disneyxd
+http://45.161.188.242:88/disneyxd/mono.m3u8
+#EXTINF:-1,mega
+http://45.161.188.242:88/mega/mono.m3u8
+#EXTINF:-1,tnt
+http://45.161.188.242:88/tnt/mono.m3u8
+#EXTINF:-1,fx
+http://45.161.188.242:88/fx/mono.m3u8
+#EXTINF:-1,history
+http://45.161.188.242:88/history/mono.m3u8
+#EXTINF:-1,universal
+http://45.161.188.242:88/universal/mono.m3u8
+#EXTINF:-1,discoveryid
+http://45.161.188.242:88/discoveryid/mono.m3u8
+#EXTINF:-1,cinecanal
+http://45.161.188.242:88/cinecanal/mono.m3u8
+#EXTINF:-1,fxmovies
+http://45.161.188.242:88/fxmovies/mono.m3u8
+#EXTINF:-1,isat
+http://45.161.188.242:88/isat/mono.m3u8
+#EXTINF:-1,tbs
+http://45.161.188.242:88/tbs/mono.m3u8
+#EXTINF:-1,warner
+http://45.161.188.242:88/warner/mono.m3u8
+#EXTINF:-1,discoverykids
+http://45.161.188.242:88/discoverykids/mono.m3u8
+#EXTINF:-1,canal13
+http://45.161.188.242:88/canal13/mono.m3u8
+#EXTINF:-1,cinemax
+http://45.161.188.242:88/cinemax/mono.m3u8
+#EXTINF:-1,hbo2
+http://45.161.188.242:88/hbo2/mono.m3u8
+#EXTINF:-1,hboplus
+http://45.161.188.242:88/hboplus/mono.m3u8
+#EXTINF:-1,hboxtreme
+http://45.161.188.242:88/hboxtreme/mono.m3u8
+#EXTINF:-1,las etrellas
+http://45.161.188.242:88/lasestrellas/mono.m3u8
+#EXTINF:-1,nat geo kids
+http://45.161.188.242:88/natgeokids/mono.m3u8
+#EXTINF:-1,space
+http://45.161.188.242:88/space/mono.m3u8
+#EXTINF:-1,telemundo
+http://45.161.188.242:88/telemundo/mono.m3u8
+#EXTINF:-1,trutv
+http://45.161.188.242:88/trutv/mono.m3u8
+#EXTINF:-1,goltv
+http://45.161.188.242:88/goltv/mono.m3u8
+#EXTINF:-1,hbofamily
+http://45.161.188.242:88/hbofamily/mono.m3u8
+#EXTINF:-1,hbo
+http://45.161.188.242:88/hbo/mono.m3u8
+#EXTINF:-1,tooncast
+http://45.161.188.242:88/tooncast/mono.m3u8
+#EXTINF:-1,sony
+http://45.161.188.242:88/sony/mono.m3u8
+#EXTINF:-1,nickelodeonhd
+http://45.161.188.242:88/nickhd/mono.m3u8
+#EXTINF:-1,hbofamilyhd
+http://45.161.188.242:88/hbofamilyhd/mono.m3u8
+#EXTINF:-1,starlife
+http://45.161.188.242:88/starlife/mono.m3u8
+#EXTINF:-1,24horas
+http://45.161.188.242:88/24horas/mono.m3u8
+#EXTINF:-1,LA: A&E  HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41114
+#EXTINF:-1,LA: AMC HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41113
+#EXTINF:-1,LA: ANIMAL PLANET HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41110
+#EXTINF:-1,LA: AXN HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41109
+#EXTINF:-1,LA: AZTECA 7 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41112
+#EXTINF:-1,LA: BABY TV HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41108
+#EXTINF:-1,LA: BOOMERANG HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41106
+#EXTINF:-1,LA: CANAL 5 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41104
+#EXTINF:-1,LA: CANAL DE LAS ESTRELLAS HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41102
+#EXTINF:-1,LA: CARACOL (CO)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41105
+#EXTINF:-1,LA: CARTOON NETWORK HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41096
+#EXTINF:-1,LA: CINE CANAL HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41095
+#EXTINF:-1,LA: CINEMAX (AR)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41101
+#EXTINF:-1,LA: CNN CHILE (CL)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41100
+#EXTINF:-1,LA: CNN EN ESPANOL
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41092
+#EXTINF:-1,LA: COMEDY CENTRAL HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41098
+#EXTINF:-1,LA: DE PELICULA HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41088
+#EXTINF:-1,LA: DISCOVERY CIVILIZATION HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41084
+#EXTINF:-1,LA: DISCOVERY KIDS HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41090
+#EXTINF:-1,LA: DISCOVERY THEATER HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41087
+#EXTINF:-1,LA: DISCOVERY TLC (PR)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41089
+#EXTINF:-1,LA: DISCOVERY TURBO HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41086
+#EXTINF:-1,LA: DISCOVERY WORLD HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41085
+#EXTINF:-1,LA: DISNEY JR (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41080
+#EXTINF:-1,LA: DISNEY XD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41081
+#EXTINF:-1,LA: DISTRITO COMEDIA HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41079
+#EXTINF:-1,LA: EL GOURMET HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41070
+#EXTINF:-1,LA: ESPN 2 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41076
+#EXTINF:-1,LA: ESPN 3 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41073
+#EXTINF:-1,LA: ESPN 3 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41075
+#EXTINF:-1,LA: ESPN HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41077
+#EXTINF:-1,LA: FILM & ART HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41069
+#EXTINF:-1,LA: FORO TV (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41060
+#EXTINF:-1,LA: FOX  HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41061
+#EXTINF:-1,LA: FOX ACTION HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41068
+#EXTINF:-1,LA: FOX CINEMA HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41066
+#EXTINF:-1,LA: FOX MOVIES HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41067
+#EXTINF:-1,LA: FOX SERIES HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41065
+#EXTINF:-1,LA: FOX SPORTS 3 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41062
+#EXTINF:-1,LA: FOX SPORTS HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41064
+#EXTINF:-1,LA: FX HD (FX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41058
+#EXTINF:-1,LA: FXM HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41057
+#EXTINF:-1,LA: GLITZ HD (CO)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41051
+#EXTINF:-1,LA: GOLDEN EDGE HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41053
+#EXTINF:-1,LA: GOLDEN PLUS HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41052
+#EXTINF:-1,LA: HBO
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41046
+#EXTINF:-1,LA: HISTORY HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41050
+#EXTINF:-1,LA: HOLA TV HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41044
+#EXTINF:-1,LA: ISAT HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41042
+#EXTINF:-1,LA: MEXIQUICE (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41038
+#EXTINF:-1,LA: MTV HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41040
+#EXTINF:-1,LA: MULTIMEDIOS HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41039
+#EXTINF:-1,LA: NAT GEO WILD HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41037
+#EXTINF:-1,LA: NATGEO HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41036
+#EXTINF:-1,LA: NICK 2 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41035
+#EXTINF:-1,LA: NICKELODEON HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41034
+#EXTINF:-1,LA: NICK JR HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41032
+#EXTINF:-1,LA: NICKTOONS (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41033
+#EXTINF:-1,LA: PARAMOUNT HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41031
+#EXTINF:-1,LA: SPACE HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41028
+#EXTINF:-1,LA: SYFY HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41026
+#EXTINF:-1,LA: TLC HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41022
+#EXTINF:-1,LA: TNT HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41021
+#EXTINF:-1,LA: TNT SERIE HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41020
+#EXTINF:-1,LA: TOONCAST HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41015
+#EXTINF:-1,LA: TRU TV HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41018
+#EXTINF:-1,LA: TYC SPORTS HD (US)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41014
+#EXTINF:-1,LA: UNICABLE (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41012
+#EXTINF:-1,LA: UNIVISION
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41013
+#EXTINF:-1,LA: WARNER HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41005
+#EXTINF:-1,LA: WOBI HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41003
+#EXTINF:-1,SP: LA1 HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13643
+#EXTINF:-1,SP: LA1
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/33
+#EXTINF:-1,SP: LA2
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/34
+#EXTINF:-1,SP: ANTENA 3 HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13640
+#EXTINF:-1,SP: ANTENA 3
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/407
+#EXTINF:-1,SP: CUATRO HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13671
+#EXTINF:-1,SP: CUATRO
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/24
+#EXTINF:-1,SP: TELECINCO HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7209
+#EXTINF:-1,SP: LA SEXTA HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/408
+#EXTINF:-1,SP: LA SEXTA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/35
+#EXTINF:-1,SP: NEOX
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7194
+#EXTINF:-1,SP: NOVA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/42
+#EXTINF:-1,SP: MEGA TV
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7200
+#EXTINF:-1,SP: FDF
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/404
+#EXTINF:-1,SP: DIVINITY
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7196
+#EXTINF:-1,SP: ENERGY
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/405
+#EXTINF:-1,SP: ANDALUCIA TV
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7195
+#EXTINF:-1,SP: BeMad
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41217
+#EXTINF:-1,#0  HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13606
+#EXTINF:-1,#0
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7262
+#EXTINF:-1,SP: M. ESTRENOS
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/9
+#EXTINF:-1,SP: M. ACCION HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13603
+#EXTINF:-1,SP: M. ACCION
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/5
+#EXTINF:-1,SP: M. COMEDIA HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7211
+#EXTINF:-1,SP:  M. COMEDIA HD(1080)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/18702
+#EXTINF:-1,SP: M. COMEDIA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/6
+#EXTINF:-1,SP: M. CINE ESPANOL
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/63496
+#EXTINF:-1,SP: M. DRAMA HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/25
+#EXTINF:-1,SP: M. DRAMA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/55749
+#EXTINF:-1,SP: M. CINEDOC&ROLL HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13625
+#EXTINF:-1,SP: M CINE ESPANOL
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7224
+#EXTINF:-1,SP: M. SERIES HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13605
+#EXTINF:-1,SP: M. SERIES
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13
+#EXTINF:-1,SP: M. SeriesXtra HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13628
+#EXTINF:-1,SP: M. SERIESMANIA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/109232
+#EXTINF:-1,SP: DreamWorks HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/109231
+#EXTINF:-1,SP: DreamWorks
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/109230
+#EXTINF:-1,SP: COMEDY CENTRAL HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13634
+#EXTINF:-1,SP: COMEDY CENTRAL
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7216
+#EXTINF:-1,SP: HOLLYWOOD HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13593
+#EXTINF:-1,SP: HOLLYWOOD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/32
+#EXTINF:-1,SP: PARAMOUNT
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7212
+#EXTINF:-1,SP: FOX HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13594
+#EXTINF:-1,SP: FOX
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/29
+#EXTINF:-1,SP: AMC HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13702
+#EXTINF:-1,SP: AXN HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13589
+#EXTINF:-1,SP: AXN
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/3
+#EXTINF:-1,SP: AXN WHITE HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13624
+#EXTINF:-1,SP: AXN WHITE
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/4
+#EXTINF:-1,SP: SYFY HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13633
+#EXTINF:-1,SP:  SYFY
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/48
+#EXTINF:-1,SP: TNT HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13592
+#EXTINF:-1,SP: TNT
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/46
+#EXTINF:-1,SP: TCM HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13604
+#EXTINF:-1,SP: TCM
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/43
+#EXTINF:-1,SP: SUNDANCE
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13691
+#EXTINF:-1,SP: CALLE 13 HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13645
+#EXTINF:-1,SP: CALLE 13
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/17
+#EXTINF:-1,SP: TOROS HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13602
+#EXTINF:-1,SP: TOROS
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/15
+#EXTINF:-1,SP: CAZA Y PESCA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/21
+#EXTINF:-1,SP: IBERALIA TV
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13936
+#EXTINF:-1,SP: HISTORIA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/31
+#EXTINF:-1,SP: CANAL ODISEA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7225
+#EXTINF:-1,SP: NAT GEO HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13590
+#EXTINF:-1,SP: NAT GEO WILD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/39
+#EXTINF:-1,SP: DISCOVERY
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13692
+#EXTINF:-1,SP: CRIME & INVESTIGATION
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7226
+#EXTINF:-1,SP: NON STOP PEOPLE
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13935
+#EXTINF:-1,SP: MTV
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13667
+#EXTINF:-1,SP: Cosmo
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/22610
+#EXTINF:-1,SP: COSMO HD (1080)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/18712
+#EXTINF:-1,SP: CANAL COCINA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/7201
+#EXTINF:-1,SP: CANAL DECASA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/1760
+#EXTINF:-1,SP: CANAL ORBE 21
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13937
+#EXTINF:-1,SP: 24 HORAS
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13939
+#EXTINF:-1,SP: DISNEY CHANNEL
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/26
+#EXTINF:-1,SP: DISNEY JUNIOR
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/27
+#EXTINF:-1,SP: NICK JR
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41
+#EXTINF:-1,SP: NICKELODEON HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/55748
+#EXTINF:-1,SP: NICKELODEON
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/40
+#EXTINF:-1,SP: BABY TV
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13666
+#EXTINF:-1,SP: CANAL PANDA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13669
+#EXTINF:-1,SP: MEGA
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/14118
 #EXTINF:-1, group-title="⚽⚾🇲🇽DEPORTES MEXICO🇲🇽⚽⚾",•●★-- Deportes Mexico --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32332
 #EXTINF:-1,SP: MX: Afizzionados 
