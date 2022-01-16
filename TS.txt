@@ -103,7 +103,7 @@ http://ky-iptv.com:80/danilo/12345/514596.ts
 http://ky-iptv.com:80/danilo/12345/514598.ts
 #EXTINF:-1,PA: Telemetro OP2
 http://ky-iptv.com:80/danilo/12345/514600.ts
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hotel-transylvania-transformania-2-1642253284.jpg" group-title="🎞️ VOD ESTRENO 🎞️",Hotel Transilvania 4: Transformanía
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hotel-transylvania-transformania-2-1642253284.jpg" group-title="🎞️ VOD ESTRENO 🎞️",Hotel Transilvania 4
 https://www643.ff-02.com/token=FeCkBcRodAUC4ubcSkQ7kw/1642363443/200.46.0.0/187/1/0d/03e48aeb96c48c03540d08ede40a10d1-1080p.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/eternals-388789083-mmed.jpg" group-title="🎞️ VOD ESTRENO 🎞️",ETERNALS
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Eternals%20HD%20Lat.mp4
