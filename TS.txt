@@ -103,6 +103,14 @@ http://ky-iptv.com:80/danilo/12345/514596.ts
 http://ky-iptv.com:80/danilo/12345/514598.ts
 #EXTINF:-1,PA: Telemetro OP2
 http://ky-iptv.com:80/danilo/12345/514600.ts
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hotel-transylvania-transformania-2-1642253284.jpg" group-title="🎞️ VOD ESTRENO 🎞️",Hotel Transilvania 4: Transformanía
+https://www643.ff-02.com/token=FeCkBcRodAUC4ubcSkQ7kw/1642363443/200.46.0.0/187/1/0d/03e48aeb96c48c03540d08ede40a10d1-1080p.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/eternals-388789083-mmed.jpg" group-title="🎞️ VOD ESTRENO 🎞️",ETERNALS
+http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Eternals%20HD%20Lat.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-matrix-resurrections-2-1639975326.jpg" group-title="🎞️ VOD ESTRENO 🎞️"THE MATRIX Resurrections 
+https://www1488.ff-03.com/token=IQtz0Zsc_wntKC_ruuwxsA/1642362956/200.46.0.0/190/9/e0/d796e87fe2d286d8b2965c17290fce09-720p.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/halloween-kills-2-1634349123.jpg" group-title="🎞️ VOD ESTRENO 🎞️"Halloween Kills
+https://www1413.ff-03.com/token=hsllfoLKzUo8QIoe-FiCKQ/1642363329/200.46.0.0/185/8/fa/62eae4342b6b85eda60617381333ffa8-720p.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="🎞️ VOD PELICULAS 🎞️",A quemaropa
 http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
 #EXTINF:-1,acción policial
@@ -769,147 +777,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/1812
 http://012345x.com:999/JjUs7dVQRA/TfSYnQkl2d/41013
 #EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish"  group-title="🎬📺TS-TV📺🎬",WARNER CHANNEL
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/103098
-#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://www.claro.com.pa/portal/pa/gc/canales/1503414950862-Imagen.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",CLARO SPORTS
-http://187.200.246.16:8000/play/a0cm
-##EXTINF:-1 tvg-id="ESPNAmericaLatina.us" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL"",ESPN
-http://200.24.159.179:8500/play/a01e
-#EXTINF:-1 tvg-id="ESPN2Colombia.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 2 
-http://190.6.202.166:8000/play/a06h
-#EXTINF:-1 tvg-id="espn3.ar" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 3
-http://200.24.159.179:8500/play/a03b
-#EXTINF:-1 tvg-id="FoxSportsArgentina.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 4 
-http://200.24.159.179:8500/play/a021
-#EXTINF:-1 tvg-id="FoxSportsMexico.us" tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN MX
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41076
-#EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 2 MX
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41077
-#EXTINF:-1 tvg-id="ESPN3AmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 3 MX
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41075
-#EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 4 MX
-http://190.6.202.166:8000/play/a05f
-#EXTINF:-1 tvg-id="ESPNExtraAmericaLatina.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN EXTRA
-http://190.6.202.166:8000/play/a027
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 1 MX
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41064
-#EXTINF:-1 tvg-id="FoxSports2Mexico.us" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 2 MX
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41063
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 3 MX
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41062
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 2 CO
-http://190.6.202.166:8000/play/a061
-#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 2 CL
-http://181.198.67.2:8024/play/a0a1
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 3
-http://190.6.202.166:8000/play/a06i
-#EXTINF:-1 tvg-id="M.LigaCampeones.sp" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",Movistar Deportes
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/25554
-#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",Movistar LA LIGA
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21300
-#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",LA LIGA BAR
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234560
-#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",MOVISTAR CHAMPIONS
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235352
-#EXTINF:-1 tvg-id="SkySports1.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",SKY SPORT MX
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",DIRECTV SPORT 1
-https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd?&l=https://iptvtucuman.com/dtv1wv
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",DIRECTV SPORT 2
-https://dtv-latam-abc.akamaized.net/dash/live/700404/dtv/DTV-ABC-directtvsports2/master.mpd?&l=https://iptvtucuman.com/dtv2wv
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",BEIN SPORT Ñ
-https://cdn-bein-es-hls-overon.nunchee.tv/master/710cc0ac471746b9b6691a0d8064db924580fecc/bein-es-hls-overon/index.m3u8?secure=1&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4tYmVpbi1lcy1obHMtb3Zlcm9uLm51bmNoZWUudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MjI3Mzg3MX19fV19&Key-Pair-Id=K3NCDY0BEWL60L&Signature=SANnGqN~IYgjFNeumpW9HboA-qWw-d07Zv-Z-Ay3DAkznEuT6RcEAPpSWWMBWhZoOwYoBtLR~58oamTk4UZTOySzmYEnDCX8k8BA7~7KKzg27yGZyyi2t-zEspHrxII7wlJVtDQ-0nomAp~4Qb0cvKwcMsu19TFOF2G2BtCxsZ1-NqHBZsZOZQa5jWrSb73qK~9NE2WfmwvC4sew0GwoblI5oQA9ZUYNxrIKbHtdc8gYk9fvNyhX54NzxK2SsnBXoTNBNekePPwY3n4nzi7QaJ5SOATGeVaFQD3eH5irsb9u0jNWxg0W5hfPGGWBVsg1Dl22pmjd9ql5hOmN1JuykQ__
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ECDL
-http://181.198.67.2:8024/play/a0b5
-#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",GOL TV
-http://181.198.67.2:8024/play/a0ay
-#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TyC 
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7395
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2019/07/tudn-logo.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TUDN
-http://190.61.102.67:3150/play/a08j
-#EXTINF:-1 tvg-id="ufc.mx" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",UFC
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23080
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TD+CR
-http://187.49.191.6:8080/play/a022
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TD+CR 2
-http://187.49.191.6:8080/play/a023
-#EXTINF:-1 tvg-logo="https://images.mediotiempo.com/eClWmp49_BgOM8fGMHXO83T4Zf4=/958x596/uploads/media/2017/03/27/wwe-network-3.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",WWE NETWORK
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23077
-#EXTINF:-1 group-title="SPORT⚽⚾SD-HD",ESPN
-http://swiptv.online:55577/headend/headend5757/2214
-#EXTINF:-1,ESPN 2
-http://swiptv.online:55577/headend/headend5757/2259
-#EXTINF:-1,ESPN 3
-http://swiptv.online:55577/headend/headend5757/2256
-#EXTINF:-1,ESPN 4
-http://swiptv.online:55577/headend/headend5757/2215
-#EXTINF:-1,ESPN EXTRA
-http://swiptv.online:55577/headend/headend5757/2224
-#EXTINF:-1,FOX SPORTS 2
-http://swiptv.online:55577/headend/headend5757/2242
-#EXTINF:-1,FOX SPORTS 3
-http://swiptv.online:55577/headend/headend5757/2216
-#EXTINF:-1,FOX SPORT PREMIUN
-http://swiptv.online:55577/headend/headend5757/2181
-#EXTINF:-1,TNT SPORTS
-http://swiptv.online:55577/headend/headend5757/2217
-#EXTINF:-1,GOL TV
-http://swiptv.online:55577/headend/headend5757/2169
-#EXTINF:-1,CANAL DEL FUTBOL
-http://swiptv.online:55577/headend/headend5757/2172
-#EXTINF:-1,SKY SPORT
-http://swiptv.online:55577/headend/headend5757/2186
-#EXTINF:-1,GOL PERU
-http://swiptv.online:55577/headend/headend5757/2238
-#EXTINF:-1,DIRECTV SPORT
-http://swiptv.online:55577/headend/headend5757/2243
-#EXTINF:-1,DIREC TV SPORT 2
-http://swiptv.online:55577/headend/headend5757/2264
-#EXTINF:-1,ESPN 1
-http://45.161.188.242:88/espn/mono.m3u8
-#EXTINF:-1,ESPN 2
-http://45.161.188.242:88/espn2/mono.m3u8
-#EXTINF:-1,ESPN 3
-http://45.161.188.242:88/espn3/mono.m3u8
-#EXTINF:-1,ESPN 4
-http://45.161.188.242:88/foxsports/mono.m3u8
-#EXTINF:-1,FOX SPORT 1
-http://45.161.188.242:88/foxsports1/mono.m3u8
-#EXTINF:-1,FOX SPORT 2
-http://45.161.188.242:88/foxsports2/mono.m3u8
-#EXTINF:-1,FOX SPORT 3
-http://45.161.188.242:88/foxsports3/mono.m3u8
-#EXTINF:-1,TNT SPORT 2
-http://45.161.188.242:88/tntsports2/video.m3u8
-#EXTINF:-1,TNT SPORT 3
-http://45.161.188.242:88/tntsports3/mono.m3u8
-#EXTINF:-1,TyC SPORT
-http://45.161.188.242:88/tycsports/mono.m3u8
-#EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",CANAL+ SPORT HD
-http://91.226.51.126:8000/udp/239.100.10.183:2234
-#EXTINF:-1 tvg-logo="https://n-6-2.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66249.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",CANAL+ SPORT HD 2
-http://91.226.51.126:8000/udp/239.100.10.184:2234
-#EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66251.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",nSport+
-http://95.141.128.163:8004/play/a0a7
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",BT Sport
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232305
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-2-uk.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",BT Sport 2
-http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",BT Sport 3
-http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/b66a77c99a11f16f450ef6e701a8897c/VSport_Football_Logo_Vert_RGB_pos.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",Viasat Football
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/25032
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/989y85n5kcxs/2CorhwFUrfPmqxLYksLwgI/1732c940d17c8b9f9c393f4e1c157ab1/VSport_Premium_Logo_Vert_RGB_pos.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",Viasat Sport Premium
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/25085
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",Premier Sports
-http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/03/09/15837100490775.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",UFC
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41009
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1451550295117414403/7MnvL1yq_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",MLB NETWORK
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23037
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437089046203879438/CskRkWRX_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",YES NETWORK MLB
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/115815
-#EXTINF:-1 tvg-logo="https://images.mediotiempo.com/eClWmp49_BgOM8fGMHXO83T4Zf4=/958x596/uploads/media/2017/03/27/wwe-network-3.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",WWE NETWORK 
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40823
-#EXTINF:-1 group-title="📺TS_SD-HD📺",STAR LIFE
+#EXTINF:-1 group-title="📺TS_HD-SD📺",STAR LIFE
 http://swiptv.online:55577/headend/headend5757/2152
 #EXTINF:-1,AZ MUNDO
 http://swiptv.online:55577/headend/headend5757/2153
@@ -1239,14 +1107,6 @@ http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41081
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41079
 #EXTINF:-1,LA: EL GOURMET HD (MX)
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41070
-#EXTINF:-1,LA: ESPN 2 HD (MX)
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41076
-#EXTINF:-1,LA: ESPN 3 HD (MX)
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41073
-#EXTINF:-1,LA: ESPN 3 HD (MX)
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41075
-#EXTINF:-1,LA: ESPN HD (MX)
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41077
 #EXTINF:-1,LA: FILM & ART HD (MX)
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41069
 #EXTINF:-1,LA: FORO TV (MX)
@@ -1261,10 +1121,6 @@ http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41066
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41067
 #EXTINF:-1,LA: FOX SERIES HD (MX)
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41065
-#EXTINF:-1,LA: FOX SPORTS 3 HD (MX)
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41062
-#EXTINF:-1,LA: FOX SPORTS HD (MX)
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41064
 #EXTINF:-1,LA: FX HD (FX)
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41058
 #EXTINF:-1,LA: FXM HD (MX)
@@ -1443,10 +1299,6 @@ http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13691
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13645
 #EXTINF:-1,SP: CALLE 13
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/17
-#EXTINF:-1,SP: TOROS HD
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13602
-#EXTINF:-1,SP: TOROS
-http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/15
 #EXTINF:-1,SP: CAZA Y PESCA
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/21
 #EXTINF:-1,SP: IBERALIA TV
@@ -1495,6 +1347,162 @@ http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13666
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13669
 #EXTINF:-1,SP: MEGA
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/14118
+#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://www.claro.com.pa/portal/pa/gc/canales/1503414950862-Imagen.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",CLARO SPORTS
+http://187.200.246.16:8000/play/a0cm
+#EXTINF:-1 tvg-id="espndeportes.usa" tvg-logo="https://pbs.twimg.com/profile_images/1136331237218373632/NleiENDQ_400x400.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN DEPORTES 
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22999
+#EXTINF:-1 tvg-id="foxdeportes.usa" tvg-logo="https://www.foxdeportes.com/assets/images/logo-fox.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX DEPORTES 
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23011
+##EXTINF:-1 tvg-id="ESPNAmericaLatina.us" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL"",ESPN
+http://200.24.159.179:8500/play/a01e
+#EXTINF:-1 tvg-id="ESPN2Colombia.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 2 
+http://190.6.202.166:8000/play/a06h
+#EXTINF:-1 tvg-id="espn3.ar" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 3
+http://200.24.159.179:8500/play/a03b
+#EXTINF:-1 tvg-id="FoxSportsArgentina.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 4 
+http://200.24.159.179:8500/play/a021
+#EXTINF:-1 tvg-id="FoxSportsMexico.us" tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN MX
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41076
+#EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 2 MX
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41077
+#EXTINF:-1 tvg-id="ESPN3AmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 3 MX
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41075
+#EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN 4 MX
+http://190.6.202.166:8000/play/a05f
+#EXTINF:-1 tvg-id="ESPNExtraAmericaLatina.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ESPN EXTRA
+http://190.6.202.166:8000/play/a027
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 1 MX
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41064
+#EXTINF:-1 tvg-id="FoxSports2Mexico.us" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 2 MX
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41063
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 3 MX
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41062
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 2 CO
+http://190.6.202.166:8000/play/a061
+#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 2 CL
+http://181.198.67.2:8024/play/a0a1
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",FOX SPORTS 3
+http://190.6.202.166:8000/play/a06i
+#EXTINF:-1 tvg-id="M.LigaCampeones.sp" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",Movistar Deportes
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/25554
+#EXTINF:-1 tvg-id="vamos.sp" tvg-logo="https://i.ibb.co/nD0fDXD/images.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",#VAMOS
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21245
+#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",Movistar LA LIGA
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21300
+#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",LA LIGA BAR
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234560
+#EXTINF:-1 tvg-id="movistarlaliga.sp" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",MOVISTAR CHAMPIONS
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/235352
+#EXTINF:-1 tvg-id="SkySports1.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",SKY SPORT MX
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234531
+#EXTINF:-1 tvg-id="SkySports1.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sky_sports_1_mexico-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",SKY SPORT HD MX 
+http://swiptv.online:55577/headend/headend5757/2186
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",DIRECTV SPORT 1
+http://swiptv.online:55577/headend/headend5757/2243
+#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",DIRECTV SPORT 2
+http://swiptv.online:55577/headend/headend5757/2264
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",BEIN SPORT Ñ
+https://cdn-bein-es-hls-overon.nunchee.tv/master/710cc0ac471746b9b6691a0d8064db924580fecc/bein-es-hls-overon/index.m3u8?secure=1&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4tYmVpbi1lcy1obHMtb3Zlcm9uLm51bmNoZWUudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MjI3Mzg3MX19fV19&Key-Pair-Id=K3NCDY0BEWL60L&Signature=SANnGqN~IYgjFNeumpW9HboA-qWw-d07Zv-Z-Ay3DAkznEuT6RcEAPpSWWMBWhZoOwYoBtLR~58oamTk4UZTOySzmYEnDCX8k8BA7~7KKzg27yGZyyi2t-zEspHrxII7wlJVtDQ-0nomAp~4Qb0cvKwcMsu19TFOF2G2BtCxsZ1-NqHBZsZOZQa5jWrSb73qK~9NE2WfmwvC4sew0GwoblI5oQA9ZUYNxrIKbHtdc8gYk9fvNyhX54NzxK2SsnBXoTNBNekePPwY3n4nzi7QaJ5SOATGeVaFQD3eH5irsb9u0jNWxg0W5hfPGGWBVsg1Dl22pmjd9ql5hOmN1JuykQ__
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ECDL
+http://181.198.67.2:8024/play/a0b5
+#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",GOL TV
+http://181.198.67.2:8024/play/a0ay
+#EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TyC 
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/7395
+#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2019/07/tudn-logo.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TUDN
+http://190.61.102.67:3150/play/a08j
+#EXTINF:-1 tvg-id="ufc.mx" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",UFC
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23080
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TD+CR
+http://187.49.191.6:8080/play/a022
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",TD+CR 2
+http://187.49.191.6:8080/play/a023
+#EXTINF:-1 tvg-logo="https://images.mediotiempo.com/eClWmp49_BgOM8fGMHXO83T4Zf4=/958x596/uploads/media/2017/03/27/wwe-network-3.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",WWE NETWORK
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23077
+#EXTINF:-1 group-title="SPORT⚽⚾HD-SD",ESPN
+http://swiptv.online:55577/headend/headend5757/2214
+#EXTINF:-1,ESPN 2
+http://swiptv.online:55577/headend/headend5757/2259
+#EXTINF:-1,ESPN 3
+http://swiptv.online:55577/headend/headend5757/2256
+#EXTINF:-1,ESPN 4
+http://swiptv.online:55577/headend/headend5757/2215
+#EXTINF:-1,ESPN EXTRA
+http://swiptv.online:55577/headend/headend5757/2224
+#EXTINF:-1,FOX SPORTS 2
+http://swiptv.online:55577/headend/headend5757/2242
+#EXTINF:-1,FOX SPORTS 3
+http://swiptv.online:55577/headend/headend5757/2216
+#EXTINF:-1,FOX SPORT PREMIUN
+http://swiptv.online:55577/headend/headend5757/2181
+#EXTINF:-1,TNT SPORTS
+http://swiptv.online:55577/headend/headend5757/2217
+#EXTINF:-1,GOL TV
+http://swiptv.online:55577/headend/headend5757/2169
+#EXTINF:-1,CANAL DEL FUTBOL
+http://swiptv.online:55577/headend/headend5757/2172
+#EXTINF:-1,GOL PERU
+http://swiptv.online:55577/headend/headend5757/2238
+#EXTINF:-1,ESPN 1
+http://45.161.188.242:88/espn/mono.m3u8
+#EXTINF:-1,ESPN 2
+http://45.161.188.242:88/espn2/mono.m3u8
+#EXTINF:-1,ESPN 3
+http://45.161.188.242:88/espn3/mono.m3u8
+#EXTINF:-1,ESPN 3
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22998
+#EXTINF:-1,ESPN 4
+http://45.161.188.242:88/foxsports/mono.m3u8
+#EXTINF:-1,FOX SPORT 1
+http://45.161.188.242:88/foxsports1/mono.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://45.161.188.242:88/foxsports2/mono.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://45.161.188.242:88/foxsports3/mono.m3u8
+#EXTINF:-1,TNT SPORT 2
+http://45.161.188.242:88/tntsports2/video.m3u8
+#EXTINF:-1,TNT SPORT 3
+http://45.161.188.242:88/tntsports3/mono.m3u8
+#EXTINF:-1,TyC SPORT
+http://45.161.188.242:88/tycsports/mono.m3u8
+#EXTINF:-1,LA: FOX SPORTS 3 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41062
+#EXTINF:-1,LA: FOX SPORTS HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41064
+#EXTINF:-1,LA: ESPN 2 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41076
+#EXTINF:-1,LA: ESPN 3 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41073
+#EXTINF:-1,LA: ESPN 3 HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41075
+#EXTINF:-1,LA: ESPN HD (MX)
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41077
+#EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",CANAL+ SPORT HD
+http://91.226.51.126:8000/udp/239.100.10.183:2234
+#EXTINF:-1 tvg-logo="https://n-6-2.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66249.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",CANAL+ SPORT HD 2
+http://91.226.51.126:8000/udp/239.100.10.184:2234
+#EXTINF:-1 tvg-logo="https://n-6-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66251.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",nSport+
+http://95.141.128.163:8004/play/a0a7
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",BT Sport
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232305
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-2-uk.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",BT Sport 2
+http://158.69.117.205:9039/bt2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",BT Sport 3
+http://158.69.117.205:9039/bt3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/b66a77c99a11f16f450ef6e701a8897c/VSport_Football_Logo_Vert_RGB_pos.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",Viasat Football
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/25032
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/989y85n5kcxs/2CorhwFUrfPmqxLYksLwgI/1732c940d17c8b9f9c393f4e1c157ab1/VSport_Premium_Logo_Vert_RGB_pos.png" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",Viasat Sport Premium
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/25085
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413422447127375872/7ziPGGcI_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",Premier Sports
+http://158.69.117.205:9039/premiersports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/03/09/15837100490775.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",UFC
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/41009
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1451550295117414403/7MnvL1yq_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",MLB NETWORK
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23037
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437089046203879438/CskRkWRX_400x400.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",YES NETWORK MLB
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/115815
+#EXTINF:-1 tvg-logo="https://images.mediotiempo.com/eClWmp49_BgOM8fGMHXO83T4Zf4=/958x596/uploads/media/2017/03/27/wwe-network-3.jpg" tvg-language="Spanish"  group-title="⚽DEPORTE-INGLES⚽",WWE NETWORK 
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/40823
 #EXTINF:-1, group-title="⚽⚾🇲🇽DEPORTES MEXICO🇲🇽⚽⚾",•●★-- Deportes Mexico --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32332
 #EXTINF:-1,SP: MX: Espn 1
@@ -1640,6 +1648,31 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/115725
 #EXTINF:-1,SP: ARG: ESPN 2 HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/31814
 #EXTINF:-1, group-title="⚽⚾SPORTS SPAIN🇪🇸",•●★-- Deportes de España --★●•
+#EXTINF:-1,SP: M.LCAMPEON 1
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21288
+#EXTINF:-1,SP: M.LCAMPEON 4
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21289
+#EXTINF:-1,SP: EUROSPORT 2
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21275
+#EXTINF:-1,SP: BARCA TV HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21303
+#EXTINF:-1,SP: MOVISTAR GOLF
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/25552
+#EXTINF:-1,SP: MOVISTAR F1 FulHD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/25551
+#EXTINF:-1,SP: MULTIDEPORTE
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21298
+#EXTINF:-1,SP: DAZN 1
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21268
+#EXTINF:-1,SP: DAZN 3
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21274
+#EXTINF:-1,SP: DAZN 4
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21262
+#EXTINF:-1,SP: REAL MADRID TV
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21287
+#EXTINF:-1,SP: MOVISTAR LALIGA
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21273
+#EXTINF:-1,SP: ES:GOLF
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32964
 #EXTINF:-1,SP: ES: Dazn 2 SD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/107141
@@ -1683,84 +1716,10 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/163
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/120
 #EXTINF:-1,SP: ES: Multideportes
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/116097
-#EXTINF:-1,SP: ES: Footters 1 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234134
-#EXTINF:-1,SP: ES: Footters 2 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234135
-#EXTINF:-1,SP: ES: Footters 3 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234136
-#EXTINF:-1,SP: ES: Footters 4 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234137
-#EXTINF:-1,SP: ES: Footters 5 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234138
-#EXTINF:-1,SP: ES: Footters 6 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234139
-#EXTINF:-1,SP: ES: Footters 7 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234140
-#EXTINF:-1,SP: ES: Footters 8 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234141
-#EXTINF:-1,SP: ES: Footters 9 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234142
-#EXTINF:-1,SP: ES: Footters 10 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234143
-#EXTINF:-1,SP: ES: Footters 11 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234144
-#EXTINF:-1,SP: ES: Footters 12 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234145
-#EXTINF:-1,SP: ES: Footters 13 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234146
-#EXTINF:-1,SP: ES: Footters 14 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234147
-#EXTINF:-1,SP: ES: Footters 15 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234148
-#EXTINF:-1,SP: ES: Footters 16 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234149
-#EXTINF:-1,SP: ES: Footters 17 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234150
-#EXTINF:-1,SP: ES: Footters 18 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234151
-#EXTINF:-1,SP: ES: Footters 19 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234152
-#EXTINF:-1,SP: ES: Footters 20 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234153
-#EXTINF:-1,SP: ES: Footters 21 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234154
-#EXTINF:-1,SP: ES: Footters 22 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234155
-#EXTINF:-1,SP: ES: Footters 23 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234156
-#EXTINF:-1,SP: ES: Footters 24 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234157
-#EXTINF:-1,SP: ES: Footters 25 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234158
-#EXTINF:-1,SP: ES: Footters 26 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234159
-#EXTINF:-1,SP: ES: Footters 27 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234160
-#EXTINF:-1,SP: ES: Footters 28 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234161
-#EXTINF:-1,SP: ES: Footters 29 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234162
-#EXTINF:-1,SP: ES: Footters 30 (Solo Eventos)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234163
-#EXTINF:-1, group-title="⚽⚾SPORTS SPAIN🇪🇸",•●★-- Deportes de España OP2 --★●•
-http://200.24.159.179:8500/play/a01e
-#EXTINF:-1,SP: MOVISTAR GOLF
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/25552
-#EXTINF:-1,SP: MOVISTAR F1 FulHD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/25551
-#EXTINF:-1,SP: MULTIDEPORTE
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21298
-#EXTINF:-1,SP: DAZN 1
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21268
-#EXTINF:-1,SP: DAZN 3
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21274
-#EXTINF:-1,SP: DAZN 4
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21262
-#EXTINF:-1,SP: REAL MADRID TV
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21287
-#EXTINF:-1,SP: MOVISTAR LALIGA
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21273
+#EXTINF:-1,SP: TOROS HD
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13602
+#EXTINF:-1,SP: TOROS
+http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/15
 #EXTINF:-1,SP: M. LALIGA
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/13914
 #EXTINF:-1,SP: LA LIGA TV BAR
@@ -1833,6 +1792,66 @@ http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/109189
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/109228
 #EXTINF:-1,#VAMOS HD
 http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/109229
+#EXTINF:-1,SP: ES: Footters 1 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234134
+#EXTINF:-1,SP: ES: Footters 2 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234135
+#EXTINF:-1,SP: ES: Footters 3 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234136
+#EXTINF:-1,SP: ES: Footters 4 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234137
+#EXTINF:-1,SP: ES: Footters 5 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234138
+#EXTINF:-1,SP: ES: Footters 6 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234139
+#EXTINF:-1,SP: ES: Footters 7 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234140
+#EXTINF:-1,SP: ES: Footters 8 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234141
+#EXTINF:-1,SP: ES: Footters 9 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234142
+#EXTINF:-1,SP: ES: Footters 10 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234143
+#EXTINF:-1,SP: ES: Footters 11 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234144
+#EXTINF:-1,SP: ES: Footters 12 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234145
+#EXTINF:-1,SP: ES: Footters 13 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234146
+#EXTINF:-1,SP: ES: Footters 14 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234147
+#EXTINF:-1,SP: ES: Footters 15 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234148
+#EXTINF:-1,SP: ES: Footters 16 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234149
+#EXTINF:-1,SP: ES: Footters 17 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234150
+#EXTINF:-1,SP: ES: Footters 18 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234151
+#EXTINF:-1,SP: ES: Footters 19 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234152
+#EXTINF:-1,SP: ES: Footters 20 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234153
+#EXTINF:-1,SP: ES: Footters 21 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234154
+#EXTINF:-1,SP: ES: Footters 22 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234155
+#EXTINF:-1,SP: ES: Footters 23 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234156
+#EXTINF:-1,SP: ES: Footters 24 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234157
+#EXTINF:-1,SP: ES: Footters 25 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234158
+#EXTINF:-1,SP: ES: Footters 26 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234159
+#EXTINF:-1,SP: ES: Footters 27 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234160
+#EXTINF:-1,SP: ES: Footters 28 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234161
+#EXTINF:-1,SP: ES: Footters 29 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234162
+#EXTINF:-1,SP: ES: Footters 30 (Solo Eventos)
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/234163
 #EXTINF:-1, group-title="🇨🇱 ⚽DEPORTES CHILE⚽ 🇨🇱",•●★-- Deportes Chile --★●•
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/32340
 #EXTINF:-1,SP: CL: Espn HD
@@ -6415,9 +6434,46 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232907
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232908
 #EXTINF:-1,USA: NBC Cheyenne - Scottbluff
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232909
-#EXTINF:-1, group-title="⚽⚾🏈USA SPORTS",•●★-- USA Sports --★●•
-#EXTINF:-1,SP: USA: BEIN Sports N FHD (Opc 2)
+#EXTINF:-1, group-title="⚽⚾🏈USA SPORTS",•●★-- USA Sports --★●•,SP: USA: BEIN Sports N FHD (Opc 2)
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137269
+#EXTINF:-1,USA: AFN SPORTS
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22958
+#EXTINF:-1,USA: FOX SPORTS ARIZONA HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23008
+#EXTINF:-1,USA: FOX SPORTS DETROIT HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23012
+#EXTINF:-1,USA: FOX SPORTS NORTH HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23015
+#EXTINF:-1,USA: FOX SPORTS WISCONSIN  HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23019
+#EXTINF:-1,USA: ESPN
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22996
+#EXTINF:-1,USA: ESPN 2 HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22997
+#EXTINF:-1,USA: ESPN BASES LOADED
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23002
+#EXTINF:-1,USA: ESPN NEWS HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23001
+#EXTINF:-1,USA: ESPN U HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23000
+#EXTINF:-1,USA: NBA TV HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23043
+#EXTINF:-1,USA: NBC SPORTS CHICAGO PLUS
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23044
+#EXTINF:-1,USA: NBC SPORTS NETWORK HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23045
+#EXTINF:-1,USA: NFL NETWORK HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23071
+#EXTINF:-1,USA: NFL RED ZONE HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23073
+#EXTINF:-1,USA: NHL NETWORK HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23046
+#EXTINF:-1,USA: WWE NETWORK HD NXT
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23079
+#EXTINF:-1,USA: GOLF HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23023
+#EXTINF:-1,USA: TENNIS HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23062
 #EXTINF:-1,SP: USA: BEIN Sports en Español HD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/158181
 #EXTINF:-1,SP: USA: BEIN Sports Xtra Ñ HD
@@ -6645,50 +6701,6 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/228100
 #EXTINF:-1,SP: USA: WWE Network FHD
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/86064
 #EXTINF:-1, group-title="⚽⚾🏀🏈🎾DEPORTES DIFERENTES PAISES",•●★-- Sports --★●•
-#EXTINF:-1,USA: AFN SPORTS
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22958
-#EXTINF:-1,USA: FOX SPORTS ARIZONA HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23008
-#EXTINF:-1,USA: FOX SPORTS DEPORTES HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23011
-#EXTINF:-1,USA: FOX SPORTS DETROIT HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23012
-#EXTINF:-1,USA: FOX SPORTS NORTH HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23015
-#EXTINF:-1,USA: FOX SPORTS WISCONSIN  HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23019
-#EXTINF:-1,USA: ESPN
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22996
-#EXTINF:-1,USA: ESPN 2 HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22997
-#EXTINF:-1,USA: ESPN BASES LOADED
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23002
-#EXTINF:-1,USA: ESPN COLLAGE EXTRA
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22998
-#EXTINF:-1,USA: ESPN DEPORTES HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22999
-#EXTINF:-1,USA: ESPN NEWS HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23001
-#EXTINF:-1,USA: ESPN U HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23000
-#EXTINF:-1,USA: NBA TV HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23043
-#EXTINF:-1,USA: NBC SPORTS CHICAGO PLUS
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23044
-#EXTINF:-1,USA: NBC SPORTS NETWORK HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23045
-#EXTINF:-1,USA: NFL NETWORK HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23071
-#EXTINF:-1,USA: NFL RED ZONE HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23073
-#EXTINF:-1,USA: NHL NETWORK HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23046
-#EXTINF:-1,USA: WWE NETWORK HD NXT
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23079
-#EXTINF:-1,USA: GOLF HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23023
-#EXTINF:-1,USA: TENNIS HD
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23062
 #EXTINF:-1,FR: EQUIPE TV
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22101
 #EXTINF:-1,FR: EUROSPORT 2 HD
