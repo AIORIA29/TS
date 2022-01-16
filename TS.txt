@@ -105,11 +105,11 @@ http://ky-iptv.com:80/danilo/12345/514598.ts
 http://ky-iptv.com:80/danilo/12345/514600.ts
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hotel-transylvania-transformania-2-1642253284.jpg" group-title="🎞️ VOD ESTRENO 🎞️",Hotel Transilvania 4
 https://www643.ff-02.com/token=FeCkBcRodAUC4ubcSkQ7kw/1642363443/200.46.0.0/187/1/0d/03e48aeb96c48c03540d08ede40a10d1-1080p.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/eternals-388789083-mmed.jpg" group-title="🎞️ VOD ESTRENO 🎞️",ETERNALS
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/eternals-2-1636161490.jpg" group-title="🎞️ VOD ESTRENO 🎞️",ETERNALS
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Eternals%20HD%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-matrix-resurrections-2-1639975326.jpg" group-title="🎞️ VOD ESTRENO 🎞️"THE MATRIX Resurrections 
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-matrix-resurrections-2-1639975326.jpg" group-title="🎞️ VOD ESTRENO 🎞️",THE MATRIX Resurrections 
 https://www1488.ff-03.com/token=IQtz0Zsc_wntKC_ruuwxsA/1642362956/200.46.0.0/190/9/e0/d796e87fe2d286d8b2965c17290fce09-720p.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/halloween-kills-2-1634349123.jpg" group-title="🎞️ VOD ESTRENO 🎞️"Halloween Kills
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/halloween-kills-2-1634349123.jpg" group-title="🎞️ VOD ESTRENO 🎞️",Halloween Kills
 https://www1413.ff-03.com/token=hsllfoLKzUo8QIoe-FiCKQ/1642363329/200.46.0.0/185/8/fa/62eae4342b6b85eda60617381333ffa8-720p.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="🎞️ VOD PELICULAS 🎞️",A quemaropa
 http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
