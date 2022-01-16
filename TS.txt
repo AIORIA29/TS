@@ -1402,7 +1402,7 @@ http://swiptv.online:55577/headend/headend5757/2243
 #EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",DIRECTV SPORT 2
 http://swiptv.online:55577/headend/headend5757/2264
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",BEIN SPORT Ñ
-https://cdn-bein-es-hls-overon.nunchee.tv/master/710cc0ac471746b9b6691a0d8064db924580fecc/bein-es-hls-overon/index.m3u8?secure=1&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4tYmVpbi1lcy1obHMtb3Zlcm9uLm51bmNoZWUudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MjI3Mzg3MX19fV19&Key-Pair-Id=K3NCDY0BEWL60L&Signature=SANnGqN~IYgjFNeumpW9HboA-qWw-d07Zv-Z-Ay3DAkznEuT6RcEAPpSWWMBWhZoOwYoBtLR~58oamTk4UZTOySzmYEnDCX8k8BA7~7KKzg27yGZyyi2t-zEspHrxII7wlJVtDQ-0nomAp~4Qb0cvKwcMsu19TFOF2G2BtCxsZ1-NqHBZsZOZQa5jWrSb73qK~9NE2WfmwvC4sew0GwoblI5oQA9ZUYNxrIKbHtdc8gYk9fvNyhX54NzxK2SsnBXoTNBNekePPwY3n4nzi7QaJ5SOATGeVaFQD3eH5irsb9u0jNWxg0W5hfPGGWBVsg1Dl22pmjd9ql5hOmN1JuykQ__
+http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137269Jlc291cmNlIjoiaHR0cHM6Ly9jZG4tYmVpbi1lcy1obHMtb3Zlcm9uLm51bmNoZWUudHYvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MjI3Mzg3MX19fV19&Key-Pair-Id=K3NCDY0BEWL60L&Signature=SANnGqN~IYgjFNeumpW9HboA-qWw-d07Zv-Z-Ay3DAkznEuT6RcEAPpSWWMBWhZoOwYoBtLR~58oamTk4UZTOySzmYEnDCX8k8BA7~7KKzg27yGZyyi2t-zEspHrxII7wlJVtDQ-0nomAp~4Qb0cvKwcMsu19TFOF2G2BtCxsZ1-NqHBZsZOZQa5jWrSb73qK~9NE2WfmwvC4sew0GwoblI5oQA9ZUYNxrIKbHtdc8gYk9fvNyhX54NzxK2SsnBXoTNBNekePPwY3n4nzi7QaJ5SOATGeVaFQD3eH5irsb9u0jNWxg0W5hfPGGWBVsg1Dl22pmjd9ql5hOmN1JuykQ__
 #EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",ECDL
 http://181.198.67.2:8024/play/a0b5
 #EXTINF:-1 tvg-id="TyC.ar" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png" tvg-language="Spanish"  group-title="⚽⚾🏀🏈DEPORTE-ESPAÑOL",GOL TV
@@ -6434,9 +6434,7 @@ http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232907
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232908
 #EXTINF:-1,USA: NBC Cheyenne - Scottbluff
 http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/232909
-#EXTINF:-1, group-title="⚽⚾🏈USA SPORTS",•●★-- USA Sports --★●•,SP: USA: BEIN Sports N FHD (Opc 2)
-http://tevegp.xyz:8080/Djcal49/TGF47d8HeY/137269
-#EXTINF:-1,USA: AFN SPORTS
+#EXTINF:-1, group-title="⚽⚾🏈USA SPORTS",•●★-- USA Sports --★●•,USA: AFN SPORTS
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22958
 #EXTINF:-1,USA: FOX SPORTS ARIZONA HD
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23008
