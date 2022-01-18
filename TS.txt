@@ -103,8 +103,8 @@ http://ky-iptv.com:80/danilo/12345/514596.ts
 http://ky-iptv.com:80/danilo/12345/514598.ts
 #EXTINF:-1,PA: Telemetro OP2
 http://ky-iptv.com:80/danilo/12345/514600.ts
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/hotel-transylvania-transformania-2-1642253284.jpg" group-title="VOD ESTRENO",Hotel Transilvania 4 SUB
-https://www643.ff-02.com/token=FeCkBcRodAUC4ubcSkQ7kw/1642363443/200.46.0.0/187/1/0d/03e48aeb96c48c03540d08ede40a10d1-1080p.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/venom-let-there-be-carnage-2-1633400762.jpg" group-title="VOD ESTRENO",VENOM 2 Habrá Matanza
+https://dl.dropboxusercontent.com/s/qc4s09cqqyx2rpj/V3n0m.I3t.Th3r3.B3.C4rn4g3.%28Lat-HD-1080p%29.i.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/eternals-2-1636161490.jpg" group-title="VOD ESTRENO",ETERNALS LAT
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Eternals%20HD%20Lat.mp4
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-matrix-resurrections-2-1639975326.jpg" group-title="VOD ESTRENO",THE MATRIX Resurrections CAST
