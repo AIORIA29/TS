@@ -103,14 +103,46 @@ http://ky-iptv.com:80/danilo/12345/514596.ts
 http://ky-iptv.com:80/danilo/12345/514598.ts
 #EXTINF:-1,PA: Telemetro OP2
 http://ky-iptv.com:80/danilo/12345/514600.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP01
+https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!106&authkey=!AP8cuzF8giTJapA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP02
+https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!107&authkey=!AEImVWOQtmCrO6E
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP03
+https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!108&authkey=!ADqcJhfC1qNGw74
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP04
+https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!109&authkey=!AE7RoEmz1M2AkcI
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP05
+https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!110&authkey=!AIkgSV5OLVqrq-E
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP06
+https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!114&authkey=!ANwfVG3M6TCPM1o
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP01
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP02
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP03
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP04
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP05
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP06
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP07
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP08
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP09
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/venom-let-there-be-carnage-2-1633400762.jpg" group-title="VOD ESTRENO",VENOM 2 Habrá Matanza
 https://dl.dropboxusercontent.com/s/qc4s09cqqyx2rpj/V3n0m.I3t.Th3r3.B3.C4rn4g3.%28Lat-HD-1080p%29.i.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/eternals-2-1636161490.jpg" group-title="VOD ESTRENO",ETERNALS LAT
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/eternals-2-1636161490.jpg" group-title="VOD ESTRENO",ETERNALS
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Eternals%20HD%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-matrix-resurrections-2-1639975326.jpg" group-title="VOD ESTRENO",THE MATRIX Resurrections CAST
-https://www1488.ff-03.com/token=IQtz0Zsc_wntKC_ruuwxsA/1642362956/200.46.0.0/190/9/e0/d796e87fe2d286d8b2965c17290fce09-720p.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/halloween-kills-2-1634349123.jpg" group-title="VOD ESTRENO",Halloween Kills CAST
-https://www1413.ff-03.com/token=hsllfoLKzUo8QIoe-FiCKQ/1642363329/200.46.0.0/185/8/fa/62eae4342b6b85eda60617381333ffa8-720p.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/escape-room-tournament-of-champions-2-1626450842.jpg" group-title="VOD ESTRENO",ESCAPE ROOM 2
+http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Escape%20Room%202%20Reto%20Mortal%20lat.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/halloween-kills-2-1634349123.jpg" group-title="VOD ESTRENO",Halloween Kills 
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216966.mkv
+#EXTINF:-1 tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2021/05/rapidos-y-furiosos-9.jpg" group-title="VOD ESTRENO",RAPIDOS Y FURIOSOS 9
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/213205.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="VOD PELICULAS",A quemaropa
 http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
 #EXTINF:-1,acción policial
