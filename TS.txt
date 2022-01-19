@@ -159,7 +159,7 @@ https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFF
 https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!114&authkey=!ANwfVG3M6TCPM1o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPjPpGS/H0T3L.jpg" group-title="VOD ESTRENO",HOTEL TRASYLVANIA 4
 https://stream-3891-64-63.pvdcdn.co/lmohozenhuikkfn2mbw7qjq2hfwvltcibx5pyoztggxli7gdtwxnogtfy4/v.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/venom-let-there-be-carnage-2-1633400762.jpg" group-title="VOD ESTRENO",VENOM 2 Habrá Matanza
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6LjkPw/o96m0-N30-400x400.jpg" group-title="VOD ESTRENO",VENOM 2 Habrá Matanza
 https://dl.dropboxusercontent.com/s/qc4s09cqqyx2rpj/V3n0m.I3t.Th3r3.B3.C4rn4g3.%28Lat-HD-1080p%29.i.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460653965645733896/8CnCCFu4_400x400.jpg" group-title="VOD ESTRENO",SHANG-CHI
 https://stream-4191-31-165.pvdcdn.co/kqohojbzhqikkfn2mb2pqnyxf3zdqjn3iypjxwflp62u4teakz46tqz2nu/v.mp4
