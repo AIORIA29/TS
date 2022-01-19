@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv.programadorx.cl/epg/gratis/abril/guide.xml,http://smarturl.it/xmltv.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz"
-#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.ibb.co/J3ppj8N/imageonline-co-transparentimage.png" tvg-name="TVN HD"  group-title="LOCALES",TVN
+#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.ibb.co/J3ppj8N/imageonline-co-transparentimage.png" tvg-name="TVN HD"  group-title="LOCALES",TVN HD
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVNpass.pa" tvg-logo="https://i.ibb.co/3yKMkX8/unnamed-1.jpg," tvg-name="TVM HD 2"  group-title="LOCALES",TVN PASS
 https://ott.streann.com/loadbalancer/services/v1/channels-secure/606254c0e4b03e1f0616b2bd/playlist.m3u8?access_token=c2265caa-e547-40dd-9288-49537f13860a&device-id=0fsKGc34jkhXdYEW69KIlxtxAJOGrLuaFLZya2oShFDe0PVPwn&device-type=web&device-name=web&network-type=wifi&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20oriental),hora%20est%C3%A1ndar%20oriental&undefined
@@ -103,6 +103,36 @@ http://ky-iptv.com:80/danilo/12345/514596.ts
 http://ky-iptv.com:80/danilo/12345/514598.ts
 #EXTINF:-1,PA: Telemetro OP2
 http://ky-iptv.com:80/danilo/12345/514600.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP01
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP02
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP03
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP04
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP05
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP06
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP07
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP08
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP09
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195946212532224/hECxppqT_400x400.jpg" group-title="LOKI",EP01
+https://s13.zplayer.live/hls/,5fxcv72owgnufvsa6lyu7aemuqoa5phspc5flyifloyr76otpczk5ho5zswq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195946212532224/hECxppqT_400x400.jpg" group-title="LOKI",EP02
+https://s13.zplayer.live/hls/5fxcv7sowgnufvsa6lze7r65xtilb5xilv3ithzm6,rt2h32dsdv226cltxra,yv2j32dsdv6lzs32i5a,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195946212532224/hECxppqT_400x400.jpg" group-title="LOKI",EP03
+https://s3.zplayer.live/hls/5fxctfcuwgnufvsa6lzu7bmj5jv2bkvtyphzzvc5m,gcwi2wjopbh5od5hvbq,pewg2wjopbjnt5wnbbq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195946212532224/hECxppqT_400x400.jpg" group-title="LOKI",EP04
+https://leo3.zplayer.live/hls/5fxcskbgwgnufvsa6l2e7boauc66yikydnbxvcuj4,xi4wixzjjym5nycdlpa,6o4yixzjjyax2nqdxxa,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195946212532224/hECxppqT_400x400.jpg" group-title="LOKI",EP05
+https://s3.zplayer.live/hls/5fxct4qlwgnufvsa6l2u7twp4sb65epu6u25fkobx,6n3pqbg4qxezxigp6xq,xl3bqbg4qxexwd3iifq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195946212532224/hECxppqT_400x400.jpg" group-title="LOKI",EP06
+https://s3.zplayer.live/hls/5fxctsy7wgnufvsa6l3e7b6au6vh6uulzrtqrode4,5okgnttn6ldxaernnaq,uikinttn6ldtwqiwxna,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP01
 https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!106&authkey=!AP8cuzF8giTJapA
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP02
@@ -115,24 +145,6 @@ https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFF
 https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!110&authkey=!AIkgSV5OLVqrq-E
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437402345885687818/z6ExvVio_400x400.jpg" group-title="HAWKEYE",EP06
 https://onedrive.live.com/download.aspx?cid=C7C35A7AA8AFFEF4&resid=C7C35A7AA8AFFEF4!114&authkey=!ANwfVG3M6TCPM1o
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP01
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP02
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP03
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP04
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP05
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP06
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP07
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_07.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP08
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_08.mkv
-#EXTINF:-1 tvg-logo="https://i.blogs.es/32b385/scale/1366_2000.jpg" group-title="WANDA VISION",EP09
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/venom-let-there-be-carnage-2-1633400762.jpg" group-title="VOD ESTRENO",VENOM 2 Habrá Matanza
 https://dl.dropboxusercontent.com/s/qc4s09cqqyx2rpj/V3n0m.I3t.Th3r3.B3.C4rn4g3.%28Lat-HD-1080p%29.i.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/eternals-2-1636161490.jpg" group-title="VOD ESTRENO",ETERNALS
@@ -143,6 +155,24 @@ http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Esca
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216966.mkv
 #EXTINF:-1 tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2021/05/rapidos-y-furiosos-9.jpg" group-title="VOD ESTRENO",RAPIDOS Y FURIOSOS 9
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/213205.mkv
+#EXTINF:-1 tvg-logo="https://media.vandalsports.com/i/400x400/9-2021/2021927133748_1.jpg" group-title="VOD ESTRENO",ALERTA ROJA
+https://s8.zplayer.live/hls/,5fxcuayhwonufvsa6lpu7u6sur4xdpghlxu5cviaa5oj3lsc2dxtq3lz5zea,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1413299524127260679/t7e2clfo_400x400.jpg" group-title="VOD ESTRENO",ENCATO
+https://s3.zplayer.live/hls/,5fxc43jkxsnufvsa6lfe7qwsujgkedldh5lpa45pz6wulgvwfza2a4joi53q,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",CHUCKY EL MUÑECO DIABOLICO (1988)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",EL HIJO DE CHUCKY
+https://storage.googleapis.com/extreme-tribute-224717.appspot.com/ReX/c5.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",LA MALDICIÓN DE CHUCKY (2013)
+http://ytv.plus:25461/movie/mercedes/1234/13916.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",EL CULTO DE CHUCKY (2017)
+http://ytv.plus:25461/movie/mercedes/1234/13917.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="VOD PELICULAS",A quemaropa
 http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
 #EXTINF:-1,acción policial
