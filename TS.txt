@@ -121,6 +121,18 @@ http://vods.tuxchannel.tv/series/wandavision/s_01_e_07.mkv
 http://vods.tuxchannel.tv/series/wandavision/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1307847791012491264/IOJoqJYd_400x400.jpg" group-title="WANDA VISION",EP09
 http://vods.tuxchannel.tv/series/wandavision/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195703634944000/iZ0HXf5Q_400x400.jpg" group-title="FALCON y ESDI",EP01
+https://s3.zplayer.live/hls/5fxctcmdwcnufvsa6khe7bg6vb7yev4injgkvqmsg,xoaddcfqjhvo62xnuyq,6iandcfqjhqn2ct3k3a,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195703634944000/iZ0HXf5Q_400x400.jpg" group-title="FALCON y ESDI",EP02
+https://s3.zplayer.live/hls/5fxctcedwcnufvsa6khu7twiuruui2myi7wsdh4mz,lnsuxfitmygqmyw6cba,cls2xfitmyc44pqbptq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195703634944000/iZ0HXf5Q_400x400.jpg" group-title="FALCON y ESDI",EP03
+https://s3.zplayer.live/hls/5fxctdmdwcnufvsa6kae7vg7vov4uflfbmqfcnm3m,xk5r5uv52qbrxxg7knq,6m575uv52qc72vu5avq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195703634944000/iZ0HXf5Q_400x400.jpg" group-title="FALCON y ESDI",EP04
+https://s3.zplayer.live/hls/5fxcta4dwcnufvsa6kae7ago4dnvjzoolv4gkglfa,t7x5r62g4lz652f2fka,2zxtr62g4lqlexfyk6q,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195703634944000/iZ0HXf5Q_400x400.jpg" group-title="FALCON y ESDI",EP05
+https://s12.zplayer.live/hls/,5fxc7fdzwcnufvsa6kau7b6d4wchngnxwfbtzgm6z3q2clgllwwmijkbjkga,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195703634944000/iZ0HXf5Q_400x400.jpg" group-title="FALCON y ESDI",EP06
+https://s3.zplayer.live/hls/5fxcrk3zwcnufvsa6kbu7tunx3dpl755xbrihnrdl,pcui4hmax6a7gq3ccaq,geug4hmax6e7msjr4ia,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195946212532224/hECxppqT_400x400.jpg" group-title="LOKI",EP01
 https://s13.zplayer.live/hls/,5fxcv72owgnufvsa6lyu7aemuqoa5phspc5flyifloyr76otpczk5ho5zswq,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1337195946212532224/hECxppqT_400x400.jpg" group-title="LOKI",EP02
@@ -167,12 +179,28 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",LA NOVIA DE CHUCKY (1998)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",EL HIJO DE CHUCKY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",EL HIJO DE CHUCKY (2004)
 https://storage.googleapis.com/extreme-tribute-224717.appspot.com/ReX/c5.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",LA MALDICIÓN DE CHUCKY (2013)
 http://ytv.plus:25461/movie/mercedes/1234/13916.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LFh69c/8363890277-2b8ab89d69-w.jpg" group-title="CHUCKY",EL CULTO DE CHUCKY (2017)
 http://ytv.plus:25461/movie/mercedes/1234/13917.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5P1wy1/chuck1.jpg" group-title="CHUCKY SERIE",EP01
+https://stream-4891-212-105.pvdcdn.co/juohpnxjhqikkfn2mby7qlime36cmtooutkogga2a7kjwycg2dcqmwon7a/v.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5P1wy1/chuck1.jpg" group-title="CHUCKY SERIE",EP02
+https://stream-4291-31-166.pvdcdn.co/k4ohowrbhqikkfn2mb2pqnylmkvslxlh2soprhgtje4jd2qi5cxqzmvapa/v.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5P1wy1/chuck1.jpg" group-title="CHUCKY SERIE",EP03
+https://stream-4591-212-98.pvdcdn.co/kaohpvufhuikkfn2mb37qi2ihwve4a6heecefrmu7zg6ca3geis3uee4ca/v.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5P1wy1/chuck1.jpg" group-title="CHUCKY SERIE",EP04
+https://stream-3691-48-220.pvdcdn.co/leohomjjhqikkfn2mb27qy2medyyv6ggciexahq7umu5u6zmpt4t5d33eq/v.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5P1wy1/chuck1.jpg" group-title="CHUCKY SERIE",EP05
+https://stream-4491-212-99.pvdcdn.co/keohopqchqikkfn2mbvpqpslnwybfcl3ixvnrp7np5ngzbjfwdjgqfsg3e/v.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5P1wy1/chuck1.jpg" group-title="CHUCKY SERIE",EP06
+https://stream-3791-48-223.pvdcdn.co/laohpn3whqikkfn2mbv7qli6guujy7mrkwb7szw4ivldkqhtuezxailj6i/v.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5P1wy1/chuck1.jpg" group-title="CHUCKY SERIE",EP07
+https://stream-3991-48-215.pvdcdn.co/liohpxljhqikkfn2mbupqzqznqysomrrl6r5hzomh2hy53mne662idabpe/v.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5P1wy1/chuck1.jpg" group-title="CHUCKY SERIE",EP08
+https://stream-4291-31-166.pvdcdn.co/k4ohpyefhuikkfn2mbu7qiqte6bd7idatwdzeqvxktd6kgwlmsvurinnzi/v.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/point_blank-299149662-mmed.jpg" group-title="VOD PELICULAS",A quemaropa
 http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
 #EXTINF:-1,acción policial
@@ -1017,7 +1045,7 @@ http://45.161.188.242:88/cnnchile/mono.m3u8
 http://45.161.188.242:88/lared/mono.m3u8
 #EXTINF:-1,mega
 http://45.161.188.242:88/mega/mono.m3u8
-#EXTINF:-1,tvn
+#EXTINF:-1,tvn cl
 http://45.161.188.242:88/tvn/mono.m3u8
 #EXTINF:-1,viax
 http://45.161.188.242:88/viax/mono.m3u8
