@@ -1,39 +1,37 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://i.mjh.nz/PlutoTV/us.xml.gz"
-#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.ibb.co/J3ppj8N/imageonline-co-transparentimage.png" tvg-name="TVN HD"  group-title="LOCALES",TVN HD
+#EXTM3U url-tvg="https://iptv.programadorx.cl/epg/gratis/abril/guide.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://i.mjh.nz/PlutoTV/us.xml.gz"
+#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.ibb.co/J3ppj8N/imageonline-co-transparentimage.png" tvg-name="TVN HD"  group-title="🇵🇦 LOCALES 🇵🇦",TVN HD
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.ibb.co/3yKMkX8/unnamed-1.jpg," tvg-name="TVM HD 2"  group-title="🇵🇦 LOCALES 🇵🇦",TVN HD 2
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
-#EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" tvg-name="TV MAX HD"  group-title="🇵🇦 LOCALES 🇵🇦",TV MAX
+#EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png",TVMAX HD
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="RPCTV.pa" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" tvg-name="RPC"  group-title="🇵🇦 LOCALES 🇵🇦",RPC 
+#EXTINF:-1 tvg-id="RPCTV.pa" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png",RPC 
 http://187.49.191.6:8080/play/a02y
-#EXTINF:-1 tvg-id="RPCTV.pa" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" tvg-name="RPC HD"  group-title="🇵🇦 LOCALES 🇵🇦",RPC HD
+#EXTINF:-1 tvg-id="RPCTV.pa" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png",RPC HD
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-#EXTINF:-1 tvg-id="Telemetro.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png" tvg-name="TELEMETRO HD"  group-title="🇵🇦 LOCALES 🇵🇦",TELEMETRO HD
+#EXTINF:-1 tvg-id="Telemetro.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/300px-Logo-telemetro.svg.png",TELEMETRO HD
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
-#EXTINF:-1 tvg-id="oyetv.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/OYE_TV.jpg" tvg-name="OYE TV"  group-title="🇵🇦 LOCALES 🇵🇦",OYE TV
+#EXTINF:-1 tvg-id="oyetv.pa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/OYE_TV.jpg",OYE TV
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-#EXTINF:-1 tvg-id=""-1 tvg-logo="https://www.ecotvpanama.com/css-custom/323/images/logo-323.png" tvg-name="ECO TV"  group-title="🇵🇦 LOCALES 🇵🇦",ECO TV
+#EXTINF:-1 tvg-id=""-1 tvg-logo="https://www.ecotvpanama.com/css-custom/323/images/logo-323.png",ECO TV
 https://mdstrm.com/live-stream-playlist/5d88f4aaed6f0a7b674107b5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/1280px-Cable_Onda_Sports_logo.svg.png" tvg-name="COS HD"  group-title="🇵🇦 LOCALES 🇵🇦",COS 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/1280px-Cable_Onda_Sports_logo.svg.png",COS 
 https://mdstrm.com/live-stream-playlist/5d88e7b00392f5073319dd89.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Bj26SpJ/imageonline-co-transparentimage-1.png" tvg-name="COS FC"  group-title="🇵🇦 LOCALES 🇵🇦",COS FC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Bj26SpJ/imageonline-co-transparentimage-1.png",COS FC
 https://mdstrm.com/live-stream-playlist/5e3f7b4163e0c26f9e4804ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-logo-sticky@2x.png" tvg-name="SER TV"  group-title="🇵🇦 LOCALES 🇵🇦",SER TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-logo-sticky@2x.png",SER TV
 http://187.49.191.6:8080/play/a01p
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png" tvg-name="NEX HD"  group-title="🇵🇦 LOCALES 🇵🇦",NEX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png",NEX HD
 https://mediacp.us:8081/nex21/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png" tvg-name="NEX"  group-title="🇵🇦 LOCALES 🇵🇦",NEX TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png",NEX TV
 http://187.49.191.6:8080/play/a02p
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png" tvg-name="+23"  group-title="🇵🇦 LOCALES 🇵🇦",+23
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/M%C3%A1s_23.png/132px-M%C3%A1s_23.png",+23
 https://mediacp.us:8081/23tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/210de2_6ad3fe5cb85b433d87d9dcf8b83847f4~mv2.png" tvg-name="BTV"  group-title="🇵🇦 LOCALES 🇵🇦",BTV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/210de2_6ad3fe5cb85b433d87d9dcf8b83847f4~mv2.png",BTV
 https://cloud.streamingconnect.tv:455/btv/btv.m3u8
-#EXTINF:-1 tvg-logo="https://hosannavision.com/sites/default/files/logo-hosanna-vision_0_8.png" tvg-name="HOSANA VISION"  group-title="🇵🇦 LOCALES 🇵🇦",HOSANA VISION
+#EXTINF:-1 tvg-logo="https://hosannavision.com/sites/default/files/logo-hosanna-vision_0_8.png",HOSANA VISION
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg" tvg-name="MEDCOM GO"  group-title="🇵🇦 LOCALES 🇵🇦",MEDCOM GO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg",MEDCOM GO
 https://mdstrm.com/live-stream-playlist/5e60f5588a57af075650c315.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg" tvg-name="MEDCOM GO 2"  group-title="🇵🇦 LOCALES 🇵🇦",MEDCOM GO 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg",MEDCOM GO 2
 https://mdstrm.com/live-stream-playlist/5ddc34626e84010896e952f2.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1356621732564631552/mlBHOoKp_400x400.jpg", group-title="RADIOS",TELEMETRO RADIO
 https://mdstrm.com/audio/5eed1f402a71ff071938abc2/live.m3u8
@@ -73,6 +71,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="CLOUD SERVER LATAM.us" tvg-logo="https://pbs.twimg.com/profile_images/1267911667733708800/0mp3ZjRJ_400x400.jpg" tvg-language="Spanish"  group-title="TS-TV",LOS S1MPS0M 24/7 LATAM TV
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" tvg-language="Spanish"  group-title="TS-TV",MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="TS-TV",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/teletica_7_1.png" tvg-name="TELE TICA C7"  group-title="TS-TV",TELE TICA C7
@@ -87,17 +87,895 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Canal-51.png" tvg-name="CANAL 51"  group-title="TS-TV",CANAL 51
 https://cn51.live/hls/streamcn51.m3u8
-#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://1.bp.blogspot.com/-CRPsvgCjfwI/XaYpYWIoHKI/AAAAAAABMrc/xRo2zq2aRMkHLBy6xjYaK7J4XLaumobzwCNcBGAsYHQ/s280/Nick_Latino_Channel_1080x1080_Square_Nickelodeon_Pluto_TV_Frame_Logo_2.png" tvg-name="NICK"  group-title="🛰️📺PLUTO TV📺🛰️",NICK
+#EXTINF:-1 tvg-id="AELatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg" tvg-language="Spanish"  group-title="TS_TV",A&E 
+http://190.6.202.166:8000/play/a0cg
+#EXTINF:-1 tvg-id="AXNLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" tvg-language="Spanish",AXN
+http://190.6.202.166:8000/play/a05g
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" tvg-language="Spanish",AZ CORAZON
+http://187.49.191.6:8080/play/a02a
+#EXTINF:-1 tvg-id="AnimalPlanetLatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1093873117884235776/a3V9JWjh_400x400.jpg" tvg-language="Spanish",ANIMAL PLANET
+http://190.6.202.166:8000/play/a0ew
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1461100491870556162/MONb14F1_400x400.jpg" tvg-language="Spanish",AMC
+http://190.6.202.166:8000/play/a0ch
+#EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://pbs.twimg.com/profile_images/589795319216504832/6a71ZHkx_400x400.jpg" tvg-language="Spanish",CNN EN ESPAÑOL
+http://200.126.115.156:8000/play/a0jx
+#EXTINF:-1 tvg-id="LasEstrellasMexico.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-canales-las-estrellas.jpg" tvg-language="Spanish",CANAL ESTRELLAS
+http://200.126.115.156:8000/play/a0ie
+#EXTINF:-1 tvg-id="CanalClaro.cl" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/CLAROCINEMA/EXPORTACION_WEB/SS/CLAROCINEMAWHORIZONTAL.jpg" tvg-language="Spanish",CANAL CLARO
+http://200.24.159.179:8500/play/a03l
+#EXTINF:-1 tvg-id="CanalCinema.mx" tvg-logo="https://www.claro.com.pa/portal/pa/gc/canales/1502984126096-Imagen.png" tvg-language="Spanish",CLARO CINEMAS
+http://201.190.38.82:8000/play/a05t
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/13de30e5-a209-4dfe-a755-b161b7046ba1_m.jpg" tvg-language="Spanish",CARTOON NETWORK
+http://200.126.115.156:8000/play/a0iw
+#EXTINF:-1 tvg-id="CinecanalOeste.us" tvg-logo="https://cdn.mitvstatic.com/channels/74863809-e135-43ee-be65-d7faa6e04f99_m.jpg" tvg-language="Spanish",CINECANAL
+http://190.6.202.166:8000/play/a09w
+#EXTINF:-1 tvg-id="CinemaxLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" tvg-language="Spanish",CINEMAX
+http://200.126.115.156:8000/play/a0jc
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" tvg-language="Spanish",CINE LATINO
+http://190.6.202.166:8000/play/a052
+#EXTINF:-1 tvg-id="ComedyCentralLatinoamericaNorte.us" tvg-logo="https://cdn.mitvstatic.com/channels/ar_comedy-central_m.png" tvg-language="Spanish",COMEDY CENTRAL
+http://190.6.202.166:8000/play/a066
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/26431e28-bd69-4174-9abc-d509ddb267e8_m.jpg" tvg-language="Spanish",DISCOVERY CHANNEL
+http://190.6.202.166:8000/play/a06m
+#EXTINF:-1 tvg-id="dcivilization.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/490px-Discovery_Civilization_logo.svg.png" tvg-language="Spanish",DISCOVERY CIVILIZATION
+http://190.6.202.166:8000/play/a00c
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" tvg-language="Spanish",DISCOVERY H&H
+http://190.6.202.166:8000/play/a064
+#EXTINF:-1 tvg-id="DiscoveryKidsAmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-kids_m.png" tvg-language="Spanish",DISCOVERY KIDS
+http://190.6.202.166:8000/play/a06n
+#EXTINF:-1 tvg-id="dcivilization.cl" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" tvg-language="Spanish",DISCOVERY SCIENCE
+http://190.6.202.166:8000/play/a00d
+#EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" tvg-language="Spanish",DISCOVERY THEATHER
+http://190.6.202.166:8000/play/a063
+#EXTINF:-1 tvg-id="DiscoveryTurboAmericaLatina.us" tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" tvg-language="Spanish",DISCOVERY TURBO
+http://190.6.202.166:8000/play/a04s
+#EXTINF:-1 tvg-id="InvestigationDiscoverySur.us" tvg-logo="https://cdn.mitvstatic.com/channels/0e549ff9-5a67-4d1c-82f5-884ed19d2a44_m.jpg" tvg-language="Spanish",DISCOVERY ID
+http://190.6.202.166:8000/play/a06r
+#EXTINF:-1 tvg-id="TLCLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" tvg-language="Spanish",DISCOVERY TLC
+http://190.6.202.166:8000/play/a09n
+#EXTINF:-1 tvg-id="DiscoveryHDWorldLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" tvg-language="Spanish",DISCOVERY WORLD
+http://190.6.202.166:8000/play/a06o
+##EXTINF:-1 tvg-id="DisneyChannelCentro.us" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/2OvNI0n7Ik6uWEWoYAIWgW/37e1e49a26fe7b85b11d00f23ec2eea3/dc-2017-logo-rbg.png" tvg-language="Spanish",DISNEY CHANNEL
+http://200.126.115.156:8000/play/a0i0
+#EXTINF:-1 tvg-id="disneyjr.cl" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/7wWan0jrwsAkEUKUa2Wsmo/0c7987b9c2d66ca1e91945b729a14163/disney_junior.png" tvg-language="Spanish",DISNEY JR
+http://200.126.115.156:8000/play/a0hw
+#EXTINF:-1 tvg-id="DisneyXDSur.us" tvg-logo="https://negocios.masmovilpanama.com/sites/negocios.masmovilpanama.com/files/2020-08/disney_xd.png" tvg-language="Spanish",DISNEY XD
+http://200.126.115.156:8000/play/a0ij
+#EXTINF:-1 tvg-id="1741dhehd.cl" tvg-logo="https://www.canaldhe.com/wp-content/uploads/2019/09/logo-header.png" tvg-language="Spanish",DHE
+http://190.6.202.166:8000/play/a05u
+#EXTINF:-1 tvg-id="ELatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1280970964256337920/mxW60cm-_400x400.jpg" tvg-language="Spanish",E!
+http://190.6.202.166:8000/play/a05m
+#EXTINF:-1 tvg-id="FXNorte.us" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" tvg-language="Spanish",FX
+http://190.6.202.166:8000/play/a05r
+#EXTINF:-1 tvg-id="FXMOeste.us" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" tvg-language="Spanish",FXM
+http://190.6.202.166:8000/play/a05t
+#EXTINF:-1 tvg-id="GoldenLatinoamerica.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-1.png" tvg-language="Spanish",GOLDEN
+http://190.6.202.166:8000/play/a039
+#EXTINF:-1 tvg-id="HBOLatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1412062181861072901/5OtMYWil_400x400.jpg" tvg-language="Spanish",HBO
+http://200.24.159.179:8500/play/a02v
+#EXTINF:-1 tvg-id="HBO2Latinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" tvg-language="Spanish",HBO 2
+http://187.49.191.6:8080/play/a01k
+#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/ac977685-d710-405a-ac39-2c4a57f93bfa_m.jpg" tvg-language="Spanish",HBO FAMILY
+http://200.24.159.179:8500/play/a012
+#EXTINF:-1 tvg-id="hboplus.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-language="Spanish",HBO PLUS
+http://187.49.191.6:8080/play/a01l
+#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" tvg-language="Spanish",HBO XTREME
+http://187.49.191.6:8080/play/a02w
+#EXTINF:-1 tvg-id="HistoryLatinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/976613c0-bf70-498c-b2d0-a83373964c02_m.jpg" tvg-language="Spanish",HISTORY 1
+http://200.126.115.156:8000/play/a0il
+#EXTINF:-1 tvg-id="History2Latinoamerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" tvg-language="Spanish",HISTORY 2
+http://190.6.202.166:8000/play/a033
+#EXTINF:-1 tvg-id="multipremier.la" tvg-logo="https://cdn.mitvstatic.com/channels/sv_multipremier_m.png" tvg-language="Spanish",MULTIPREMIER
+http://190.6.202.166:8000/play/a051
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" tvg-language="Spanish",MULTICINEMA
+http://187.49.191.6:8080/play/a01y
+#EXTINF:-1 tvg-id="NationalGeographicCentro.us" tvg-logo="https://cdn.mitvstatic.com/channels/d32620f0-6fae-4265-a63b-098f3980d9b0_m.jpg" tvg-language="Spanish",NATGEO
+http://190.6.202.166:8000/play/a06j
+#EXTINF:-1 tvg-id="NationalGeographicWildLatin.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" tvg-language="Spanish",NATGEO WILD
+http://190.6.202.166:8000/play/a032
+#EXTINF:-1 tvg-id="NatGeoKids.us" tvg-logo="http://television.com.ar/wp-content/uploads/2020/11/Natgeo-Kids-350x240.jpg" tvg-language="Spanish",NATGEO KIDS
+http://200.24.159.179:8500/play/a00e
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/30ac595d-4dbd-4b72-a325-978cb5dfcd55_m.jpg" tvg-language="Spanish",NICK JR
+http://200.24.159.179:8500/play/a038
+#EXTINF:-1 tvg-id="NickelodeonSur.us" tvg-logo="https://cdn.mitvstatic.com/channels/5d406120-a316-48a4-8bed-8a35bd86d795_m.jpg" tvg-language="Spanish",NICK
+http://190.6.202.166:8000/play/a060
+#EXTINF:-1 tvg-id="nick2" tvg-logo="https://pbs.twimg.com/profile_images/1201537129572163585/uotYCBJW_400x400.jpg" tvg-language="Spanish",NICK 2
+http://190.6.202.166:8000/play/a05z
+#EXTINF:-1 tvg-id="PasionesLatinoamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/100px-Pasiones_Tv_logo.svg.png",PASIONES
+http://190.6.202.166:8000/play/a06p
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1410619325333917703/iCSeFgLC_400x400.jpg" tvg-language="Spanish",PARAMOUNT
+http://190.6.202.166:8000/play/a06k
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" tvg-language="Spanish",STAR CHANNEL
+http://190.6.202.166:8000/play/a09t
+#EXTINF:-1 tvg-id="StarLifeLatin.us" tvg-logo="https://pbs.twimg.com/profile_images/1362836536505548803/T6XtjJpV_400x400.jpg" tvg-language="Spanish",STAR LIFE
+http://190.6.202.166:8000/play/a01n
+#EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://seeklogo.com/images/S/star-atcion-logo-7391F231E8-seeklogo.com.png" tvg-language="Spanish",STAR ACTION
+http://190.6.202.166:8000/play/a06b
+#EXTINF:-1 tvg-id="foxfamily.la" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6091aceb4f73d3632eec6d63_star-fun.jpeg" tvg-language="Spanish",STAR FUN
+http://190.6.202.166:8000/play/a06c
+#EXTINF:-1 tvg-id="foxclassics.la" tvg-logo="https://seeklogo.com/images/S/star-classics-logo-DA1825A08D-seeklogo.com.png" tvg-language="Spanish",STAR CLASIC
+http://190.6.202.166:8000/play/a06d
+#EXTINF:-1 tvg-id="foxcomedy.la" tvg-logo="https://seeklogo.com/images/S/star-comedy-logo-2381B28051-seeklogo.com.png" tvg-language="Spanish",STAR COMEDY
+http://190.6.202.166:8000/play/a06s
+#EXTINF:-1 tvg-id="foxmovies.la" tvg-logo="https://seeklogo.com/images/S/star-hits-logo-59F5BBACBB-seeklogo.com.png" tvg-language="Spanish",STAR HITS
+http://190.6.202.166:8000/play/a06a
+#EXTINF:-1 tvg-id="foxseries,la" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6091ae45fd4e92f672504ee2_star-series.jpeg" tvg-language="Spanish",STAR SERIES
+http://190.6.202.166:8000/play/a069
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-logo="https://pbs.twimg.com/profile_images/1442548163596849165/sn60femd_400x400.jpg" tvg-language="Spanish",SONY
+http://190.6.202.166:8000/play/a09v
+#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" tvg-language="Spanish",SPACE
+http://190.6.202.166:8000/play/a05h
+#EXTINF:-1 tvg-id="foxsyfy.la" tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" tvg-language="Spanish",SYFY
+http://190.6.202.166:8000/play/a05k
+#EXTINF:-1 tvg-id="StudioUniversalAmericaLatina.us"tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" tvg-language="Spanish",STUDIO UNIVERSAL
+http://190.6.202.166:8000/play/a0cb
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2019/03/televisa-afiliados-canales-tlnovelas.jpg" tvg-language="Spanish",TELENOVELA
+http://190.61.102.67:3150/play/a08d
+#EXTINF:-1 tvg-id="TBSAmericaLatina.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/125px-TBS_logo_2016.svg.png" tvg-language="Spanish",TBS
+http://200.126.115.156:8000/play/a0l8
+#EXTINF:-1 tvg-id="TCMAmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg" tvg-language="Spanish",TCM
+http://200.126.115.156:8000/play/a0mi
+#EXTINF:-1 tvg-id="TNTAmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/08f3286d-6e7e-4827-a5a7-bd227bf41674_m.jpg" tvg-language="Spanish",TNT
+http://190.6.202.166:8000/play/a062
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.us" tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" tvg-language="Spanish",TNT SERIES
+http://190.6.202.166:8000/play/a06l
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/telemundo.png" tvg-language="Spanish",TELEMUNDO
+http://190.6.202.166:8000/play/a05q
+#EXTINF:-1 tvg-id="UniversalTVAmericaLatinaOeste.us" tvg-logo="https://pbs.twimg.com/profile_images/1278707432529641472/u5T-ymV__400x400.jpg" tvg-language="Spanish",UNIVERSAL
+http://201.190.38.82:8000/play/a04h
+#EXTINF:-1 tvg-id="UnivisionLatinoamerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1411007291915182090/VsOVvKpj_400x400.png" tvg-language= "Spanish", UNIVISION
+http://190.6.202.166:8000/play/a0et
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png" tvg-language="Spanish",WARNER CHANNEL
+http://190.6.202.166:8000/play/a0eq
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://1.bp.blogspot.com/-CRPsvgCjfwI/XaYpYWIoHKI/AAAAAAABMrc/xRo2zq2aRMkHLBy6xjYaK7J4XLaumobzwCNcBGAsYHQ/s280/Nick_Latino_Channel_1080x1080_Square_Nickelodeon_Pluto_TV_Frame_Logo_2.png" group-title="PLUTO TV",NICK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/featuredImage.jpg" tvg-name="INVESTIGA TV"  group-title="🛰️📺PLUTO TV📺🛰️",INVESTIGA TV
+#EXTINF:-1 tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/featuredImage.jpg" group-title="PLUTO TV",INVESTIGA TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/featuredImage.jpg" tvg-name="CSI HD"  group-title="🛰️📺PLUTO TV📺🛰️",CSI HD
+#EXTINF:-1 tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/featuredImage.jpg" group-title="PLUTO TV",CSI HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5d8d164d92e97a5e107638d2" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg" tvg-name="CINE ACCION"  group-title="🛰️📺PLUTO TV📺🛰️",CINE ACCION
+#EXTINF:-1 tvg-id="5d8d164d92e97a5e107638d2" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg" group-title="PLUTO TV",CINE ACCION
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="🛰️📺PLUTO TV📺🛰️",CINE TERROR
+#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="PLUTO TV",CINE TERROR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" tvg-name="VEVO REGGAETON"  group-title="🛰️📺PLUTO TV📺🛰️",VEVO REGGAETON
+#EXTINF:-1 tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="PLUTO TV",VEVO REGGAETON
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" tvg-name="VEVO POP LATINO"  group-title="🛰️📺PLUTO TV📺🛰️",VEVO POP LATINO
+#EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="PLUTO TV",VEVO POP LATINO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="clarosports.co" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" tvg-language="Spanish"  group-title="⚽⚾DEPORTE-ESPAÑOL⚽⚾",CLARO SPORTS
+http://187.49.191.6:8080/play/a01f
+##EXTINF:-1 tvg-id="ESPNColombia.us" tvg-logo="https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_400x400.png" tvg-language="Spanish",ESPN SUR
+http://200.24.159.179:8500/play/a01e
+#EXTINF:-1 tvg-id="ESPN2Colombia.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish",ESPN 2 SUR
+http://200.24.159.179:8500/play/a015
+#EXTINF:-1 tvg-id="ESPN3Colombia.us" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish",ESPN 3 SUR
+http://200.24.159.179:8500/play/a03b
+#EXTINF:-1 tvg-id="FoxSportsArgentina.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish",ESPN 4 SUR
+http://200.24.159.179:8500/play/a021
+#EXTINF:-1 tvg-id="FoxSports2Argentina.us" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish",FOX SPORTS 2 SUR
+http://200.24.159.179:8500/play/a01n
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish",FOX SPORTS 3 SUR
+http://200.24.159.179:8500/play/a01o
+#EXTINF:-1 tvg-id="ESPNExtraAmericaLatina.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/190px-Espn_extra_2015.png" tvg-language="Spanish"ESPN EXTRA +
+http://190.6.202.166:8000/play/a027
+#EXTINF:-1 tvg-id="FoxSportsMexico.us" tvg-logo="https://cdn.mitvstatic.com/channels/ddd8dae7-27df-45fc-921d-0b40ed90c546_m.jpg" tvg-language="Spanish",ESPN NORTE
+http://190.6.202.166:8000/play/a06f
+#EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" tvg-language="Spanish",ESPN 2 NORTE
+http://190.6.202.166:8000/play/a06h
+#EXTINF:-1 tvg-id="ESPN3AmericaLatina.us" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" tvg-language="Spanish",ESPN 3 NORTE
+http://190.6.202.166:8000/play/a06g
+#EXTINF:-1 tvg-id="FoxSportsLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/180px-ESPN4_logo.png" tvg-language="Spanish",ESPN 4 NORTE
+http://190.6.202.166:8000/play/a05f
+#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg" tvg-language="Spanish",FOX SPORTS 2 NORTE
+http://190.6.202.166:8000/play/a061
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg" tvg-language="Spanish",FOX SPORTS 3 NORTE
+http://190.6.202.166:8000/play/a06i
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1414723264572760068/6Fa0wPGk_400x400.jpg" tvg-language="Spanish",TIGO SPORTS
+http://187.49.191.6:8080/play/a00y
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish",TD+CR
+http://187.49.191.6:8080/play/a022
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1472718802064486402/7mQHdpTL_400x400.jpg" tvg-language="Spanish",TD+CR 2
+http://187.49.191.6:8080/play/a023
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tnt-sports-2.png" tvg-language="Spanish",TNT SPORTS 2
+http://200.126.115.156:8000/play/a0k4
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tnt-sports-3.png" tvg-language="Spanish",TNT SPORTS 3
+http://200.126.115.156:8000/play/a0ia
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1221/the-tom--jerry-show/showpage/co/logoupdated.dbc7e630.png?imwidth=400" group-title="VOD PELICULAS",Tom & Jerry (2021)
+http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
+#EXTINF:-1,Barb & Star: van a Vista del Mar (2021)
+http://vod.tuxchannel.tv/peliculas/720/barb%20and%20star%20go%20to%20vista%20del%20mar%202021.mkv
+#EXTINF:-1,Loco por ella (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/loco%20por%20ella%202021.mkv
+#EXTINF:-1,El campamento de mi vida (2021)
+http://vod.tuxchannel.tv/peliculas/720/a%20week%20away%202021.mkv
+#EXTINF:-1,Solo Di Que Si (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/just%20say%20yes%202021.mkv
+#EXTINF:-1,La Familia Michell (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/the%20mitchells%20vs%20the%20machines%202021.mkv
+#EXTINF:-1,El rey de Zamunda (2021)
+http://vod.tuxchannel.tv/peliculas/720/coming%202%20america%202021.mkv
+#EXTINF:-1,Vidas de papel (2021)
+http://vod.tuxchannel.tv/peliculas/720/paper%20lives%202021.mkv
+#EXTINF:-1,Godzilla Vs Kong (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/godzilla%20vs%20kong%202021.mkv
+#EXTINF:-1,Mortal Kombat (2021)
+http://archive.org/download/mkombt-021/mkombt-021.mp4
+#EXTINF:-1,Venganza implacable (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/honest%20thief%202020.mkv
+#EXTINF:-1,Corre (2020)
+http://vod.tuxchannel.tv/peliculas/720/run%202020.mkv
+#EXTINF:-1,El Hada de los Dientes ha regresado (2020)
+http://vod.tuxchannel.tv/peliculas/720/return%20of%20the%20tooth%20fairy%202020.mkv
+#EXTINF:-1,Dino Dana (2020)
+http://vod.tuxchannel.tv/peliculas/720/dino%20dana%20the%20movie%202020.mkv
+#EXTINF:-1,Generacion Y (2020)
+http://vod.tuxchannel.tv/peliculas/720/echo%20boomers%202020.mkv
+#EXTINF:-1,La Batalla de Kamdesh (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20outpost%202020.mkv
+#EXTINF:-1,Donde está el Sr Cha (2020)
+http://vod.tuxchannel.tv/peliculas/720/what%20happened%20to%20mr%20cha%202020.mkv
+#EXTINF:-1,El Ultimo de los Paradiso (2020)
+http://vod.tuxchannel.tv/peliculas/720/l%20ultimo%20paradiso%202020.mkv
+#EXTINF:-1,Victima del Poder (2020)
+http://vod.tuxchannel.tv/peliculas/720/most%20wanted%202020.mkv
+#EXTINF:-1,Becky (2020)
+http://vod.tuxchannel.tv/peliculas/720/becky%202020.mkv
+#EXTINF:-1,Pelea de Chicas (2020)
+http://vod.tuxchannel.tv/peliculas/720/chick%20fight%202020.mkv
+#EXTINF:-1,Fatale (2020)
+http://vod.tuxchannel.tv/peliculas/720/fatale%202020.mkv
+#EXTINF:-1,La Familia Pie Grande (2020)
+http://vod.tuxchannel.tv/peliculas/720/bigfoot%20family%202020.mkv
+#EXTINF:-1,Para toda la vida (2020)
+http://vod.tuxchannel.tv/peliculas/720/all%20my%20life%202020.mkv
+#EXTINF:-1,El Ultimo Rescate (2020)
+http://vod.tuxchannel.tv/peliculas/720/we%20go%20in%20at%20dawn%202020.mkv
+#EXTINF:-1,Superheroicos (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/we%20can%20be%20heroes%202020.mkv
+#EXTINF:-1,Mi Muerte (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/death%20of%20me%202020.mkv
+#EXTINF:-1,El Reloj Encantado (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/engel%202020.mkv
+#EXTINF:-1,Mercenarios de Elite (2020)
+http://vod.tuxchannel.tv/peliculas/720/hard%20kill%202020.mkv
+#EXTINF:-1,Lavaperros (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/lavaperros%202020.mkv
+#EXTINF:-1,El Mundo Entero (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/und%20morgen%20die%20ganze%20welt%202020.mkv
+#EXTINF:-1,Una Sombra en la Nube (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/shadow%20in%20the%20cloud%202020.mkv
+#EXTINF:-1,Super Inteligente (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/superintelligence%202020.mkv
+#EXTINF:-1,Nadie sabe que estoy aquí (2020)
+http://vod.tuxchannel.tv/peliculas/720/nadie%20sabe%20que%20estoy%20aqui%202020.mkv
+#EXTINF:-1,El medallón de la llorona (2020)
+http://vod.tuxchannel.tv/peliculas/720/el%20medallon%20de%20la%20llorona%202020.mkv
+#EXTINF:-1,Solterisima (2020)
+http://vod.tuxchannel.tv/peliculas/720/seriously%20single%202020.mkv
+#EXTINF:-1,Proyecto power (2020)
+http://vod.tuxchannel.tv/peliculas/720/project%20power%202020.mkv
+#EXTINF:-1,Greyhound: en la mira del enemigo (2020)
+http://vod.tuxchannel.tv/peliculas/720/greyhound%202020.mkv
+#EXTINF:-1,Crímenes de familia (2020)
+http://vod.tuxchannel.tv/peliculas/720/crimenes%20de%20familia%202020.mkv
+#EXTINF:-1,En plan estrella de rock (2020)
+http://vod.tuxchannel.tv/peliculas/720/all%20together%20now%202020.mkv
+#EXTINF:-1,Superman: hombre del mañana (2020)
+http://vod.tuxchannel.tv/peliculas/720/superman%20man%20of%20tomorrow%202020.mkv
+#EXTINF:-1,Escaping My Stalker (2020)
+http://vod.tuxchannel.tv/peliculas/720/escaping%20my%20stalker%202020.mkv
+#EXTINF:-1,Escape de Auschwitz (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20escape%20from%20auschwitz%202020.mkv
+#EXTINF:-1,Santana (2020)
+http://vod.tuxchannel.tv/peliculas/720/santana%202020.mkv
+#EXTINF:-1,Mulán (2020)
+http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
+#EXTINF:-1,Niños del Espectaculo (2020)
+http://vod.tuxchannel.tv/peliculas/720/showbiz%20kids%202020.mkv
+#EXTINF:-1,Amor garantizado (2020)
+http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
+#EXTINF:-1,El secreto: atrévete a soñar (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20secret%20dare%20to%20dream%202020.mkv
+#EXTINF:-1,Freaks: Eres de los nuestros (2020)
+http://vod.tuxchannel.tv/peliculas/720/freaks%20du%20bist%20eine%20von%20uns%202020.mkv
+#EXTINF:-1,Jugando con amor (2020)
+http://vod.tuxchannel.tv/peliculas/720/romance%20in%20the%20outfield%20double%20play%202020.mkv
+#EXTINF:-1,La niñera: Reina Letal (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20babysitter%20killer%20queen%202020.mkv
+#EXTINF:-1,Mi maestro el Pulpo (2020)
+http://vod.tuxchannel.tv/peliculas/720/my%20octopus%20teacher%202020.mkv
+#EXTINF:-1,Se busca Papá (2020)
+http://vod.tuxchannel.tv/peliculas/720/se%20busca%20papa%202020.mkv
+#EXTINF:-1,Vivo (2020)
+http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
+#EXTINF:-1,Amuleto (2020)
+http://vod.tuxchannel.tv/peliculas/720/amulet%202020.mkv
+#EXTINF:-1,Como Perros y Gatos 3: patas unidas (2020)
+http://vod.tuxchannel.tv/peliculas/720/cats%20and%20dogs%203%20paws%20unite%202020.mkv
+#EXTINF:-1,Atleta A (2020)
+http://vod.tuxchannel.tv/peliculas/720/atleta%20a%202020.mkv
+#EXTINF:-1,El vinculo (2020)
+http://vod.tuxchannel.tv/peliculas/720/Il%20legame%202020.mkv
+#EXTINF:-1,American Pie Presents: Girls' Rules (2020)
+http://vod.tuxchannel.tv/peliculas/720/american%20pie%20presents%20girls%20rules%202020.mkv
+#EXTINF:-1,El Halloween de Hubie (2020)
+http://vod.tuxchannel.tv/peliculas/720/hubie%20halloween%202020.mkv
+#EXTINF:-1,La caja negra (2020)
+http://vod.tuxchannel.tv/peliculas/720/black%20box%202020.mkv
+#EXTINF:-1,Salvese quien pueda (2020)
+http://vod.tuxchannel.tv/peliculas/720/save%20yourselves%202020.mkv
+#EXTINF:-1,Las brujas (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20witches%202020.mkv
+#EXTINF:-1,Elegida (2020)
+http://vod.tuxchannel.tv/peliculas/720/antebellum%202020.mkv
+#EXTINF:-1,Guía de una niñera para cazar monstruos (2020)
+http://vod.tuxchannel.tv/peliculas/720/a%20babysitters%20guide%20to%20monster%20hunting%202020.mkv
+#EXTINF:-1,Bob Esponja: Al rescate (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20spongebob%20movie%20sponge%20on%20the%20run%202020.mkv
+#EXTINF:-1,Magia al revés (2020)
+http://vod.tuxchannel.tv/peliculas/720/upside-down%20magic%202020.mkv
+#EXTINF:-1,Mi primer amor eterno (2020)
+http://vod.tuxchannel.tv/peliculas/720/forever%20first%20love%202020.mkv
+#EXTINF:-1,El cadáver (2020)
+http://vod.tuxchannel.tv/peliculas/720/kadaver%202020.mkv
+#EXTINF:-1,La deuda 2 (2020)
+http://vod.tuxchannel.tv/peliculas/720/debt%20collectors%202020.mkv
+#EXTINF:-1,Los secretos de la tumba del Saqqara (2020)
+http://vod.tuxchannel.tv/peliculas/720/secrets%20of%20the%20saqqara%20tomb%202020.mkv
+#EXTINF:-1,Super Monsters (2020)
+http://vod.tuxchannel.tv/peliculas/720/super%20monsters%20dia%20de%20los%20monsters%202020.mkv
+#EXTINF:-1,La citacion (2020)
+http://vod.tuxchannel.tv/peliculas/720/citation%202020.mkv
+#EXTINF:-1,Come Play (2020)
+http://vod.tuxchannel.tv/peliculas/720/come%20play%202020.mkv
+#EXTINF:-1,Sin hijos (2020)
+http://vod.tuxchannel.tv/peliculas/720/sin%20hijos%202020.mkv
+#EXTINF:-1,Uno de nosotros (2020)
+http://vod.tuxchannel.tv/peliculas/720/let%20him%20go%202020.mkv
+#EXTINF:-1,Yo soy Lorena Bobbitt (2020)
+http://vod.tuxchannel.tv/peliculas/720/i%20was%20lorena%20bobbitt%202020.mkv
+#EXTINF:-1,El día del fin del mundo (2020)
+http://vod.tuxchannel.tv/peliculas/720/greenland%202020.mkv
+#EXTINF:-1,Voces (2020)
+http://vod.tuxchannel.tv/peliculas/720/dont%20listen%202020.mkv
+#EXTINF:-1,Locas por el cambio (2020)
+http://vod.tuxchannel.tv/peliculas/720/locas%20por%20el%20cambio%202020.mkv
+#EXTINF:-1,Ludo (2020)
+http://vod.tuxchannel.tv/peliculas/720/ludo%202020.mkv
+#EXTINF:-1,Las vueltas de la vida (2020)
+http://vod.tuxchannel.tv/peliculas/720/riding%20with%20sugar%202020.mkv
+#EXTINF:-1,Impractical Jokers (2020)
+http://vod.tuxchannel.tv/peliculas/720/impractical%20jokers%20the%20movie%202020.mkv
+#EXTINF:-1,Campamento Magico (2020)
+http://vod.tuxchannel.tv/peliculas/720/magic%20camp%202020.mkv
+#EXTINF:-1,El Telefono (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20call%202020.mkv
+#EXTINF:-1,Fierce (2020)
+http://vod.tuxchannel.tv/peliculas/720/jak%20zostac%20gwiazda%2020202.mkv
+#EXTINF:-1,Este cuerpo me sienta de Muerte (2020)
+http://vod.tuxchannel.tv/peliculas/720/freaky%202020.mkv
+#EXTINF:-1,Los nuevos mutantes (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20new%20mutants%202020.mkv
+#EXTINF:-1,Las crónicas de Navidad 2 (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
+#EXTINF:-1,Más allá de la Luna (2020)
+http://vod.tuxchannel.tv/peliculas/720/over%20the%20moon%202020.mkv
+#EXTINF:-1,Intercambio de Princesas 2 (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20princess%20switch%20switched%20again%202020.mkv
+#EXTINF:-1,La Navidad de Gran Camión (2020)
+http://vod.tuxchannel.tv/peliculas/720/a%20trash%20truck%20christmas%202020.mkv
+#EXTINF:-1,Soy tu mujer (2020)
+http://vod.tuxchannel.tv/peliculas/720/im%20your%20woman%202020.mkv
+#EXTINF:-1,Safety (2020)
+http://vod.tuxchannel.tv/peliculas/720/safety%202020.mkv
+#EXTINF:-1,El Baile (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20prom%202020.mkv
+#EXTINF:-1,La increíble historia de la Isla de las Rosas (2020)
+http://vod.tuxchannel.tv/peliculas/720/lincredibile%20storia%20dell%20isola%20delle%20rose%202020.mkv
+#EXTINF:-1,Capitán Calzoncillos y la Megavidad (2020)
+http://vod.tuxchannel.tv/peliculas/720/captain%20underpants%20mega%20blissmas%202020.mkv
+#EXTINF:-1,Lassie vuelve a casa (2020)
+http://vod.tuxchannel.tv/peliculas/720/lassie-eine%20abenteuerliche%20reise%202020.mkv
+#EXTINF:-1,Mujer Maravilla 1984 (2020)
+http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
+#EXTINF:-1,Cielo de medianoche (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20midnight%20sky%202020.mkv
+#EXTINF:-1,La Portera (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20doorman%202020.mkv
+#EXTINF:-1,Soul (2020)
+http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
+#EXTINF:-1,Copper Bill (2020)
+http://vod.tuxchannel.tv/peliculas/720/copper%20bill%202020.mkv
+#EXTINF:-1,Jorge el Curioso (2020)
+http://vod.tuxchannel.tv/peliculas/720/curious%20george%20go%20west%20go%20wild%202020.mkv
+#EXTINF:-1,Desde las Profundidades (2020)
+http://vod.tuxchannel.tv/peliculas/720/from%20the%20depths%202020.mkv
+#EXTINF:-1,Infamous: De mala suerte (2020)
+http://vod.tuxchannel.tv/peliculas/720/infamous%202020.mkv
+#EXTINF:-1,Mank (2020)
+http://vod.tuxchannel.tv/peliculas/720/mank%202020.mkv
+#EXTINF:-1,Medios Hermanos (2020)
+http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
+#EXTINF:-1,Todos mis amigos están muertos (2020)
+http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
+#EXTINF:-1,Agente bajo fuego (2019)
+http://tux-vod.dynu.com:80/peliculas/720/angel%20has%20fallen%202019.mkv
+#EXTINF:-1,Cold Blood: A sangre fria (2019)
+http://tux-vod.dynu.com:80/peliculas/720/cold%20blood%202019.mkv
+#EXTINF:-1,Escuadrón 6 (2019)
+http://tux-vod.dynu.com:80/peliculas/720/6%20underground%202019.mkv
+#EXTINF:-1,La Tierra errante (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20wandering%20earth%202019.mkv
+#EXTINF:-1,Frozen 2 (2019)
+http://tux-vod.dynu.com/peliculas/720/frozen%20II%202019.mkv
+#EXTINF:-1,Toy story 4 (2019)
+http://tux-vod.dynu.com/peliculas/720/toy%20story%204%202019.mkv
+#EXTINF:-1,Playmobil: la película (2019)
+http://tux-vod.dynu.com/peliculas/720/playmobil%20the%20movie%202019.mkv
+#EXTINF:-1,A dos metros de ti (2019)
+http://tux-vod.dynu.com/peliculas/720/five%20feet%20apart%202019.mkv
+#EXTINF:-1,Anna: el peligro tiene nombre (2019)
+http://tux-vod.dynu.com/peliculas/720/anna%202019.mkv
+#EXTINF:-1,A quemaropa (2019)
+http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
+#EXTINF:-1,La rebelión (2019)
+http://tux-vod.dynu.com/peliculas/720/captive%20state%202019.mkv
+#EXTINF:-1,Corgi: un perro real (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20queens%20corgi%202019.mkv
+#EXTINF:-1,Jugar o morir (2019)
+http://tux-vod.dynu.com/peliculas/720/play%20or%20die%202019.mkv
+#EXTINF:-1,Boda sangrienta (2019)
+http://tux-vod.dynu.com/peliculas/720/ready%20or%20not%202019.mkv
+#EXTINF:-1,Dumbo (2019)
+http://tux-vod.dynu.com/peliculas/720/dumbo%202019.mkv
+#EXTINF:-1,UglyDolls: Extraordinariamente Feos (2019)
+http://tux-vod.dynu.com/peliculas/720/uglydolls%202019.mkv
+#EXTINF:-1,Rápidos y furiosos: Hobbs & Shaw (2019)
+http://tux-vod.dynu.com/peliculas/720/fast%20and%20furious%20presents%20hobbs%20and%20shaw%202019.mkv
+#EXTINF:-1,Pesadilla al amanecer (2019)
+http://tux-vod.dynu.com/peliculas/720/rassvet%202019.mkv
+#EXTINF:-1,Doom Annihilation (2019)
+http://tux-vod.dynu.com/peliculas/720/doom%20annihilation%202019.mkv
+#EXTINF:-1,La Escolta (2019)
+http://tux-vod.dynu.com/peliculas/720/close.mkv
+#EXTINF:-1,Mamá al volante (2019)
+http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
+#EXTINF:-1,El niño que pudo ser Rey (2019)
+http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
+#EXTINF:-1,Los Bando (2018)
+https://dl.dropboxusercontent.com/s/7wbowpmn2lnjth2/LOS-B4NDO.mp4
+#EXTINF:-1,Zombie a los 17 (2018)
+http://tux-vod.dynu.com/peliculas/720/zombie%20at%2017%202018.mkv
+#EXTINF:-1,Tiempo de Tortura (2018)
+http://vod.tuxchannel.tv/peliculas/720/tempus%20tormentum%202018.mkv
+#EXTINF:-1,Rascacielos: rescate en las alturas (2018)
+http://tux-vod.dynu.com/peliculas/720/el%20rascacielos.mkv
+#EXTINF:-1,Darc (2018)
+http://tux-vod.dynu.com/peliculas/720/darc.mkv
+#EXTINF:-1,Proyecto Rampage (2018)
+http://tux-vod.dynu.com/peliculas/720/rampage.mkv
+#EXTINF:-1,Maquinas Mortales (2018) HD
+http://tux-vod.dynu.com/peliculas/720/mortal%20engines%202018.mkv
+#EXTINF:-1,Ralph rompe internet (2018)
+http://tux-vod.dynu.com/peliculas/720/wifi%20ralph.mkv
+#EXTINF:-1,Jhonny English 3.0 (2018)
+http://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1,Next Gen (2018)
+http://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1,Cuando nos Conocimos (2018)
+http://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1,The Cloverfield Paradox (2018)
+http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1,Enemigo Inmortal (2017)
+http://tux-vod.dynu.com:80/peliculas/720/enemigo%20inmortal.mkv
+#EXTINF:-1,Jumanji: Bienvenidos a la Jungla (2017) HD
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Jumanji-%20Bienvenidos%20a%20la%20jungla%20_%20En%20la%20selva.mp4
+#EXTINF:-1,Burn out (2017)
+http://tux-vod.dynu.com/peliculas/720/burn%20out%202017.mkv
+#EXTINF:-1,Huye (2017)
+http://tux-vod.dynu.com/peliculas/720/get%20out.mkv
+#EXTINF:-1,Godzilla: Planeta de monstruos (2017)
+https://archive.org/download/gopla-72p/Godzilla1.mp4
+#EXTINF:-1,Clinical (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21245&authkey=AHF1yqo750FdJXc
+#EXTINF:-1,Death Race 2050 (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21193&authkey=ACTOewSwzLJi91c
+#EXTINF:-1,El Aro 3 (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211516&authkey=AD26sX-cyh_VGXY
+#EXTINF:-1,Resident Evil 7 Biohazard (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211517&authkey=ALPlo5OmrNo-H10
+#EXTINF:-1,Fragmentado (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211389&authkey=AFk1SKKTzgH1PQU
+#EXTINF:-1,Un padre no tan padre (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211050&authkey=AKyRvNSn-IwgmZM
+#EXTINF:-1,Barbie en un mundo de videojuegos (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21746&authkey=AGFL2-4_GfzOBDc
+#EXTINF:-1,Pasajeros (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21815&authkey=AOr_9bjErS1GC-o
+#EXTINF:-1,I Boy (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21706&authkey=ACzICa_C62zgnWg
+#EXTINF:-1,Liga de la Justicia Oscura (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21541&authkey=AAm322uTXzG1O64
+#EXTINF:-1,A golpe de monedas (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21269&authkey=ALnGd1GoA8NxWUw
+#EXTINF:-1,Max 2: Heroe de la Casa Blanca (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211693&authkey=AEee8lASfkifc68
+#EXTINF:-1,The Lego Batman Movie (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211692&authkey=AC-QYwisbpxFti0
+#EXTINF:-1,Sahara (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211694&authkey=AKJy9LnmfMOMrtw
+#EXTINF:-1,Logan (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211688&authkey=AAsJZhJfQdsYIOg
+#EXTINF:-1,Get Out (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211657&authkey=AOVckmsyH6FpwfY
+#EXTINF:-1,XxX Reactivado (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211525&authkey=APt_QR0tu-l4Jug
+#EXTINF:-1,La razon de estar contigo (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211514&authkey=ADaMAughteRa_iI
+#EXTINF:-1,50 sombras mas oscuras (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211515&authkey=AMN7_sKikyHHIbA
+#EXTINF:-1,The Wizard of Lies (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211793&authkey=AFdiZQBMskUpB-Y
+#EXTINF:-1,Un espacio entre nosotros (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211794&authkey=AImWDsCrvJ433hY
+#EXTINF:-1,La Cabaña (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211696&authkey=ABwJlV68uFTFUtM
+#EXTINF:-1,Blame! (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211755&authkey=AFGDDOiCYjyi1oM
+#EXTINF:-1,Rápidos y furiosos 8 (2017)
+http://tux-vod.dynu.com:80/peliculas/720/the%20fate%20of%20the%20furious.mkv
+#EXTINF:-1,Rápidos y furiosos 8 (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21162&authkey=AMNFkD8j0zzr2FA
+#EXTINF:-1,John Wick: Chapter 2 (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211757&authkey=AE-uNW-66t3uFd4
+#EXTINF:-1,Pequeños delitos (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211776&authkey=ANzOX7EddWXBTOQ
+#EXTINF:-1,The Baby Boss (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211754&authkey=AFN2PAxVu3dPTP8
+#EXTINF:-1,La Bella y la Bestia (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211695&authkey=AD2Ptv7EvKwbTbM
+#EXTINF:-1,Lago Shimmer (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211891&authkey=AD9rlnmqoaCBAfE
+#EXTINF:-1,Would You Rather (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211885&authkey=AFqHqNuIye1oe5o
+#EXTINF:-1,Chips (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211886&authkey=AAjd97wQRphWysc
+#EXTINF:-1,Sueño lucido (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211856&authkey=AAVEboIEWeApI_Q
+#EXTINF:-1,Dragonheart: Battle for the Heartfire (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211850&authkey=AAwcwG2-DX_-4bI
+#EXTINF:-1,Wilson (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211849&authkey=ALAsaUwfVY47H08
+#EXTINF:-1,Maquina de guerra (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211789&authkey=ALDDD-J54qqok_0
+#EXTINF:-1,La cura Siniestra (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211790&authkey=AP7sSJOqMwmR5hA
+#EXTINF:-1,Mesa 19 (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211792&authkey=APGeAIscaYF7wcI
+#EXTINF:-1,You Get Me (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21118&authkey=AMh2yHiFnooPyvE
+#EXTINF:-1,Resident Evil: Vendetta (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21114&authkey=AC2NEepccjcitJQ
+#EXTINF:-1,The Zookeepers Wife (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21115&authkey=AEC4PbhAHCLvaaw
+#EXTINF:-1,La Princesa y el sapo (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211919&authkey=AICSFOnjELVbPTs
+#EXTINF:-1,Los Pitufos: La aldea escondida (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211921&authkey=AKI1oJMeTIEN_6Q
+#EXTINF:-1,Kong: La isla Calavera (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211923&authkey=ACQggJYZrXYr5x8
+#EXTINF:-1,T2 Trainspotting (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211924&authkey=AJaJnx90ex0svu8
+#EXTINF:-1,La luz de mis ojos (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211926&authkey=AGNOjI4hNoWauqc
+#EXTINF:-1,Power Rangers (2017)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211896&authkey=AJ6bw5dgAiN4E50
+#EXTINF:-1,Stasis (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21261&authkey=AAda4KeoAjQ0r04
+#EXTINF:-1,Casi leyendas (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21274&authkey=AD7Hrir1ln6H-6Y
+#EXTINF:-1,Ghost in the Shell (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21482&authkey=AJoy15bOGpfrb-U
+#EXTINF:-1,Girlfriends Day (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21481&authkey=AEmhrrVjsNUtzL0
+#EXTINF:-1,Mientras el lobo no esta (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21470&authkey=AHixuF_A8abb4x0
+#EXTINF:-1,Life: Vida Inteligente (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21166&authkey=ABSFm0YiGxuEU2o
+#EXTINF:-1,Todos queremos a alguien (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21117&authkey=AH_dnCj2gRKa7JI
+#EXTINF:-1,Soltera y Fantastica (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21116&authkey=AJuiXUIRQMijOLc
+#EXTINF:-1,Batman & Harley Quinn (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211410&authkey=AEghPupYd_kdeEc
+#EXTINF:-1,The Black Room (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211406&authkey=AB2Udkm_VKV9Z2A
+#EXTINF:-1,3 idiotas (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211234&authkey=AJJ0MlpASxhNqxQ
+#EXTINF:-1,En busca del Coral (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211414&authkey=AFx4cFzdm5gC3_A
+#EXTINF:-1,Desnudo (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211409&authkey=AKCsdZnIIK4Qxno
+#EXTINF:-1,Mi prima Rachel (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211476&authkey=AGXJJoGrrbnRIUw
+#EXTINF:-1,Kung fu Yoga (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211478&authkey=AGgm5QewkTKjC8k
+#EXTINF:-1,La dama gris (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211384&authkey=AFSAYwjftyq2bZg
+#EXTINF:-1,S.W.A.T. Under Siege (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211178&authkey=APA2nXmajbMg5dc
+#EXTINF:-1,Guardianes de la galaxia vol.2 (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211248&authkey=AEFso7whn2q3trc
+#EXTINF:-1,Diary of a Wimpy Kid: The Long Haul (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211184&authkey=AJVz8Bz4x-O3P5E
+#EXTINF:-1,Los descendientes 2 (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211201&authkey=AB9VVWrP7VPqc30
+#EXTINF:-1,Alien: Covenant (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211181&authkey=AI7qf9vFh8csGZk
+#EXTINF:-1,El teniente otomano (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211163&authkey=AN_-1GpmSpkmt9I
+#EXTINF:-1,Feed (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211153&authkey=AEig4uN2wEwFMzo
+#EXTINF:-1,La increible Jessica James (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211179&authkey=AJnZqU6iT2rNT6w
+#EXTINF:-1,The Institute (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211174&authkey=AM2-2ABQg1Cl04E
+#EXTINF:-1,Everythin (2017)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211180&authkey=AFdSIyatKXebCMk
+#EXTINF:-1,Castillo de arena (2017)
+http://bit.ly/MRAQCASTI
+#EXTINF:-1,El Mal Adentro (2017)
+http://bit.ly/EVILWITHIN_MOVIE
+#EXTINF:-1,El Mal Adentro (2017)
+http://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1,Sahara (2017)
+http://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1,Angry Birds (2017)
+http://cecegeek@goo.gl/3KGMLf
+#EXTINF:-1,Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+#EXTINF:-1,JIGSAW: El juego continua (2017)
+http://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1,La Forma del Agua (2017)
+http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:-1,Tragedy Girls (2017)
+http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:-1,Reina de Katwe (2016)
+http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21199&authkey=AJHkVdEL8J6gqn0
+#EXTINF:-1,Soldado anonimo 3: El asedio (2016)
+http://onedrive.live.com/download.aspx?resid=79F314CC957B5E45!1974&authkey=!ANzAKfyEfSgZu4s&ithint=video%2cmp4
+#EXTINF:-1,Invasion al hogar (2016)
+http://onedrive.live.com/download.aspx?resid=79F314CC957B5E45!1973&authkey=!AEajPp28r5dx3G8&ithint=video%2cmp4
+#EXTINF:-1,13 Horas: Los soldados secretos de Bengasi (2016)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2685&authkey=!AIRApS_3dnfG0Y8&ithint=file%2cmkv
+#EXTINF:-1,Los doble vida (2016)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2734&authkey=!ALHLQN2jwgODARA&ithint=video%2cmp4
+#EXTINF:-1,Calle Cloverfield 10 (2016)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2761&authkey=!ACgyIR5Z-QOF44Q&ithint=file%2cmkv
+#EXTINF:-1,Objetivo: Londres bajo fuego (2016)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2763&authkey=!AARXXlVAju-FV3k&ithint=video%2cmp4
+#EXTINF:-1,X-Men Apocalipsis (2016)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!3048&authkey=!AEa_bekfOh2CWDI&ithint=file%2cmkv
+#EXTINF:-1,Volando alto (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!114&authkey=!AK7sHKSdTYyoTSk&ithint=video%2cmp4
+#EXTINF:-1,Rendirse jamas 3 (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!222&authkey=!AD9v100JBTODM_o&ithint=video%2cmp4
+#EXTINF:-1,Reporteras en guerra (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!224&authkey=!AEN8I5Hm0pg9LTk&ithint=video%2cmp4
+#EXTINF:-1,Veteranos al ataque (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!211&authkey=!ALhGq2IU87Sfbl4&ithint=video%2cmp4
+#EXTINF:-1,Divergente Leal 3 (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!353&authkey=!AHm0ObVMUuHgSO0
+#EXTINF:-1,Caperucita Muerta (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!359&authkey=!AFA3vjNaNEt1go8&ithint=video%2cmp4
+#EXTINF:-1,Warcraft el Origen (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!361&authkey=!AI3NS_dhZOLHJ_k
+#EXTINF:-1,Enchufe sin visa (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!355&authkey=!ALb3KWkkSWPtK00&ithint=video%2cmp4
+#EXTINF:-1,Milagros del cielo (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!258&authkey=!AO_jxvNoEwvh_ks&ithint=video%2cmp4
+#EXTINF:-1,Tortugas Ninjas 2 fuera de las sombras (2016)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2817&authkey=!AGA6aDSfX48Ga00&ithint=video%2cavi
+#EXTINF:-1,Los principios del cuidado (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!367&authkey=!AJU9UYyqWTwM6yE&ithint=video%2cmp4
+#EXTINF:-1,Triple 9 (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!391&authkey=!AOsP8SazWE6FvgE&ithint=video%2cmp4
+#EXTINF:-1,Todos queremos algo (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!482&authkey=!AIBn_mBRraqItog&ithint=video%2cmp4
+#EXTINF:-1,Yo antes de ti (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!730&authkey=!AOgZVJgemFCIjlo
+#EXTINF:-1,Batman v Superman: el amanecer de la justicia (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!387&authkey=!AH09GxJtt5kRqKs
+#EXTINF:-1,Mente implacable (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211946&authkey=AF3epz6bK3XnKto
+#EXTINF:-1,La Jefa (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211942&authkey=AE7rYpgyGiakJMI
+#EXTINF:-1,Jane tomo las armas (2016)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!719&authkey=!AJrMaFrnALbIRIA&ithint=video%2cmp4
+#EXTINF:-1,Cien años de perdon (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211767&authkey=ABJIOHJ-WpcGS7A
+#EXTINF:-1,La barberia 3: El siguiente corte (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211956&authkey=AEu2ATaM25mQE4U
+#EXTINF:-1,El Libro de la Selva (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212787&authkey=AC8rOneCnbQj9Yo
+#EXTINF:-1,Tallulah (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212779&authkey=ACHOvvqQKJJZX-M
+#EXTINF:-1,Keanu (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212171&authkey=AOxAW3_s9t4KwAk
+#EXTINF:-1,Un espia y medio (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212169&authkey=ACxU6E3TVlvCjZo
+#EXTINF:-1,Elvis y Nixon (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211940&authkey=AP0XY5je5ePbb-E
+#EXTINF:-1,El maestro del dinero (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212801&authkey=AH3eYGMbaue_CSE
+#EXTINF:-1,The Lionwoman (2016)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211188&authkey=ANyFE8ANINKWqCQ
+#EXTINF:-1,Invicto IV: Boyka a vuelto (2016)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211173&authkey=APd5PlbMnss8lYY
+#EXTINF:-1,Opening Night (2016)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211175&authkey=AJNwzE93T3Ensz4
+#EXTINF:-1,Message from the King (2016)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211240&authkey=AFBvP29ypz793zg
+#EXTINF:-1,Personal Shopper (2016)
+http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211235&authkey=ABVGrnesvvA7KRs
+#EXTINF:-1,Dos tipos peligrosos (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212778&authkey=AFaD7lcemRKHgks
+#EXTINF:-1,El Cazador y la Reina del Hielo (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212738&authkey=AOL_rpxYU0Apcsg
+#EXTINF:-1,Dia de la Independencia Contraataque (2016)  - Sub
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212737&authkey=AP3WCjQt7aroOM0
+#EXTINF:-1,Your Name (2016)
+http://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1,La confirmacion (2016)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212788&authkey=ABnY634GcVny9BY
+#EXTINF:-1,Mascota Humana (2016)
+http://bit.ly/MASCOTAHUMANA
+#EXTINF:-1,Mi vida a los 17 (2016)
+http://bit.ly/2v16m9z
+#EXTINF:-1,La Mina (2016)
+http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+#EXTINF:-1,Deadpool (2016)
+http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1,Jugada Salvaje (2015)
+http://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25202/Jugada%2520salvaje%2520-%2520Wild%2520card%2520-%25202015.mp4
+#EXTINF:-1,El hombre que conocía el infinito (2015)
+http://tux-vod.dynu.com/peliculas/720/el%20hombre%20que%20conocia%20el%20Infinito.mkv
+#EXTINF:-1,Armageddon (2015)
+http://tux-vod.dynu.com/peliculas/720/armageddon.mkv
+#EXTINF:-1,Chappie (2015)
+http://tux-vod.dynu.com/peliculas/720/chappie.mkv
+#EXTINF:-1,El camino del lobo (2015)
+http://onedrive.live.com/download.aspx?resid=79F314CC957B5E45!1390&authkey=!ANz9agAHA76mcQU&ithint=video%2cmp4
+#EXTINF:-1,Frente al mar (2015)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!3049&authkey=!AHHe9VvEga9NyRU&ithint=video%2cmp4
+#EXTINF:-1,El inicio del mal (2015)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2905&authkey=!AGo_2OTGh_KVU6M&ithint=video%2cmp4
+#EXTINF:-1,Mi nombre es Doris (2015)
+http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2823&authkey=!ANzZX2GwtkJOi8k&ithint=video%2cmp4
+#EXTINF:-1,Synchronicity (2015)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!220&authkey=!ANoCrrWoA_cvlk8&ithint=video%2cmp4
+#EXTINF:-1,Los olvidados (2015)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!346&authkey=!ABP0ag8CrR2w26Q&ithint=video%2cmp4
+#EXTINF:-1,Colonia (2015)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!591&authkey=!AKe3i7KCPBmpF_I&ithint=video%2cmp4
+#EXTINF:-1,El caballero de copas (2015)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!377&authkey=!AEpF7Ype56sCgFU&ithint=video%2cmp4
+#EXTINF:-1,Ya te extraño (2015)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!823&authkey=!AD3s5kMwL61qEFM&ithint=video%2cmp4
+#EXTINF:-1,Z for Zachariah (2015)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!729&authkey=!ALGCbxxTTs-_l8s&ithint=video%2cmp4
+#EXTINF:-1,La bruja (2015)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!718&authkey=!AG9pXS_dPYwMCYQ&ithint=video%2cmp4
+#EXTINF:-1,La historia de Miles Davis (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211768&authkey=ACkp1-67gQm9TcU
+#EXTINF:-1,Lunaticos (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211815&authkey=AEzbuHkWcctufB0
+#EXTINF:-1,Demolicion (2015)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!825&authkey=!AOViyULgTURiPVM&ithint=video%2cmp4
+#EXTINF:-1,Gridlocked: Mercenarios (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211957&authkey=AC_WwLsaGgYaBY0
+#EXTINF:-1,Lo mejor de mi vida (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211961&authkey=AGJ4zsl3gdfvXP8
+#EXTINF:-1,El ultimo tour (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211955&authkey=APASGlLG3mYU-TM
+#EXTINF:-1,La modista (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211952&authkey=ALK6iSeB1VpMjqk
+#EXTINF:-1,Regresando a casa (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211943&authkey=AP3eRbJ8dRbMP8A
+#EXTINF:-1,Conspiracion y poder (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211941&authkey=ADHV3KFWgw06xWA
+#EXTINF:-1,Dos boricuas en Paris (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212705&authkey=ACJah_PZoh739cs
+#EXTINF:-1,La historia de Hank Williams (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212706&authkey=AO3AyE7wdMtCP2I
+#EXTINF:-1,Los descendientes (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212707&authkey=ACUTulTnC10wg-g
+#EXTINF:-1,Agente 007: Spectre (2015)
+http://goo.gl/3KGMLf
+#EXTINF:-1,Terminus (2015)
+http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1,Intensamente (2015)
+http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1,El viaje mas largo (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212170&authkey=AK4j1els_LUGjUI
+#EXTINF:-1,La invitacion (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212784&authkey=AEN5ySSzdjqF_Ho
+#EXTINF:-1,Hardcore: Mision extrema (2015)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
+#EXTINF:-1,Chicas armadas y peligrosas (2013)
+http://tux-vod.dynu.com:80/peliculas/720/the%20heat.mkv
+#EXTINF:-1,Búsqueda implacable 1 (2008)
+http://tux-vod.dynu.com:80/peliculas/720/taken.mkv
+#EXTINF:-1,Búsqueda implacable 2 (2012)
+http://tux-vod.dynu.com:80/peliculas/720/taken%202.mkv
+#EXTINF:-1,Búsqueda implacable 3 (2014)
+http://tux-vod.dynu.com:80/peliculas/720/taken%203.mkv
+#EXTINF:-1,Acción policial (2013)
+http://tux-vod.dynu.com:80/peliculas/720/police%20story.mkv
+#EXTINF:-1,La Cueva (2014)
+http://tux-vod.dynu.com/peliculas/720/la%20cueva.mkv
+#EXTINF:-1,La Cabaña en el Bosque (2012) HD
+http://tux-vod.dynu.com/peliculas/720/the%20cabin%20in%20the%20woods.mkv
+#EXTINF:-1,E.T.: el extraterrestre (1982)
+http://tux-vod.dynu.com/peliculas/720/e.t.%20the%20extra-terrestrial.mkv
+#EXTINF:-1,Historia sin fin (1984)
+http://tux-vod.dynu.com/peliculas/720/the%20neverending%20story.mkv
+#EXTINF:-1,Amar te duele (2002)
+http://tux-vod.dynu.com/peliculas/720/amar%20te%20duele%202002.mkv
+#EXTINF:-1,En la oscuridad de la noche (2003)
+http://bit.ly/El_hada_de_los_dientes_PELÍCULAS_JCL
+#EXTINF:-1,Boxtrolls (2014)
+https://dl.dropboxusercontent.com/s/7wroemeuf596eje/The.Boxtrolls.2014.mp4
+#EXTINF:-1,Amigos intocables (2011)
+https://archive.org/download/173955_3587/Amigos_intocables_HD__720p___173955.mp4
+#EXTINF:-1,Dante's Inferno (2010)
+http://tux-vod.dynu.com/peliculas/720/dantes%20inferno.mkv
+#EXTINF:-1,Gasparin (1995)
+http://tux-vod.dynu.com/peliculas/720/casper.mkv
+#EXTINF:-1,Sector 9 (2009)
+http://tux-vod.dynu.com/peliculas/720/distrit%209.mkv
+#EXTINF:-1,Van Helsing: el cazador de monstruos (2004)
+http://tux-vod.dynu.com/peliculas/720/van%20helsing.mkv
+#EXTINF:-1,Naufrago (2000)
+http://tux-vod.dynu.com/peliculas/720/cast%20away.mkv
+#EXTINF:-1,Prometheus (2012)
+http://tux-vod.dynu.com/peliculas/720/prometheus.mkv
+#EXTINF:-1,Looper: asesinos del futuro (2012)
+http://tux-vod.dynu.com/peliculas/720/looper.mkv
+#EXTINF:-1,Que pasó ayer 2 (2011)
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20II.mkv
+#EXTINF:-1,Que pasó ayer 3 (2013)
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20III.mkv
+#EXTINF:-1,Poder sin límites (2012)
+http://tux-vod.dynu.com/peliculas/720/chronicle.mkv
+#EXTINF:-1,Déjame entrar (2010)
+http://tux-vod.dynu.com/peliculas/720/dejame%20entrar.mkv
+#EXTINF:-1,Silent Hill (2006)
+http://tux-vod.dynu.com/peliculas/720/silent%20hill.mkv
+#EXTINF:-1,Silent Hill: Revelation (2012)
+http://tux-vod.dynu.com/peliculas/720/silent%20hill%20revelation.mkv
+#EXTINF:-1,Agente Salt (2010)
+http://tux-vod.dynu.com/peliculas/720/salt.mkv
+#EXTINF:-1,Click (2006)
+http://tux-vod.dynu.com/peliculas/720/click.mkv
+#EXTINF:-1,Apocalypto (2006)
+http://tux-vod.dynu.com/peliculas/720/apocalypto.mkv
+#EXTINF:-1,Ralph: el demoledor (2012)
+http://tux-vod.dynu.com/peliculas/720/wreck-it%20ralph.mkv
+#EXTINF:-1,La enfermera (2013)
+http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!362&authkey=!AKd5B1OGJmoesps
+#EXTINF:-1,Rudderless (2014)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212168&authkey=APe1VuX1bMVu8Mk
+#EXTINF:-1,Malefica (2014)
+http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212783&authkey=AHbwNS3hpofEHEQ
+#EXTINF:-1,Volver al Futuro 1 (1985)
+http://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:-1,Volver al Futuro 3 (1990)
+http://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1,La Fuerza De La Ilusion (1992)
+http://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1,Nosotros los Nobles (2013)
+http://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1,Redada Asesina (2011)
+http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1,Prometeus (2012)
+http://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
