@@ -27,7 +27,7 @@ http://187.49.191.6:8080/play/a02p
 https://mediacp.us:8081/23tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/210de2_6ad3fe5cb85b433d87d9dcf8b83847f4~mv2.png",BTV
 https://cloud.streamingconnect.tv:455/btv/btv.m3u8
-#EXTINF:-1 tvg-logo="https://hosannavision.com/sites/default/files/logo-hosanna-vision_0_8.png",HOSANA VISION
+#EXTINF:-1 tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png",HOSANA VISION
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348648017906327552/cNUuH8QV.jpg",MEDCOM GO
 https://mdstrm.com/live-stream-playlist/5e60f5588a57af075650c315.m3u8
