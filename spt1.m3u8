@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=3658871,AVERAGE-BANDWIDTH=3326247,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="https://delivery.cdn.rcs.net.ar/mnp/ae_hls/audio_4/playlist.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=3658871,AVERAGE-BANDWIDTH=3326247,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
 https://delivery.cdn.rcs.net.ar/mnp/ae_hls/track_3_6000/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/ae_hls/audio_4/playlist.m3u8
